@@ -67,8 +67,8 @@ def write_html_file(content, output_file):
 
 # Main function to load JSON and generate HTML
 def main():
-    json_file = 'wfrp_rules_ref.json'  # Path to your JSON file
-    output_file = 'index.html'         # Name of the HTML output file
+    json_file = 'output_items.json'  # Path to your JSON file
+    output_file = 'core.html'         # Name of the HTML output file
     
     json_data = load_json(json_file)
     html_content = generate_html(json_data)
