@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" width="210mm" height="297mm" viewBox="0 0 210 297" version="1.1" id="svg1" inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)" sodipodi:docname="card_template.svg" xml:space="preserve">
+  <sodipodi:namedview id="namedview1" pagecolor="#ffffff" bordercolor="#000000" borderopacity="0.25" inkscape:showpageshadow="2" inkscape:pageopacity="0.0" inkscape:pagecheckerboard="0" inkscape:deskcolor="#d1d1d1" inkscape:document-units="mm" inkscape:zoom="1.0129245" inkscape:cx="390.45358" inkscape:cy="580.49736" inkscape:window-width="1920" inkscape:window-height="1009" inkscape:window-x="-8" inkscape:window-y="-8" inkscape:window-maximized="1" inkscape:current-layer="layer1" showguides="true" inkscape:rotation="90"/>
+  <defs id="defs1">
+    <rect x="30.604452" y="1177.7778" width="332.70001" height="161.90742" id="rect19"/>
+    <rect x="17.770327" y="1092.8751" width="219.16737" height="67.132347" id="rect15"/>
+    <filter style="color-interpolation-filters:sRGB;" inkscape:label="Blur" id="edgeBlur" x="-0.08" y="-0.08" width="1.16" height="1.16">
+      <feGaussianBlur stdDeviation="2 2" result="blur" id="feGaussianBlur1"/>
+    </filter>
+    <filter style="color-interpolation-filters:sRGB;" inkscape:label="Blur" id="filter2" x="-0.012277448" y="-0.012277448" width="1.0245549" height="1.0245549">
+      <feGaussianBlur stdDeviation="0.30693619" result="blur" id="feGaussianBlur2"/>
+    </filter>
+    <filter style="color-interpolation-filters:sRGB;" inkscape:label="Blur" id="filter3" x="-0.0014712645" y="-0.0014712645" width="1.0029425" height="1.0029425">
+      <feGaussianBlur stdDeviation="0.036781611" result="blur" id="feGaussianBlur3"/>
+    </filter>
+    <filter style="color-interpolation-filters:sRGB;" inkscape:label="Blur" id="filter4" x="-0.0014712645" y="-0.0014712645" width="1.0029425" height="1.0029425">
+      <feGaussianBlur stdDeviation="0.036781611" result="blur" id="feGaussianBlur4"/>
+    </filter>
+    <filter style="color-interpolation-filters:sRGB;" inkscape:label="Blur" id="filter5" x="-0.0014712645" y="-0.0014712645" width="1.0029425" height="1.0029425">
+      <feGaussianBlur stdDeviation="0.036781611" result="blur" id="feGaussianBlur5"/>
+    </filter>
+    <filter style="color-interpolation-filters:sRGB;" inkscape:label="Blur" id="filter6" x="-0.0014712645" y="-0.0014712645" width="1.0029425" height="1.0029425">
+      <feGaussianBlur stdDeviation="0.036781611" result="blur" id="feGaussianBlur6"/>
+    </filter>
+    <filter style="color-interpolation-filters:sRGB;" inkscape:label="Blur" id="filter7" x="-0.0014712645" y="-0.0014712645" width="1.0029425" height="1.0029425">
+      <feGaussianBlur stdDeviation="0.036781611" result="blur" id="feGaussianBlur7"/>
+    </filter>
+    <filter style="color-interpolation-filters:sRGB;" inkscape:label="Blur" id="filter8" x="-0.0014712645" y="-0.0014712645" width="1.0029425" height="1.0029425">
+      <feGaussianBlur stdDeviation="0.036781611" result="blur" id="feGaussianBlur8"/>
+    </filter>
+    <filter style="color-interpolation-filters:sRGB" inkscape:label="Blur" id="filter2-9" x="-0.0014712645" y="-0.0014712645" width="1.0029425" height="1.0029425">
+      <feGaussianBlur stdDeviation="0.036781611" result="blur" id="feGaussianBlur2-8"/>
+    </filter>
+  </defs>
+  <g inkscape:label="Layer 1" inkscape:groupmode="layer" id="layer1">
+    <rect style="fill:#ffffff;stroke-width:0.264583" id="rect2" width="105" height="70" x="0" y="8.5"/>
+    <rect style="fill:#ffffff;stroke-width:0.264583" id="rect3" width="105" height="70" x="105" y="8.5"/>
+    <rect style="fill:#ffffff;stroke-width:0.264583" id="rect4" width="105" height="70" x="1.110223e-16" y="148.5"/>
+    <rect style="fill:#ffffff;stroke-width:0.264583" id="rect5" width="105" height="70" x="105" y="148.5"/>
+    <rect style="fill:#ffffff;stroke-width:0.264583" id="rect6" width="105" height="70" x="1.110223e-16" y="78.5"/>
+    <rect style="fill:#ffffff;stroke-width:0.264583" id="rect7" width="105" height="70" x="105" y="78.5"/>
+    <rect style="fill:#ffffff;stroke-width:0.264583" id="rect8" width="105" height="70" x="0" y="218.5"/>
+    <rect style="fill:#ffffff;stroke-width:0.264583" id="rect9" width="105" height="70" x="105" y="218.5"/>
+    <text xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Caslon Antique';-inkscape-font-specification:'Caslon Antique';fill:#1a1a1a;stroke-width:0.264583" x="-71.040138" y="73.426834" id="card_name_1" transform="rotate(-90)">
+      <tspan x="-71.040138" dy="0em">Haldred “Hal”</tspan>
+      <tspan x="-71.040138" dy="1.2em">Sturmsen</tspan>
+    </text>
+    <text xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Caslon Antique';-inkscape-font-specification:'Caslon Antique';fill:#1a1a1a;stroke-width:0.264583" x="-71.040138" y="178.42683" id="card_name_2" transform="rotate(-90)">
+      <tspan x="-71.040138" dy="0em">Lothar</tspan>
+      <tspan x="-71.040138" dy="1.2em">Hagen</tspan>
+    </text>
+    <text xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Caslon Antique';-inkscape-font-specification:'Caslon Antique';fill:#1a1a1a;stroke-width:0.264583" x="-211.04013" y="73.426834" id="card_name_5" transform="rotate(-90)">
+      <tspan x="-211.04013" dy="0em">Emaunelle</tspan>
+      <tspan x="-211.04013" dy="1.2em">Nacht</tspan>
+    </text>
+    <text xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93897px;font-family:'Caslon Antique';-inkscape-font-specification:'Caslon Antique';fill:#1a1a1a;stroke-width:0.264587" x="-211.04353" y="178.42407" id="card_name_6" transform="matrix(0,-0.9999839,1.0000161,0,0,0)">
+      <tspan x="-211.04353" dy="0em">Francois</tspan>
+      <tspan x="-211.04353" dy="1.2em">Beauharnais</tspan>
+    </text>
+    <text xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Caslon Antique';-inkscape-font-specification:'Caslon Antique';fill:#1a1a1a;stroke-width:0.264583" x="-141.04013" y="73.426834" id="card_name_3" transform="rotate(-90)">
+      <tspan x="-141.04013" dy="0em">Elena "Lena"</tspan>
+      <tspan x="-141.04013" dy="1.2em">Kurtz</tspan>
+    </text>
+    <text xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Caslon Antique';-inkscape-font-specification:'Caslon Antique';fill:#1a1a1a;stroke-width:0.264583" x="-281.04013" y="73.426834" id="card_name_7" transform="rotate(-90)">
+      <tspan x="-281.04013" dy="0em">Maria-Ulrike von Liebwitz of</tspan>
+      <tspan x="-281.04013" dy="1.2em">Ambosstein</tspan>
+    </text>
+    <text xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Caslon Antique';-inkscape-font-specification:'Caslon Antique';fill:#1a1a1a;stroke-width:0.264583" x="-281.04013" y="178.42683" id="card_name_8" transform="rotate(-90)">
+      <tspan x="-281.04013" dy="0em">Bruno</tspan>
+      <tspan x="-281.04013" dy="1.2em">Franke</tspan>
+    </text>
+    <image id="card_image_1" xlink:href="images\haldred-sturmsen.png" x="5.0" y="13.5" width="60" height="60" transform="rotate(-90, 35.0, 43.5)" preserveAspectRatio="xMidYMid slice"/>
+    <image width="65" height="65" preserveAspectRatio="none" xlink:href="border.png" id="frame_1" x="2.5" y="11" inkscape:svg-dpi="1"/>
+    <image id="card_image_2" xlink:href="images\lothar-hagen.png" x="110.0" y="13.5" width="60" height="60" transform="rotate(-90, 140.0, 43.5)" preserveAspectRatio="xMidYMid slice"/>
+    <image width="65" height="65" preserveAspectRatio="none" xlink:href="border.png" id="frame_2" x="107.5" y="11" inkscape:svg-dpi="1"/>
+    <image width="65" height="65" preserveAspectRatio="none" xlink:href="border.png" id="image9" x="2.5" y="81" inkscape:svg-dpi="1"/>
+    <image id="card_image_4" xlink:href="images\general-jendrick-von-dabernick.png" x="110.00002" y="83.5" width="60" height="60" transform="rotate(-90, 140.00002, 113.5)" preserveAspectRatio="xMidYMid slice"/>
+    <image width="65" height="65" preserveAspectRatio="none" xlink:href="border.png" id="frame_4" x="107.5" y="81" inkscape:svg-dpi="1"/>
+    <image id="card_image_3" xlink:href="images\elena-kurtz.png" x="5.0" y="83.5" width="60" height="60" transform="rotate(-90, 35.0, 113.5)" preserveAspectRatio="xMidYMid slice"/>
+    <image width="65" height="65" preserveAspectRatio="none" xlink:href="border.png" id="frame_3" x="2.5" y="81" inkscape:svg-dpi="1"/>
+    <image id="card_image_6" xlink:href="images\francois-beauharnais.png" x="110.00001" y="153.5" width="60" height="60" transform="rotate(-90, 140.00001, 183.5)" preserveAspectRatio="xMidYMid slice"/>
+    <image width="65" height="65" preserveAspectRatio="none" xlink:href="border.png" id="frame_6" x="107.5" y="151" inkscape:svg-dpi="1"/>
+    <image id="card_image_5" xlink:href="images\emanuelle-nacht.png" x="5.0" y="153.5" width="60" height="60" transform="rotate(-90, 35.0, 183.5)" preserveAspectRatio="xMidYMid slice"/>
+    <image width="65" height="65" preserveAspectRatio="none" xlink:href="border.png" id="frame_5" x="2.5" y="151" inkscape:svg-dpi="1"/>
+    <image id="card_image_8" xlink:href="images\bruno-franke.png" x="110.00002" y="223.5" width="60" height="60" transform="rotate(-90, 140.00002, 253.5)" preserveAspectRatio="xMidYMid slice"/>
+    <image width="65" height="65" preserveAspectRatio="none" xlink:href="border.png" id="frame_8" x="107.5" y="221" inkscape:svg-dpi="1"/>
+    <image id="card_image_7" xlink:href="images\maria-ulrike-von-liebwitz-of-ambosstein.png" x="5.0" y="223.5" width="60" height="60" transform="rotate(-90, 35.0, 253.5)" preserveAspectRatio="xMidYMid slice"/>
+    <image width="65" height="65" preserveAspectRatio="none" xlink:href="border.png" id="frame_7" x="2.5" y="221" inkscape:svg-dpi="1"/>
+    <rect style="fill:#4c4c4c;fill-opacity:0;stroke-width:0.264583" id="rect22" width="74.705299" height="46.2337" x="18.545723" y="312.14279"/>
+    <rect style="fill-opacity:0;stroke:#00ffff;stroke-width:0.264583" id="rect24" width="45.188873" height="19.329344" x="62.428558" y="311.88156"/>
+    <text xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93897px;font-family:'Caslon Antique';-inkscape-font-specification:'Caslon Antique';fill:#1a1a1a;stroke-width:0.264587" x="-141.0424" y="178.42407" id="card_name_4" transform="matrix(0,-0.9999839,1.0000161,0,0,0)">
+      <tspan x="-141.0424" dy="0em">General Jendrick von</tspan>
+      <tspan x="-141.0424" dy="1.2em">Dabernick</tspan>
+    </text>
+  </g>
+</svg>

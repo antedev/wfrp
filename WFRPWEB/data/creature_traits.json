@@ -1,0 +1,538 @@
+[
+    {
+        "Name": "Absorb",
+        "Description": "At the end of round if the creature has a higher advantage than opponents, it absorbs one enemy of smaller or similar size. Victim gains Creature's S Bonus Entangled conditions and loses the same number of wounds at the end of each Round (not reduced by TB or Armour) which heals the Creature by the same amount. Victim may try to escape as if it was a Grapple (See CRB page 163)."
+    },
+    {
+        "Name": "Afraid (Target)",
+        "Description": "Creature gains Fear (0) (see CRB page 190) to the target."
+    },
+    {
+        "Name": "Amphibious",
+        "Description": "Creature adds Ag Bonus to SL of all swim tests and moves at full Movement through water."
+    },
+    {
+        "Name": "Amorphous",
+        "Description": "Creature halves any wounds suffered other than Fire, Cold of Magic and ignores Critical Wounds. Creature only dies if reduced to 0 wounds by fire, cold or magic, otherwise falls dormant for 1D10 Rounds then regenerates +1 wound."
+    },
+    {
+        "Name": "Analgesic Saliva",
+        "Description": "Creature may attach to sleeping victims undected. Effect wears of 10-T Bonus after the creature detaches."
+    },
+    {
+        "Name": "Animal Telepathy",
+        "Description": "Creature may communicate silently with its spirit-bonded spellcaster."
+    },
+    {
+        "Name": "Anticoagulant Saliva",
+        "Description": "Victim of Creature's bite gain 1 Bleeding condition."
+    },
+    {
+        "Name": "Aquatic",
+        "Description": "Creature can breathe and move at full movement under water. It cannot move on land."
+    },
+    {
+        "Name": "Arboreal",
+        "Description": "When in woodlands, creature adds Ag Bonus to SL of all Climb and Stealth tests."
+    },
+    {
+        "Name": "Animosity (Target)",
+        "Description": "Creature dislikes the target (see Animosity page 190 of CRB)."
+    },
+    {
+        "Name": "Armour (Rating)",
+        "Description": "Creature has Armour rating on all locations."
+    },
+    {
+        "Name": "Attach and Feed",
+        "Description": "Creature may become attach to victim after a successful Bite attack, causing a loss of 1 wound every round. Victims reduced to 0 wounds gains the unconscious condition. Creature will free itself after eating wounds equal to its TB, can be removed with and opposed S test (causing 1 wound to victim) or exposed to anything it fears."
+    },
+    {
+        "Name": "Bale Eye",
+        "Description": "Creature gains the Second Sight talent and benefits of +2 SL for test skills using it. Creature gains +1 SL for Language (Magick) and Channeling Tests."
+    },
+    {
+        "Name": "Balefire Brazier",
+        "Description": "All Lore (Magick) checks made within 8 yards of the creature suffer a -20 penalty."
+    },
+    {
+        "Name": "Belligerent",
+        "Description": "Creature is immune to psychology as long as it has more advantages than opponent."
+    },
+    {
+        "Name": "Bestial",
+        "Description": "Creature gains Broken condition if striked by Fire or targeted by gunpowder weapons. It uses only the Dodge skill for defence. If it loses more than half its wounds it tries to flee except if cornered, protecting its young or if it has the Territorial trait. If so it enters Frenzy (see CRB page 190)."
+    },
+    {
+        "Name": "Big",
+        "Description": "Creature receives +10 S and T, but also +5 Ag."
+    },
+    {
+        "Name": "Bite (Rating)",
+        "Description": "Creature may spend 1 advantage to make a free bite attack. Damage equals rating which already includes the creature's Strength Bonus."
+    },
+    {
+        "Name": "Blessed (Various)",
+        "Description": "Creature can enact blessing of the relevant deity."
+    },
+    {
+        "Name": "Blighed (Type)",
+        "Description": "Creature harbours the disease listed. If touched, victim must test for contraction but test is 2 steps more difficult and Incubation is changed to 'Instan'."
+    },
+    {
+        "Name": "Bounce",
+        "Description": "Creature doubles its movement when charging or running and may ignore terrain and characters as it leaps over them"
+    },
+    {
+        "Name": "Breath Rating (Type)",
+        "Description": "Creature may use 2 advantages to activate its breath as a free attack to 1 target within T Bonus yards. See CRB page 338 for details."
+    },
+    {
+        "Name": "Breath Rating (Warpfire)",
+        "Description": "Work as above. See Death on the Reik Companion page 21 for details."
+    },
+    {
+        "Name": "Brute",
+        "Description": "Creatures receive -1 Movement, -10 Ag, +10 S and +10 T."
+    },
+    {
+        "Name": "Burrow (Rating)",
+        "Description": "As its movement, Creature can burrow up to its rating in yards. While burrowing, it ignores all intervening terrain, obstacles or characters. At the end of its move it decides whether it will emerge or if it is still burrowing and can use this movement to charge. If it starts the turn burrowing it must chose to borrow for its move. When targeting a burrowing creature, measure horizontal distance as normal, then increase range difficulty by 2 steps."
+    },
+    {
+        "Name": "Capricious",
+        "Description": "When making a Fel test dealing with the creature, roll 1d10. If rolling 1"
+    },
+    {
+        "Name": "Chameleon",
+        "Description": "Perception tests to spot the creature suffers from -4 SL, reduced to -2 if Creature is moving. Test for shooting at the creature suffer from -2 SL."
+    },
+    {
+        "Name": "Champion",
+        "Description": "Creature may cause damage is if it was the attacker when successfully defending in melee combat. "
+    },
+    {
+        "Name": "Chill Grasp ",
+        "Description": "Creature may use 2 advantages and its action to make a special melee attack. If it wins target loses 1d10+SL wounds not reduced by T bonus or Armour. Attack counts as Magical."
+    },
+    {
+        "Name": "Clever",
+        "Description": "Creature gains +20 Int and +10 I."
+    },
+    {
+        "Name": "Cold-Blooded",
+        "Description": "Creature may reverse all failed WP tests."
+    },
+    {
+        "Name": "Constrictor",
+        "Description": "Any successful roll to hit gives target an Entangled condition and it may enter a grapple if it wishes (see CRB page 163)."
+    },
+    {
+        "Name": "Construct",
+        "Description": "Creature is a mindless construct and has not Int, Fel or WP characteristics and may not test them. If it has no wizard controlling it or the Territorial trait it meanders mindlessly. Creature uses SB instead of WBP when necessary for calculating its wounds. All its attacks count as Magical."
+    },
+    {
+        "Name": "Corrosive Blood",
+        "Description": "Everytime the creature is wounded, engaged or adjacent creatures take 1d10 wounds modifed by TB and Armour, to a minimum of 1."
+    },
+    {
+        "Name": "Corruption (Strength)",
+        "Description": "Creature is a Corrupting Influence (See CRB page 182)"
+    },
+    {
+        "Name": "Creeping",
+        "Description": "Creature cannot run."
+    },
+    {
+        "Name": "Cunning",
+        "Description": "Creature gains +10 Fel, +10 Int and +10 I."
+    },
+    {
+        "Name": "Dark Vision",
+        "Description": "Creature can see in the dark as daylight."
+    },
+    {
+        "Name": "Daemonic (Target)",
+        "Description": "All creature's attacks are Magical. Roll 1d10 after the creature receives a blow, if it rolls the Target number of higher it ignores the damage (critical included). If the creature is reduced to 0 wounds it is removed from play."
+    },
+    {
+        "Name": "Die Hard",
+        "Description": "All critical wounds not resulted in death may be healed. If the creature dies, it may attempt a Challenging (0+) Endurance test for TB rounds after death. If it succeeds with at least a SL of 6, the creature comes back to life with 1 wound."
+    },
+    {
+        "Name": "Disease (Type)",
+        "Description": "The creature carries the disease listed. Others will have to test as appropriate for contraction (see CRB page 186)."
+    },
+    {
+        "Name": "Distracting",
+        "Description": "All living targets within TB yards of the creature suffer a -20 penalty to all tests."
+    },
+    {
+        "Name": "Easily Confused",
+        "Description": "Creature must make an easy (+40) Intelligence test whenever their immediate circumstances undergo a change. If failed, it receives a Stunned condition. it may retake the same test at the start of every following turn to remove the condition."
+    },
+    {
+        "Name": "Elite",
+        "Description": "Creature gains +20 to WS, BS and WP."
+    },
+    {
+        "Name": "Engulf",
+        "Description": "If of sufficient size, the Creature may inflict one Entangled condition with a force equal to its strength after successfully attacking a target. At the beginning of each round, the victim gains one more Entangled condition and loses 1 wound."
+    },
+    {
+        "Name": "Ethereal",
+        "Description": "Creature may only be harmed by Magical attacks and can pass through solid objects."
+    },
+    {
+        "Name": "Fast",
+        "Description": "Creature gains +1 Movement and +10 Ag."
+    },
+    {
+        "Name": "Fear (Rating)",
+        "Description": "Creature causes Fear equal to its rating (See CRB page 190)."
+    },
+    {
+        "Name": "Flammable",
+        "Description": "Any test the creature makes to avoid gaining an Ablaze condition suffer from a -20 penalty. Damages received by the Ablaze condition are doubled."
+    },
+    {
+        "Name": "Fleshthief",
+        "Description": "Creature may wear the flesh of any Human it kills and impersonate it. See details page 148 of Enemy in Shadows."
+    },
+    {
+        "Name": "Flight (Rating)",
+        "Description": "Creature can fly up to Rating yards as its move and can use this move to charge. While it flies, all its BS test suffer from a -20 penalty. When targeting the Creature when it flies, mesure horizontal distance as normal, then increase range by 1 step."
+    },
+    {
+        "Name": "Font of Flame",
+        "Description": "If the Creature starts its round without enough advantages to use its breath attack, roll 1d10. On a roll of 8 or more, it may use the Breath attack anyway."
+    },
+    {
+        "Name": "Formless Horror",
+        "Description": "Once per round, the Changeling may change shapeshift into the exact copy of another creature, gains all of its traits, and may use its Characteristics instead of its own."
+    },
+    {
+        "Name": "Frenzy",
+        "Description": "Creature can enter Frenzy (see CRB page 190)."
+    },
+    {
+        "Name": "Fury",
+        "Description": "Creature may spend all of its advantages (minimum of 1) to become subject to Hatred towards close combat opponents. If it has at least 3 advantages, it may become subject fo Frenzy instead."
+    },
+    {
+        "Name": "Ghostly Owl",
+        "Description": "Creature may spend all of its advantages (minimum of 2) to make a free attack. All living creatures within creature's initiative yards gain 3 Deafened conditions and suffer 1d10 wounds ignoring TB and Armor. Victims must also pass an Average (+20) Endurance test or gain a Broken condition."
+    },
+    {
+        "Name": "Grim (Rating)",
+        "Description": "At the beginning of the creature's turn, it generates its Grim Rating in advantages for the Adversary Advantage Pool. This trait is not active if the creature has an Entangled, Surprised or Unconscious condition."
+    },
+    {
+        "Name": "Hallucinogen",
+        "Description": "Living targets within 2 yards of the creature must pass an Average (+20) Willpower test of they gain one Stunned condition for each level of failure."
+    },
+    {
+        "Name": "Hardy",
+        "Description": "Creature increases its wounds by TB."
+    },
+    {
+        "Name": "Hatred (Target)",
+        "Description": "Creature hates the Target. You are consumed with Hatred for the Target, which is normally a group of people or creatures, such as 'Hochlanders', 'Bog Octopuses', or 'Slavers'. You will never socially interact with someone or something you hate in this manner. On encountering the object of your Hatred, you must attempt a Psychology Test. If failed, you are subject to Hatred. At the end of every subsequent Round, you may attempt another Psychology Test to bring the Hatred to an end. If you do or not, the effects of Hatred naturally come to an end when all members of the specified group in your line of sight are dead or gone, or you gain the Unconscious condition. While subject to Hatred, you must immediately attempt to destroy the hated group by the fastest and most deadly means possible. You gain a bonus of +1 SL on all combat Tests against the specified group, and are immune to Fear and Intimidate (but not Terror) caused by your hated foe."
+    },
+    {
+        "Name": "Horns Rating (Feature)",
+        "Description": "When the creature charges, it may make a free attack using its horns' rating to calculate damage (SB already included)."
+    },
+    {
+        "Name": "Hungry",
+        "Description": "When the creature kills or incapacitates a living opponent, it must passes an Average (+20) Willpower test or loses its next action or move feasting on its prey."
+    },
+    {
+        "Name": "Immunity (Type)",
+        "Description": "Creature is immuned to the type of damage (criticals included)."
+    },
+    {
+        "Name": "Immunity to psychology",
+        "Description": "Creature ignores psychology rules (see CRB page 190)."
+    },
+    {
+        "Name": "Incorporeal",
+        "Description": "The Creature is unable to manifest itself and cannot interact to living creatures around him. It can only be spotted by magical aware persons who can sense Dhar or Shyish. The Creature may strike with Paralysing Chill if it succeeds a WP test."
+    },
+    {
+        "Name": "Infected",
+        "Description": "When creature inflict wounds, victim must make an Easy (+40) Endurance test or contract a Festering Wound (see CRB page 187)."
+    },
+    {
+        "Name": "Infestation",
+        "Description": "All opponents suffer a -10 penalty to hit the creature in melee."
+    },
+    {
+        "Name": "Invisibility",
+        "Description": "The Creature may become fully translucent once per day. Perception tests to notice it suffers from a -30 penalty. When hiding it can only be spotted by characters with the Magical Sense talent. Insibility lasts Creature's WP hours and cannot be deactivated prematurely."
+    },
+    {
+        "Name": "Leader",
+        "Description": "Creature gains +10 to Fel and WP. Cannot be taken by creatures with the Bestial trait."
+    },
+    {
+        "Name": "Magical",
+        "Description": "Creature's attacks count as magical."
+    },
+    {
+        "Name": "Magic Resistance (Rating)",
+        "Description": "The SL of any spell targeting the creature is reduced by the rating of this trait."
+    },
+    {
+        "Name": "Marine Creature",
+        "Description": "Creature moves at full M in water. On land its M is reduced to 1, all test it makes suffer from -2 SL and it suffers from suffocation (see CRB page 181)."
+    },
+    {
+        "Name": "Mark of Khorne",
+        "Description": "Creature gains Frenzy, Etiquette (Followers of Khorne) and Animosity (Followers of Slaanesh). Creature may not learn the language (Magick) Skill except for dispelling. It may also purchase the following talents as if they were career advances ; Berserk Charge, Combat Aware, Combat Reflexes, Furious Assault, Implacable, Magic Resistance, Resistance (Magic), Resolute, Strike Mighty Blow and Warrior Born."
+    },
+    {
+        "Name": "Mark of Nurgle",
+        "Description": "Creature gains +10 T, Etiquette (Followers of Nurgle) and Animosity (Followers of Tzeentch). It may also purchase the following talents as if they were career advances:  Frightening, Hardy, Implacable, Iron Jaw, Menacing, Resistance (Poison), Resistance (Disease), Robust, Tenacious and Very Resilient."
+    },
+    {
+        "Name": "Mark of Tzeentch",
+        "Description": "Creature gains 1d10/3 mutations (rounded up, alternating between mental and physical, rolled on the tzeentch mutation table in Enemy in Shadows companion page 66), Etiquette (Followers of Tzeentch) and Animosity (Followers of Nurgle). It may also purchase the following talents as if they were career advances Aethyric Attunement, Arcane Magic (Any), Chaos Magic (Tzeentch), Fast Hand, Instinctive Diction, Magical Sense, Petty Magic, Second Sight, War Wizard and Witch!."
+    },
+    {
+        "Name": "Marks of the Old Ones",
+        "Description": "Apply one of the benefits of the Marks as seen in Lustria page 151."
+    },
+    {
+        "Name": "Mental Corruption",
+        "Description": "Roll on mental corruption table page 185 in CRB for the creature."
+    },
+    {
+        "Name": "Messenger",
+        "Description": "Creature can deliver messages up to its Int score in miles."
+    },
+    {
+        "Name": "Miracles (Various)",
+        "Description": "The creature can enact miracles of the relevant deity."
+    },
+    {
+        "Name": "Mindless",
+        "Description": "Creature has no I, Int, WP and Fel characteristics and may not test them. Use SB instead of WPB to calculate wounds, Creature always act the last during a round."
+    },
+    {
+        "Name": "Mutation",
+        "Description": "Roll on physical corruption table page 184 in CRB for the creature."
+    },
+    {
+        "Name": "Night Vision",
+        "Description": "Creature can see up to 20 yards in darkness as long as there is at least a faint source of light. Illumination distance of any light source is also extended by 20 yards."
+    },
+    {
+        "Name": "Null",
+        "Description": "The Creature may not cast spell and may not be targeted by spells. Spells within 30 ft of the creature have their CN doubled or increased to 4; whichever is worse."
+    },
+    {
+        "Name": "Painless",
+        "Description": "Creature ignores all non imputations penalties from Critical Wounds. Conditions are applied as normal."
+    },
+    {
+        "Name": "Petrifying Gaze",
+        "Description": "For its action, the creature may spend all its advantages to target an opponent with an opposed Ballistic Skill/Initiative test, adding 1 SL per advantage spent. The opponent gains 1 Stunned condition per 2 SL by which it wins. If the creature wins by at least 6 SL, the victim is permanently turned to stone. Spellcaster may oppose the gaze with Language (Magick) instead of Initiative."
+    },
+    {
+        "Name": "Prejudice (Target)",
+        "Description": "Creature is prejudiced towards targetou really dislike the Target, which is normally a group of people or creatures such as 'Ostlanders', 'Elves', or 'Wizards'. You must attempt a Psychology Test whenever you encounter the group against which you are prejudiced. If you pass, you may frown a lot, but will otherwise act normally, only suffering a penalty of -10 to all Fellowship Tests towards that group. Should you fail you are subject to Prejudice. At the end of every subsequent Round, you may attempt another Psychology test to bring the Prejudice to anend. If you do not, the effects of Prejudice naturally come to an end when all members of the specified group in your line of sightare gone, or you gain the Stunned or Unconscious Condition, or you become subject to another Psychology. When subject to Prejudice, you must immediately insult the target of your prejudice. Loudly."
+    },
+    {
+        "Name": "Piercing Gaze",
+        "Description": "If the creature spend one of its action studying his opponent in combat, it ignores its TB and Armor for its next attack."
+    },
+    {
+        "Name": "Random Caster",
+        "Description": "Caster's arcane lore is selected randomly, see Table in Winds of Magic page 214 or in Empire in Ruins Companion page 18."
+    },
+    {
+        "Name": "Ranged Rating (Range)",
+        "Description": "Creature may make ranged attacks with damage equal to Rating up to range in yards."
+    },
+    {
+        "Name": "Rear",
+        "Description": "Instead of moving, the creature may make a Stomp attack if it's larger than the opponent."
+    },
+    {
+        "Name": "Reducible",
+        "Description": "Each time the creature's wounds are reduced to a number equal or less than a smaller size category, its size and relevant statistics are reduced."
+    },
+    {
+        "Name": "Regenerate",
+        "Description": "At the start of each round, if it has more than 0 Wounds, the creature regenerates 1d10 Wounds. If it has 0 Wounds remaining, it regenerate a single Wound on a 1d10 roll of 8+. If the creature ever roll a 10 for regenerating, it also heals from a critical wound, losing all associated penalties. Wounds and Critical Wounds caused by fire cannot be regenerated."
+    },
+    {
+        "Name": "Sensory Sharing",
+        "Description": "Spellcaster may see, hear and smell through the sense of the creature if they're spirit-bonded."
+    },
+    {
+        "Name": "Shapeshifter (Creature)",
+        "Description": "The creature can shift as will between its natural form and the denoted creature. The process takes one full round during which it cannot use any movement or action. When transformed, it keeps its mental attributes (Int, WP and Fel) but the rest of the profile changes to the creature's. If Mannslieb's full, the creature must make an average (+20) Willpower test at dusk to avoid transforming spontaneously."
+    },
+    {
+        "Name": "Size (Various)",
+        "Description": "Represent the creature's size (See CRB page 341)."
+    },
+    {
+        "Name": "Skittish",
+        "Description": "Creature receives 3 Broken conditions when scared by Magic or Loud Noises."
+    },
+    {
+        "Name": "Spellcaster (Various)",
+        "Description": "Creature can cast spells of the specified lore."
+    },
+    {
+        "Name": "Spell Syphon",
+        "Description": "Whenever an Enemy successfully casts a spell near the Creature, it may make an opposed WP with the caster. If the creature wins, roll 1d10 on the table page 214 of Winds of Magic or page 18 of Empire in Ruins Companion."
+    },
+    {
+        "Name": "Split",
+        "Description": "If the creature loses all its wounds or suffer a critical hits, it is replaced by two unwounded Blue Horrors of Tzeentch."
+    },
+    {
+        "Name": "Stationary Attacker",
+        "Description": "Creature gains the Immunity to Psychology trait. It may not take the Charge, Flee, Leap, Run or Climb actions or any other besides those associated with its attacks and traits. If an unsuspecting target moves within reach of the creature it counts as engaged and the Stationary Attacker may attack, inflicting a Suprised condition to the target. The Reach of the attack depends on the creature's size (see Lustria page 166). To spot the creature, Characters must success to a Challenging (+0) Perception test, followed by a suitable lore test to indentify it."
+    },
+    {
+        "Name": "Stealthy",
+        "Description": "Creature adds +AgB to the SL of all stealth tests."
+    },
+    {
+        "Name": "Stride",
+        "Description": "Creature's run movement is multiplied by 1.5."
+    },
+    {
+        "Name": "Stupid",
+        "Description": "If there is no nearby allies without this trait, at the beginning of its round the creature must passes an Easy (+40) Intelligence test or lose its Action and Movement for this turn."
+    },
+    {
+        "Name": "Swamp-strider",
+        "Description": "Creature suffers no movement penalty when in a swamp or bog."
+    },
+    {
+        "Name": "Swarm",
+        "Description": "Creature ignores size rules, psychology rules, and engaged rules when using its move. If the swarm successfully hits an opponent it activates the Deathblow rule even if it has not killed it (see CRB page 160). All opponent engaged with the Swarm automatically lose 1 Wound at the end of every round. The Swarm has 5 times the Wounds of the creature and gains +10 WS. Attempt to shoot at the swarm benefits from a +40 modifier."
+    },
+    {
+        "Name": "Tail Attack (Rating)",
+        "Description": "Creature may make a free attack by using 1 advantage which has damage equal to the rating (already including SB). If attack is successful, opponents with smaller size gain the Prone condition."
+    },
+    {
+        "Name": "Telepathy",
+        "Description": "The creature can communicate by telepathy, using its mind to transmit or read thoughts. A character must pass an Average (+20) Cool test to avoid its thoughts being read."
+    },
+    {
+        "Name": "# Tentacles (Rating)",
+        "Description": "Creature has a number of tentacles equal to #, each of them giving a free attack per round doing damage equal to rating (which already includes SB). When a tentacle causes damage to an opponent, it gains a Entangled condition and it initiates a grapple, resolved by tentacle's free action instead of the creature's. (see CRB page 338)"
+    },
+    {
+        "Name": "Territorial",
+        "Description": "The creature will fight to death to protect a specific area, and will not normally pursue enemies if they flee this location."
+    },
+    {
+        "Name": "Terror (Rating)",
+        "Description": "The creature causes Terror (see CRB page 191)."
+    },
+    {
+        "Name": "Trained (Broken)",
+        "Description": "Creature is trained to ignore its Bestial trait, gains 2d10 Fel."
+    },
+    {
+        "Name": "Trained (Drive)",
+        "Description": "Creature is trained to pull a coach, cart, plough, or similar vehicle."
+    },
+    {
+        "Name": "Trained (Entertain)",
+        "Description": "Creature adds a +10 bonus to appropriate Entertain, Perform or Play tests."
+    },
+    {
+        "Name": "Trained (Fetch)",
+        "Description": "Creature is trained to fetch."
+    },
+    {
+        "Name": "Trained (Guard)",
+        "Description": "Creature gains the Territorial trait to a place chosen by the tamer."
+    },
+    {
+        "Name": "Trained (Home)",
+        "Description": "The animal is trained to return home if released or lost."
+    },
+    {
+        "Name": "Trained (Magic)",
+        "Description": "Creature is trained to ignore Skittish when it comes to magic."
+    },
+    {
+        "Name": "Trained (Mount)",
+        "Description": "Creature may be used as a mount. Some belligerent beasts will only accept riders if they possess the relevant ride skill (such as Ride(Griffon))."
+    },
+    {
+        "Name": "Trained (War)",
+        "Description": "Creature gains +10 WS and ignores Skittish for loud noises."
+    },
+    {
+        "Name": "Tongue Attack Rating (Range)",
+        "Description": "Creature may make a free attack by spending 1 advantage. This is a ranged attack that does damage equal to its rating. If successful, victim gains 1 Entangled condition. If it's of smaller size than the creature it is dragged towards it and is engaged in melee. The creature may then choose to release the target, perform a free attack to it, or keep it wrapped and iniating a grapple."
+    },
+    {
+        "Name": "Tough",
+        "Description": "Creature gains +10 T and WP."
+    },
+    {
+        "Name": "Tracker",
+        "Description": "Creature adds Initiative Bonus SL to its track tests."
+    },
+    {
+        "Name": "Tzeentch's Fire",
+        "Description": "The Horror is wreathed in coruscating flame. All Horrors of the same type (Pink or Blue, but not Pink and Blue) in the vicinity pool their power. Choose one to cast 1 Tzeentch Spell during their Turn. Pink Horrors cast Pink Fire of Tzeentch and Blue Horrors cast Blue Fire of Tzeentch. Each additional creature of the same type in the vicinity adds +1 SL to a maximum of +9 SL."
+    },
+    {
+        "Name": "Undead",
+        "Description": "Creature doesn't need to breath, eat or drink. It is affected by all spells or effects affecting Undead creatures."
+    },
+    {
+        "Name": "Unstable",
+        "Description": "Whenever the creature ends a round engaged with opponents with higher advantage, it loses as many wounds as the difference between advantages."
+    },
+    {
+        "Name": "Vampiric",
+        "Description": "Whenever the creature performs a successful Bite attack on an opponent, it heals as many wounds as the victim loses. Creature may only heals itself by drinking blood."
+    },
+    {
+        "Name": "Vampiric Gaze",
+        "Description": "The Creature may uses its action to attempt an opposes Willpower/Cool Test against the target. If it wins, the target comes under the creature's control for 1+SL hours and obey its every command. Controlled characters may attempt to free themselves by attempting an average (+20) Cool test if they have been ordered to perform something they would find morally or physically repugnant. They may also spend a Resolve point to break the control."
+    },
+    {
+        "Name": "Venom (Difficulty)",
+        "Description": "Creature inflicts Poisoned condition when it wounds an opponent. If no difficulty is specified to resist the poisoned, it is assumed to be challenging. (See CRB page 169)."
+    },
+    {
+        "Name": "Vigor Mortis",
+        "Description": "Any Undead within 8 yards of the creature is no longer subject to the Unstable trait and any attempt to cast a necromancy spell in the same area benefits from a +20 bonus."
+    },
+    {
+        "Name": "Vomit",
+        "Description": "Creature may spend 3 advantages to use its vomit as a free attack to a target within TB yards. All characters within 2 yards of the target are also hit. Attack is resolved by an Opposed BS/Dodge test with an Easy (+40) difficulty for the creature and Challenging (+0) for opponents. All losing targets suffer a hit with a weapon damage of the creature's TB+4 and receive a Stunned condition. Their weapons and Armour also suffer 1 damage."
+    },
+    {
+        "Name": "Ward (Rating)",
+        "Description": "When it receives a blow, the creature rolls 1d10, if the result is equal or higher than the Rating, it is ignored (even if it's a critical)."
+    },
+    {
+        "Name": "Wallcrawler",
+        "Description": "The creature may move at full movement across any appropriate surface and automatically passes all Climb tests."
+    },
+    {
+        "Name": "Weapon (Rating)",
+        "Description": "Creature may attack in melee with damage equal to the rating (which already includes its BS)."
+    },
+    {
+        "Name": "Web (Rating)",
+        "Description": "Whenever the creature successfully hits an opponent, the victim gains 1 Entangled condition with a strength equal to the rating."
+    }
+]

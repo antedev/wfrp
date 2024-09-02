@@ -1,0 +1,2058 @@
+@Character Creation:
+@@Careers:
+Alchemist (Golden Order Wizard)%Winds of Magic.pdf#page=67
+Archer%Up in Arms.pdf#page=10
+Artillerist%Up in Arms.pdf#page=18
+Astromancer (Celestial Order Wizard)%Winds of Magic.pdf#page=92
+Badger Rider%Archives of the Empire I.pdf#page=91
+Beachcomber%Sea of Claws.pdf#page=64
+Beadle%Winds of Magic.pdf#page=36
+Camp Follower%Up in Arms.pdf#page=20
+Cartographer%Up in Arms.pdf#page=22
+Chantyman%Sea of Claws.pdf#page=66
+Combat Familiar%Winds of Magic.pdf#page=188
+Cult Magus of Tzeentch%Enemy in Shadows Companion.pdf#page=77
+Druid (Jade Order Wizard)%Winds of Magic.pdf#page=79
+Fieldwarden%Archives of the Empire I.pdf#page=89
+Freelance Knight%Up in Arms.pdf#page=31
+Ghost Strider%Archives of the Empire I.pdf#page=88
+Greatsword%Up in Arms.pdf#page=12
+Halberdier%Up in Arms.pdf#page=14
+Handgunner%Up in Arms.pdf#page=16
+Hierophant (Light Order Wizard)%Winds of Magic.pdf#page=56
+Huffer%Sea of Claws.pdf#page=68
+Interpreter%Lustria.pdf#page=194
+Ironbreaker%The Horned Rat Companion.pdf#page=81
+Karak Ranger%Archives of the Empire I.pdf#page=90
+Knight Panther%Up in Arms.pdf#page=36
+Knight of the Blazing Sun%Up in Arms.pdf#page=32
+Knight of the White Wolf%Up in Arms.pdf#page=34
+Knight of the White Wolf (short tips)%Power Behind the Throne Companion.pdf#page=47
+Light Cavalry%Up in Arms.pdf#page=44
+Magister Vigilant%Winds of Magic.pdf#page=40
+Maneater% Archives of the Empire II.pdf#page=35
+Mundane Alchemist%Winds of Magic.pdf#page=38
+Officer%Sea of Claws.pdf#page=70
+Ogre Butcher% Archives of the Empire II.pdf#page=37
+Oracle%Lustria.pdf#page=196
+Owler%Salzenmund.pdf#page=141
+Pikeman%Up in Arms.pdf#page=48
+Power Familiar%Archives of the Empire III.pdf#page=82
+Priestess of Rhya%Archives of the Empire III.pdf#page=72
+Priest of Handrich%Archives of the Empire III.pdf#page=46
+Priest of Myrmidia%Up in Arms.pdf#page=78
+Priest of Solkan%Archives of the Empire III.pdf#page=54
+Priest of Stromfels%Sea of Claws.pdf#page=90
+Pyromancer (Bright Order Wizard)%Winds of Magic.pdf#page=127
+Rhinox Herder% Archives of the Empire II.pdf#page=36
+Sailor%Sea of Claws.pdf#page=72
+Sailor-Priest of Manann%Sea of Claws.pdf#page=74
+Scryer%Winds of Magic.pdf#page=42
+Shadowmancer (Grey Order Wizard)%Winds of Magic.pdf#page=104
+Shaman (Amber Order Wizard)%Winds of Magic.pdf#page=140
+Ship’s Gunner%Sea of Claws.pdf#page=76
+Siege Specialist%Up in Arms.pdf#page=46
+Spell Familiar%Winds of Magic.pdf#page=188
+Spiriter (Amethyst Order Wizard)%Winds of Magic.pdf#page=116
+Survivalist%Lustria.pdf#page=198
+Trailblazer%Lustria.pdf#page=200
+Warrior of Tzeentch%Death on the Reik Companion.pdf#page=101
+Wolf Kin%Middenheim.pdf#page=154
+Wrecker%Sea of Claws.pdf#page=78
+@@ Species and Origins:
+Altdorfer (human or dwarf)%Archives of the Empire: Volume III page
+Cragforge and Grumsson clans Dwarf Character creation rules%Salzenmund.pdf#page=142
+Eonir Character creation optional rules%Archives of the Empire I.pdf#page=78
+Familiar Character creation rules%Winds of Magic.pdf#page=184
+Gnome character creation rules%Rough Nights and Hard Days.pdf#page=86
+Halfling Character Creation optional Rules%Archives of the Empire I.pdf#page=32
+Middenheimer and Middenlander character creation rules%Middenheim.pdf#page=148
+Nordlander Character creation rules%Middenheim.pdf#page=148, Salzenmund.pdf#page=142
+Norse character creation rules%Sea of Claws.pdf#page=56
+Norse Dwarf Character creation rules%Sea of Claws.pdf#page=41
+Ogre character creation rules% Archives of the Empire II.pdf#page=15
+Salzenmunder Character creation Rules%Salzenmund.pdf#page=142
+Skink Character Creation Rules%Lustria.pdf#page=160
+Tilean Character creation rules%Up in Arms.pdf#page=55
+@@Additional Rules:
+Alternative Skills & Talents for the Hedge Witch career %Archives of the Empire III.pdf#page=62
+Lustrian Class and Career Table%Lustria.pdf#page=192
+New Class: Seafarer%Sea of Claws.pdf#page=63
+Star Signs & character creation% Archives of the Empire II.pdf#page=39
+Determining ascendant star sign% Archives of the Empire II.pdf#page=50
+@Creature Profiles:
+@@Advancement Templates:
+Chaos Warrior Advancement Templates%The Warband of Bayl of Many Eyes.pdf#page=8
+Creature Advancement Templates%The Cluster Eye Tribe.pdf#page=8
+Druchii Corsrairs Advancement Templates -The Corsairs of Captain Flariel.pdf#page=6
+Hirelings Templates%Up in Arms.pdf#page=115
+Militia Advancement Templates%The Hahnbrandt Militia.pdf#page=8
+Skink NPCs Templates%Lustria.pdf#page=139
+Tribal Advancements Templates%Tribes and Tribulations.pdf#page=16
+Troll Templates%Tribes and Tribulations.pdf#page=88
+Undead Advancement Templates%The Night Parade.pdf#page=7
+@@ Artists and Entertainers
+Artist%The Imperial Zoo.pdf#page=122
+Dwarf Fool%Archives of the Empire III.pdf#page=94
+Dwarf Master Artist%Altdorf.pdf#page=62
+Halfling Entertainer%Enemy in Shadows Companion.pdf#page=46
+Entertainer%Altdorf.pdf#page=67, Middenheim.pdf#page=151, Enemy in Shadows.pdf#page=67
+Troubadour%Altdorf.pdf#page=59
+@@Asrai and Eonir
+Elf Witch%Altdorf.pdf#page=166
+Eonir Hunter%The Imperial Zoo.pdf#page=126
+Eonir Minstrel%Forest of Hate.pdf#page=36
+Huntsmaster%Power Behind the Throne.pdf#page=137
+Son of Asuryan%Forest of Hate.pdf#page=38
+Troubadour%Power Behind the Throne.pdf#page=118
+Wood Elf Blackmarketeer%Patrons of the Old World I.pdf#page=12
+Wood Elf Spy%Hirelings of the Old World.pdf#page=9
+@@Beastmen:
+Beastlord%Empire in Ruins.pdf#page=174
+Chaos Minotaur Lord%Empire in Ruins.pdf#page=157
+Fox-head Beastman%Empire in Ruins.pdf#page=170
+Gor%Death on the Reik.pdf#page=80, Empire in Ruins.pdf#page=175, Empire in Ruins Companion.pdf#page=84
+Harpy%Empire in Ruins.pdf#page=158
+Minotaur%Death on the Reik.pdf#page=111, Power Behind the Throne.pdf#page=67, Empire in Ruins Companion.pdf#page=84
+Pestigor%Ubersreik Adventures III.pdf#page=99
+Preyton%The Imperial Zoo.pdf#page=61
+Ungor %Starter Set Adventure Book.pdf#page=40, Ubersreik Adventures I.pdf#page=121,Empire in Ruins.pdf#page=175, Empire in Ruins Companion.pdf#page=84
+@@ Beasts:
+Amaxon Swamp Python%Lustria.pdf#page=172
+Amoebae%Enemy in Shadows.pdf#page=78, Death on the Reik Companion.pdf#page=85, The Imperial Zoo.pdf#page=45
+Amphisbaena%The Imperial Zoo.pdf#page=47
+Arachnarok Spider%The Imperial Zoo.pdf#page=13
+Arcanadon%Lustria.pdf#page=178
+Badger%Archives of the Empire III.pdf#page=76
+Bastiladon%Lustria.pdf#page=178
+Black Leviathan%Sea of Claws.pdf#page=147
+Blood Bat%Lustria.pdf#page=173
+Bloodmaggot%Lustria.pdf#page=169
+Bloodwasp%Lustria.pdf#page=169
+Blot Toad%Lustria.pdf#page=170
+Blue-Ringed Asp%Lustria.pdf#page=172
+Boar (Vorbergland Hog) %Enemy in Shadows.pdf#page=69
+Borer Snake%Lustria.pdf#page=172
+Brainfluke%Lustria.pdf#page=168
+Brood Horror%The Horned Rat Companion.pdf#page=51
+Carnivorous Snapper%Enemy in Shadows Companion.pdf#page=99
+Carnosaur%The Imperial Zoo.pdf#page=81, Lustria.pdf#page=180
+Carrion%Death on the Reik Companion.pdf#page=118, The Horned Rat Companion.pdf#page=120
+Carrion Ant%Lustria.pdf#page=169
+Cat%Death on the Reik.pdf#page=35, Archives of the Empire III.pdf#page=77,
+Chameleoleech%The Imperial Zoo.pdf#page=50
+Chaos Steed%The Warband of Bayl of Many Eyes.pdf#page=8
+Chimera%The Imperial Zoo.pdf#page=67
+Cliff Spider%The Horned Rat Companion.pdf#page=73
+Cockatrice%The Imperial Zoo.pdf#page=65
+Cold One%Lustria.pdf#page=174
+Cow (Stimmigen Dairy Cattle)%Enemy in Shadows.pdf#page=69
+Crow%Enemy in Shadows.pdf#page=21, Archives of the Empire III.pdf#page=77
+Culchan%Lustria.pdf#page=173
+Daemonic Wolf%The Horned Rat.pdf#page=52
+Daggerfish%Sea of Claws.pdf#page=141
+Demigryph mount%Up in Arms.pdf#page=109
+Destrier%Enemy in Shadows Companion.pdf#page=24, Un in Arms.pdf#page=29
+Drunken Pig%Empire in Ruins.pdf#page=81
+Dog%Enemy in Shadows Companion.pdf#page=22, Empire in Ruins Companion.pdf#page=71
+Dog (Tilean Manhound)%The Horned Rat Companion.pdf#page=95
+Dark Pegasi%The Imperial Zoo.pdf#page=57
+Drakwald Mancatcher (Giant Spider)%The Cluster Eye Tribe.pdf#page=9, The Imperial Zoo.pdf#page=13
+Draught Horse%Enemy in Shadows Companion.pdf#page=23
+Dread Maw%The Imperial Zoo.pdf#page=23
+Dread Saurian%Lustria.pdf#page=181
+Falcon%Hell Rides to Hallt.pdf#page=22
+Fen Worm%The Imperial Zoo.pdf#page=52
+Fireleech%Lustria.pdf#page=168
+Fox%Archives of the Empire III.pdf#page=77
+Gargantuan%Sea of Claws.pdf#page=143
+Giant Bats%Death on the Reik.pdf#page=89, Lustria.pdf#page=173
+Giant Leeches%Death on the Reik Companion.pdf#page=86
+Giant Rats%Death on the Reik.pdf#page=89
+Giant Rat Swarm%A Guide to Ubersreik.pdf#page=51
+Giant Wolf%Ubersreik Adventures I.pdf#page=123, Tribes and Tribulations.pdf#page=19
+Giant Spider%Tribes and Tribulations.pdf#page=19
+Goat (Booted Rottgeist)%Enemy in Shadows.pdf#page=69
+Good Dog%Empire in Ruins Companion.pdf#page=71
+Great Cat%Enemy in Shadows Companion.pdf#page=87
+Great Eagle%The Horned Rat Companion.pdf#page=73, Empire in Ruins.pdf#page=41, The Imperial Zoo.pdf#page=63
+Great Pox Rat%The Horned Rat Companion.pdf#page=50
+Great Stag%The Imperial Zoo.pdf#page=10
+Great Wolf %Death on the Reik.pdf#page=47, The Imperial Zoo.pdf#page=17
+Grey-Barbed Shark%Skeleton Crew.pdf#page=16
+Grey Mountain Hawk%The Imperial Zoo.pdf#page=63
+Griffon%The Imperial Zoo.pdf#page=21
+Guard Dog%Power Behind the Throne.pdf#page=109
+Guard Dog (Telland Pit Bull)%Enemy in Shadows.pdf#page=98
+Guard Dog (Ulzhammer Shepherd Dog)%Enemy in Shadows.pdf#page=111
+Gymmcrabs%Sea of Claws.pdf#page=141
+Hawk%Power Behind the Throne.pdf#page=110
+Heavy Draught Horse%Enemy in Shadows Companion.pdf#page=23
+Heomreth%The Imperial Zoo.pdf#page=63
+Horned One%The Imperial Zoo.pdf#page=80, Lustria.pdf#page=175
+Hound%Ubersreik Adventures III.pdf#page=28
+Huntipede%Lustria.pdf#page=169
+Hyenadon%Lustria.pdf#page=171
+Il Potente Granchio (unique Leviathan)%The Imperial Zoo.pdf#page=85
+Imperial Viper%Rough Nights and Hard Days.pdf#page=33
+Itxi Grub%Lustria.pdf#page=168
+Jaguar%Lustria.pdf#page=173
+Jetsam the Clever Jelly (unique Amoebae)%The Imperial Zoo.pdf#page=45
+Kharibdyss%Sea of Claws.pdf#page=144
+Krag-Breaker (unique Rhinox)%The Imperial Zoo.pdf#page=25
+Lashworm%Death on the Reik.pdf#page=88
+Latch-Eel%Sea of Claws.pdf#page=141
+Leviathan%The Imperial Zoo.pdf#page=85
+Light Warhorse%Enemy in Shadows Companion.pdf#page=24
+Long-Haired White Fancy Rat%The Horned Rat.pdf#page=150
+Lurkerfish%Sea of Claws.pdf#page=140
+Merwyrm%The Imperial Zoo.pdf#page=88
+Monstrous Leech%Death on the Reik.pdf#page=89
+Mountain Cat%The Horned Rat Companion.pdf#page=73
+Mournfang%Tribes and Tribulations.pdf#page=19
+Mutant Bees%Death on the Reik.pdf#page=108
+Mutated Griffon%The Horned Rat.pdf#page=106
+Nightraven Flock%The Imperial Zoo.pdf#page=59
+Ol’ Gribbleback (unique Razorgor)%The Imperial Zoo.pdf#page=19
+Orb Leviathan%Sea of Claws.pdf#page=147
+Owl%Archives of the Empire III.pdf#page=77
+Ox%Enemy in Shadows Companion.pdf#page=23
+Pallid Blindwyrm%Lustria.pdf#page=169
+Piranha Lizard%Lustria.pdf#page=171
+Plague Rat%The Horned Rat Companion.pdf#page=50
+Pliadon%Lustria.pdf#page=179
+Pony, Donkey or Mule%Enemy in Shadows Companion.pdf#page=22
+Purple Skullback Spider%Tribes and Tribulations.pdf#page=99
+Raukos (unique Great Wolf)%The Imperial Zoo.pdf#page=17
+Raven%Death on the Reik.pdf#page=63
+Razorbill%The Imperial Zoo.pdf#page=77
+Razordon%Lustria.pdf#page=175
+Razorgor%The Imperial Zoo.pdf#page=19
+Reik Eels%Death on the Reik Companion.pdf#page=86
+Rhinox% Archives of the Empire II.pdf#page=34, The Imperial Zoo.pdf#page=25
+Riding Horse%Enemy in Shadows Companion.pdf#page=23, Up in Arms.pdf#page=29
+Ripperdactyl%Lustria.pdf#page=176
+Salamander%Lustria.pdf#page=175
+Scalemane Reptilion%Lustria.pdf#page=171
+Serpents of Sotek%Lustria.pdf#page=57
+Sheep (Hugeltal Longwool)%Enemy in Shadows.pdf#page=69
+Stegadon%The Imperial Zoo.pdf#page=79, Lustria.pdf#page=177
+Stirpike%Death on the Reik Companion.pdf#page=88, The Imperial Zoo.pdf#page=36
+Stirpike (Young)%If Looks could Kill.pdf#page=8, Ubersreik Adventures I.pdf#page=12
+Stoat%Archives of the Empire III.pdf#page=78
+Snake%The Horned Rat.pdf#page=132
+Swarm of Rainbow Snakes%Empire in Ruins.pdf#page=153
+Swiftfeather Roc%Lustria.pdf#page=89
+Terradon%Lustria.pdf#page=176
+The Corpse Render of Carroburg (unique Hydra)%The Imperial Zoo.pdf#page=54
+The Drakwald Gibberbeast%Altdorf.pdf#page=105
+The Oblast Beast (unique Chimera)%The Imperial Zoo.pdf#page=67
+The River’s Shadow (Unique Great Stag)%The Imperial Zoo.pdf#page=10
+The Stirland Abomination%Altdorf.pdf#page=104
+Tiguana%Lustria.pdf#page=171
+Tregara%The Imperial Zoo.pdf#page=76
+Troglodon%Lustria.pdf#page=180
+War Boar%Tribes and Tribulations.pdf#page=19
+Warhorse%Power Behind the Throne.pdf#page=110
+War Lion of Chrace%The Imperial Zoo.pdf#page=82
+White wolf%Middenheim.pdf#page=117, Empire in Ruins Companion.pdf#page=14
+Wild Cat%The Imperial Zoo.pdf#page=82
+Wolf Rat%The Horned Rat Companion.pdf#page=50
+Wyvern%The Imperial Zoo.pdf#page=32
+Young Wyvern%The Horned Rat.pdf#page=133
+@@Citizens, Peasants and Craftsmen
+Agitator%Salzenmund.pdf#page=67, Middenheim.pdf#page=100, Empire in Ruins Companion.pdf#page=22
+Bailiff%Middenheim.pdf#page=72
+Beggar%Enemy in Shadows.pdf#page=97, Enemy in Shadows Companion.pdf#page=56
+Bounty Hunter%Enemy in Shadows.pdf#page=50, Enemy in Shadows Companion.pdf#page=44, Forest of Hate.pdf#page=34
+Burgomeister%Salzenmund.pdf#page=24, Middenheim.pdf#page=106
+Brewer%Forest of Hate.pdf#page=12
+Chef%Taverns of the Old World.pdf#page=15
+Coachman%Enemy in Shadows.pdf#page=21, Enemy in Shadows Companion.pdf#page=110
+Cook%Power Behind the Throne.pdf#page=109
+Demagogue%Empire in Ruins.pdf#page=42
+Detective%Altdorf.pdf#page=102
+Doorsman%Taverns of the Old World.pdf#page=15
+Dwarf Beggar%Enemy in Shadows.pdf#page=67
+Dwarf Master Gunsmith%Altdorf.pdf#page=149
+Dwarf Master Miner%Death on the Reik.pdf#page=53
+Dwarf Miner%Death on the Reik.pdf#page=53
+Dwarf Miner Foreman%Archives of the Empire I.pdf#page=63
+Dwarf Smith%Enemy in Shadows Companion.pdf#page=54
+Executioner%Hells Rides to Hallt.pdf#page=19
+Falconer%Hells Rides to Hallt.pdf#page=22
+Halfling Burgomeister%Altdorf.pdf#page=197
+Halfling Cook%Enemy in Shadows Companion.pdf#page=98, Power Behind the Throne.pdf#page=23
+Halfling Cook Apprentice%Archives of the Empire I.pdf#page=29
+Halfling Detective%Patrons of the Old World I.pdf#page=4, The Horned Rat Companion.pdf#page=93
+Halfling Servant%Death on the Reik.pdf#page=53
+Halfling Toll Keeper%Enemy in Shadows Companion.pdf#page=41
+Hunter%Enemy in Shadows Companion.pdf#page=86, Death on the Reik Companion.pdf#page=41, The Horned Rat.pdf#page=106
+Huntsmaster%Hirelings of the Old World.pdf#page=19
+Innkeeper%Enemy in Shadows.pdf#page=20, Enemy in Shadows.pdf#page=42, Power Behind the Throne.pdf#page=23
+Maid%Enemy in Shadows.pdf#page=22
+Mason%Hells Rides to Hallt.pdf#page=22
+Master Investigator%Altdorf.pdf#page=60
+Merchant%Altdorf.pdf#page=109, Middenheim.pdf#page=52, Enemy in Shadows.pdf#page=99, Enemy in Shadows Companion.pdf#page=60, Death on the Reik.pdf#page=139, Death on the Reik Companion.pdf#page=84, Power Behind the Throne.pdf#page=23, Power Behind the Throne.pdf#page=138, The Horned Rat.pdf#page=61
+Merchant Prince%Enemy in Shadows.pdf#page=97
+Mine Foreman%Salzenmund.pdf#page=124, The Horned Rat Companion.pdf#page=103
+Minter%Middenheim.pdf#page=89
+Pamphleteer%Altdorf.pdf#page=37
+Peasant%Death on the Reik.pdf#page=52, The Horned Rat Companion.pdf#page=71, Empire in Ruins.pdf#page=18
+Pedlar%Altdorf.pdf#page=126, Middenheim.pdf#page=152, Enemy in Shadows Companion.pdf#page=52, Power Behind the Throne.pdf#page=62
+Pit Fighter%The Imperial Zoo.pdf#page=130, Enemy in Shadows.pdf#page=66, Death on the Reik Companion.pdf#page=44, Power Behind the Throne.pdf#page=110
+Prospector%The Horned Rat Companion.pdf#page=103
+Rat Catcher%Altdorf.pdf#page=109
+Servant%Death on the Reik.pdf#page=82, Power Behind the Throne.pdf#page=109, Empire in Ruins.pdf#page=18, Taverns of the Old World.pdf#page=14
+Tavern Landlords%Taverns of the Old World.pdf#page=14
+Toll Keeper%Enemy in Shadows Companion.pdf#page=40
+Villager%Death on the Reik.pdf#page=52, Death on the Reik.pdf#page=62, Power Behind the Throne Companion.pdf#page=114
+@@Cultists, Priests and Witch Hunters
+Dwarf Inquisitor%Archives of the Empire I.pdf#page=56
+Emil Valgeir, Warrior Priest of Ulric%Power Behind the Throne.pdf#page=55
+Emil Valgeir, Ar-Ulric%Empire in Ruins.pdf#page=30
+High Priestess of Shallya%Archives of the Empire II.pdf#page=74, Salzenmund.pdf#page=54%Power Behind the Throne.pdf#page=56, Power Behind the Throne Companion.pdf#page=71
+High Priestess of Verena%Power Behind the Throne Companion.pdf#page=68
+High Priest of Manann%Salzenmund.pdf#page=78
+High Priest of Sigmar%Salzenmund.pdf#page=81
+High Priest of Ulric%Salzenmund.pdf#page=60, Power Behind the Throne.pdf#page=130
+Initiate of Taal%Empire in Ruins.pdf#page=171
+Nun%Archives of the Empire II.pdf#page=75
+Priestess of Shallya%The Horned Rat.pdf#page=47
+Priest%Altdorf.pdf#page=101
+Priest of Morr%Archives of the Empire III.pdf#page=92
+Priest of Ranald%Monuments of the Reikland.pdf#page=8, Enemy in Shadows.pdf#page=79, The Horned Rat.pdf#page=72
+Priest of Rhya%Death on the Reik.pdf#page=62, Empire in Ruins.pdf#page=116
+Priest of Sigmar%Empire in Ruins Companion.pdf#page=40
+Priest of Ulric%Middenheim.pdf#page=100
+Religious Fanatics%Empire in Ruins.pdf#page=18
+Volkmar The Grim, Lector of Sigmar%Empire in Ruins.pdf#page=24
+Warrior-Priest of Myrmidia%The Horned Rat.pdf#page=121
+Warrior-Priest of Sigmar%Patrons of the Old World II.pdf#page=16, Empire in Ruins Companion.pdf#page=10
+Warrior-Priest of Ultic%Empire in Ruins Companion.pdf#page=11
+Witch Hunter%Blood and Bramble.pdf#page=20
+Yorri XV, Grand Theogonist%Empire in Ruins.pdf#page=25
+@@Daemons:
+Bloodletters%Rough Nights and Hard Days.pdf#page=35
+Blue Horror of Tzeentch%Enemy in Shadows.pdf#page=114, Enemy in Shadows Companion.pdf#page=85, The Horned Rat.pdf#page=56, Empire in Ruins.pdf#page=156, Night of Blood.pdf#page=9
+Changeling of Tzeentch%Power Behind the Throne Companion.pdf#page=85, Empire in Ruins Companion.pdf#page=56
+Chaos Fury%Enemy in Shadows Companion.pdf#page=84
+Daemonette of Slaanesh%Ubersreik Adventures III.pdf#page=36
+Disc of Tzeentch%Winds of Magic.pdf#page=213
+Exalted Herald of Nurgle%Lustria.pdf#page=61
+Flamer of Tzeentch%Empire in Ruins Companion.pdf#page=21
+Herald of Tzeentch %Enemy in Shadows.pdf#page=78 and 113, Empire in Ruins.pdf#page=152, Empire in Ruins.pdf#page=192
+Lesser Daemon%Enemy in Shadows.pdf#page=18
+Lesser Daemon of Slaanesh%Death on the Reik.pdf#page=106
+Lesser Daemon of Tzeentch%Power Behind the Throne.pdf#page=43
+Lord of Change%Empire in Ruins.pdf#page=191
+Nurgling%Ubersreik Adventures III.pdf#page=96
+Pink Horror of Tzeentch%Enemy in Shadows.pdf#page=114, Enemy in Shadows Companion.pdf#page=85, Empire in Ruins.pdf#page=156, Night of Blood.pdf#page=8
+Plaguebearer%Ubersreik Adventures III.pdf#page=96, Forest of Hate.pdf#page=40
+@@Dark Elves
+Beastmaster%The Corsairs of Captain Flariel.pdf#page=13
+Lokhir Fellheart, Druchi Corsair Lord%Lustria.pdf#page=90
+Reaver Captain%The Corsairs of Captain Flariel.pdf#page=11
+Sorceress%The Corsairs of Captain Flariel.pdf#page=12
+@@Dragons:
+Caledair, The Scythe of Fire%The Imperial Zoo.pdf#page=31
+Forest Dragons%The Imperial Zoo.pdf#page=30
+Merwyrm%Sea of Claws.pdf#page=145
+Shard Dragon%The Imperial Zoo.pdf#page=90
+The Fantasma%The Imperial Zoo.pdf#page=91
+@@Flora and Fungi:
+Blood Hungry Spore Cloud%Lustria.pdf#page=167
+Bloodsedge%Monuments of the Reikland.pdf#page=14
+Grasping Creeper Vine%Lustria.pdf#page=167
+Impaling Spikethorn%Lustria.pdf#page=167
+Vypervine%Lustria.pdf#page=167
+@@Greenskins:
+Basic Black Orc%Tribes and Tribulations.pdf#page=11
+Basic Forest Goblin%The Cluster Eye Tribe.pdf#page=9, Tribes and Tribulations.pdf#page=9
+Basic Goblin%Tribes and Tribulations.pdf#page=9
+Basic Gnoblar%Tribes and Tribulations.pdf#page=9
+Basic Hobgobelin%Tribes and Tribulations.pdf#page=12
+Basic Night Goblin%Tribes and Tribulations.pdf#page=9
+Basic Orc%Tribes and Tribulations.pdf#page=10
+Basic Savage Orc%Tribes and Tribulations.pdf#page=10
+Basic Snotling%Tribes and Tribulations.pdf#page=13
+Black Orc Boss%Skarok and a Hard Place.pdf#page=22
+Bonecracker Orc%Skarok and a Hard Place.pdf#page=13
+Doom Diver%Empire in Ruins Companion.pdf#page=32
+Elderly Orc%Ubersreik Adventures III.pdf#page=66
+Forest Goblin%The Imperial Zoo.pdf#page=15, Ubersreik Adventures III.pdf#page=43
+Forest Goblin Chief%The Cluster Eye Tribe.pdf#page=12, Ubersreik Adventures III.pdf#page=43, Tribes and Tribulations.pdf#page=26
+Forest Goblin Elite%The Cluster Eye Tribe.pdf#page=14, Tribes and Tribulations.pdf#page=28
+Forest Goblin Shaman%The Cluster Eye Tribe.pdf#page=13, The Imperial Zoo.pdf#page=15, Tribes and Tribulations.pdf#page=27
+Forest Goblin Skirmisher%The Cluster Eye Tribe.pdf#page=15, Tribes and Tribulations.pdf#page=29
+Goblin Boss%Empire in Ruins.pdf#page=142
+Goblin Chief%Tribes and Tribulations.pdf#page=37
+Goblin Elderly Runtherd%Empire in Ruins.pdf#page=142
+Goblin Fanatic%Empire in Ruins.pdf#page=144
+Goblin Leader%Death on the Reik.pdf#page=50
+Goblin “Musicians” %Empire in Ruins Companion.pdf#page=32
+Goblin of the Twisted Maw%Ubersreik Adventures I.pdf#page=123, Death on the Reik.pdf#page=47
+Goblin Prankster%Empire in Ruins Companion.pdf#page=33
+Goblin Runt%Empire in Ruins.pdf#page=144
+Goblin Shaman%Starter Set Adventure Book.pdf#page=36, Empire in Ruins.pdf#page=139, Empire in Ruins.pdf#page=141, Empire in Ruins.pdf#page=143
+Goblin Soldier%Tribes and Tribulations.pdf#page=38
+Goblin Warlord%Tribes and Tribulations.pdf#page=36
+Gorfang Rotgut, Chief ot the Red Fangs%Tribes and Tribulations.pdf#page=107
+Hobgoblin Chief%Tribes and Tribulations.pdf#page=68
+Hobgoblin Elite%Tribes and Tribulations.pdf#page=70
+Hobgoblin Skirmisher%Tribes and Tribulations.pdf#page=71
+Hobgoblin Soldier%Tribes and Tribulations.pdf#page=69
+Night Goblin%Spirit of Mondstille.pdf#page=13, Empire in Ruins.pdf#page=143, The Imperial Zoo.pdf#page=28
+Night Goblin Chief%Salzenmund.pdf#page=131
+Night Goblin Diplomat%The Horned Rat.pdf#page=134
+Night Goblin Fanatic%The Imperial Zoo.pdf#page=28
+Night Goblin Shaman%Salzenmund.pdf#page=132
+Orc Bodyguard%Ubersreik Adventures III.pdf#page=66
+Orc Boss%Skarok and a Hard Place.pdf#page=14
+Orc Chief%Tribes and Tribulations.pdf#page=49
+Orc Skirmisher%Tribes and Tribulations.pdf#page=51
+Orc Soldier%Tribes and Tribulations.pdf#page=50
+Orc Warlord%Tribes and Tribulations.pdf#page=48
+Savage Orc%Lustria.pdf#page=182
+Savage Orc Chief%Lustria.pdf#page=182
+Savage Orc Shaman%Lustria.pdf#page=182
+Savage Orc Shaman Lord%Tribes and Tribulations.pdf#page=58
+Savage Orc Skirmisher%Tribes and Tribulations.pdf#page=60, Tribes and Tribulations.pdf#page=61
+Savage Orc Warlord%Tribes and Tribulations.pdf#page=59
+Shiny Moon Goblins%Salzenmund.pdf#page=129
+Shiny Moon Runts%Salzenmund.pdf#page=129, Salzenmund.pdf#page=133
+Shiny Moon Skulkas%Salzenmund.pdf#page=129, Salzenmund.pdf#page=133
+Skargobbos%Empire in Ruins.pdf#page=143
+Skarsnik, Warlord of Eight Peaks%Tribes and Tribulations.pdf#page=105
+Snotling%Empire in Ruins.pdf#page=144, Salzenmund.pdf#page=130, Ubersreik Adventures III.pdf#page=64
+@@Heretics & servants of Chaos:
+Blightking%The Horned Rat Companion.pdf#page=77
+Chaos Cultist%Empire in Ruins.pdf#page=18
+Chaos Spawn%Hell Rides to Hallt.pdf#page=22
+Chaos Warrior of Nurgle%The Warband of Bayl of Many Eyes.pdf#page=8
+Chaos Warrior of Tzeentch%Death on the Reik.pdf#page=111, Empire in Ruins Companion.pdf#page=84
+Chosen of Nurgle%The Warband of Bayl of Many Eyes.pdf#page=14
+Cultist Sorcerer%Altdorf.pdf#page=218, Hell Rides to Hallt.pdf#page=13
+Cultist Sorcerer of Tzeentch– Enemy in Shadows.pdf#page=143, Death on the Reik.pdf#page=35, The Horned Rat.pdf#page=42, The Horned Rat.pdf#page=47, The Horned Rat.pdf#page=49, Empire in Ruins.pdf#page=22, Empire in Ruins.pdf#page=33, Empire in Ruins Companion.pdf#page=53, Empire in Ruins Companion.pdf#page=85
+Cult Magus of Slaanesh%Ubersreik Adventures III.pdf#page=23
+Egrimm Van Horstmann%Champion Sorcerer of Tzeentch%Winds of Magic.pdf#page=209
+Exalted Hero of Nurgle%The Warband of Bayl of Many Eyes.pdf#page=12
+Fimir Matriarch%Winds of Magic.pdf#page=215
+Jade Sceptre Cultist -The Horned Rat.pdf#page=58
+Mutant Chaos Champion of Slaanesh%Altdorf.pdf#page=216
+Norscan Vitki%Lustria.pdf#page=44
+Purple Hand Cultists%Death on the Reik.pdf#page=23, Power Behind the Throne.pdf#page=28, The Horned Rat.pdf#page=9
+Purple Hand Magus%Power Behind the Throne.pdf#page=28
+Skæling Captain%Sea of Claws.pdf#page=55
+Sorcerer of Nurgle%Ubersreik Adventures III.pdf#page=96
+Three-Headed Chaos Hound%Empire in Ruins.pdf#page=149
+Wulfrik the Wanderer%Sea of Claws.pdf#page=154
+Yellow Fang Cultists%Power Behind the Throne Companion.pdf#page=96, The Horned Rat.pdf#page=9, The Horned Rat.pdf#page=67, The Horned Rat.pdf#page=87, The Horned Rat Companion.pdf#page=62
+@@High Elves:
+Sapherian Ambassador– Patrons of the Old World I.pdf#page=7
+Elf Master Wizard%Altdorf.pdf#page=167
+High Elf Cook%Death on the Reik Companion.pdf#page=47
+High Elf General%Lustria.pdf#page=87
+Lothern Sea Guard%Patrons of the Old World I.pdf#page=8
+Lothern Sea Guard Captain%Patrons of the Old World I.pdf#page=8
+@@Lizardmen
+Coatl%Lustria.pdf#page=152
+Chameleon Skink%Lustria.pdf#page=142
+Kroxigor%Lustria.pdf#page=148
+Malformed Saurus Spawn%Lustria.pdf#page=58
+Saurus%Lustria.pdf#page=143
+Saurus Scar Veteran%Lustria.pdf#page=146
+Skink%Lustria.pdf#page=136
+Skink Chief Attendant%Lustria.pdf#page=112
+Skink Priest of Sotek%Lustria.pdf#page=140
+Slann of the fifth generation%Lustria.pdf#page=123
+Slann of the fourth generation%Lustria.pdf#page=123
+Slann of the third generation%Lustria.pdf#page=124
+Slann of the second generation%Lustria.pdf#page=124
+Slann of the first generation%Lustria.pdf#page=124
+Temple Guard%Lustria.pdf#page=145
+Tlat’l the Enigma%Lustria.pdf#page=154
+@@Magical Creatures:
+Combat Familiar%Winds of Magic.pdf#page=182
+Fenbeast%Winds of Magic.pdf#page=179, Hunting Monsters for Fun and Profit
+Incarnate Elemental of Beasts%Winds of Magic.pdf#page=176
+Incarnate Elemental of Death%Winds of Magic.pdf#page=175
+Incarnate Elemental of Fire%Winds of Magic.pdf#page=174
+Power Familiar%Winds of Magic.pdf#page=182
+Sea Elemental%Sea of Claws.pdf#page=142
+Spell Familiar%Winds of Magic.pdf#page=182
+@@Military and Militia
+Artillerist%Empire in Ruins.pdf#page=42
+Dwarf Artillerist%Tribes and Tribulations.pdf#page=39
+Dwarf Ranger Captain%Archives of the Empire I.pdf#page=63
+First Knight%Archives of the Empire III.pdf#page=90, Salzenmund.pdf#page=31, Power Behind the Throne.pdf#page=134, The Horned Rat.pdf#page=81, Empire in Ruins.pdf#page=27, Empire in Ruins.pdf#page=31
+Guards%Empire in Ruins Companion.pdf#page=79
+Guard Sergeant%Empire in Ruins Companion.pdf#page=79
+Halfling Archer%Archives of the Empire I.pdf#page=23
+Honour Guard%Middenheim.pdf#page=32, Enemy in Shadows.pdf#page=22, Enemy in Shadows.pdf#page=41
+Knight%Middenheim.pdf#page=52, Empire in Ruins.pdf#page=19
+Knight Preceptor%Empire in Ruins.pdf#page=19
+Knight of the White Wolf%Power Behind the Throne.pdf#page=55
+Light Cavalry%The Horned Rat.pdf#page=89, The Horned Rat.pdf#page=123
+Light Cavalry Sergeant%The Horned Rat.pdf#page=122
+Mercenary%The Horned Rat.pdf#page=43, The Emperor’s Wrath.pdf#page=14, The Emperor’s Wrath.pdf#page=19
+Middenheim Sewer Jack%The Horned Rat.pdf#page=19
+Middenheim Sewer Jack Sergeant%The Horned Rat.pdf#page=19
+Militia Captain%The Hahnbrandt Militia.pdf#page=10
+Militia Sergeant%The Hahnbrandt Militia.pdf#page=13
+Officer%Altdorf.pdf#page=90, Salzenmund.pdf#page=29, Power Behind the Throne.pdf#page=124, The Horned Rat.pdf#page=120, Empire in Ruins.pdf#page=34, Empire in Ruins.pdf#page=122, Empire in Ruins Companion.pdf#page=39
+Quartermaster%The Horned Rat.pdf#page=122
+River Warden%Death on the Reik.pdf#page=23, Death on the Reik Companion.pdf#page=36
+River Warden Captain%Death on the Reik.pdf#page=23, Death on the Reik Companion.pdf#page=37
+River Warden Recruit%Death on the Reik Companion.pdf#page=35
+River Warden Sergeant%Empire in Ruins.pdf#page=113
+Road Warden%Enemy in Shadows.pdf#page=31
+Road Warden Captain%Enemy in Shadows Companion.pdf#page=42
+Road Warden Sergeant%Enemy in Shadows.pdf#page=30, Enemy in Shadows Companion.pdf#page=42
+Scout%Power Behind the Throne.pdf#page=109, Empire in Ruins Companion.pdf#page=40
+Seasoned Mercenary%Sea of Claws.pdf#page=127
+Sergeant%Altdorf.pdf#page=90, The Horned Rat.pdf#page=123, Empire in Ruins Companion.pdf#page=42, The Emperor’s Wrath.pdf#page=20
+Soldier%Altdorf.pdf#page=127, Power Behind the Throne.pdf#page=97, The Horned Rat.pdf#page=123, Empire in Ruins Companion.pdf#page=42
+Squire%Archives of the Empire III.pdf#page=94
+Watch Captain%Altdorf.pdf#page=94, Enemy in Shadows.pdf#page=98, Power Behind the Throne.pdf#page=124, The Horned Rat.pdf#page=34, The Horned Rat.pdf#page=86
+Watchman%Enemy in Shadows.pdf#page=111
+Watch Recruit%Death on the Reik.pdf#page=52
+Watch Sergeant%Death on the Reik.pdf#page=52
+@@Nobility and Courtiers
+Advisor%Altdorf.pdf#page=72, Power Behind the Throne.pdf#page=132, Power Behind the Throne.pdf#page=142
+Attendant%Power Behind the Throne.pdf#page=122
+Boris Todbringer, Count Elector and Graf of Middenheim%Power Behind the Throne.pdf#page=32, Empire in Ruins.pdf#page=28
+Chancellor%Power Behind the Throne.pdf#page=114
+Dwarf Envoy%Middenheim.pdf#page=95
+Dwarf Judicial Champion%Patrons of the Old World I.pdf#page=16
+Duellist%Death on the Reik Companion.pdf#page=46, Empire in Ruins Companion.pdf#page=78
+Emmanuelle Von Liebwitz, Count Elector of Nuln%Empire in Ruins.pdf#page=26
+Envoy%Power Behind the Throne.pdf#page=142, Empire in Ruins Companion.pdf#page=41
+Governor%Power Behind the Throne Companion.pdf#page=56
+Halfling Attendant%Hirelings of the Old World.pdf#page=14
+Halfling Scion%Archives of the Empire I.pdf#page=31
+Judicial Champion%Power Behind the Throne.pdf#page=116
+Kurt Helborg, High Lord Reiksmarshal%Altdorf.pdf#page=78
+Magnate%Altdorf.pdf#page=65, Archives of the Empire III.pdf#page=30, Salzenmund.pdf#page=19, Enemy in Shadows Companion.pdf#page=95
+Marius Leitdorf, The Mad Count of Averland%Empire in Ruins.pdf#page=124
+Noble%Altdorf.pdf#page=71, Salzenmund.pdf#page=22, Enemy in Shadows.pdf#page=21, Enemy in Shadows.pdf#page=41, Enemy in Shadows Companion.pdf#page=50, Death on the Reik Companion.pdf#page=18, Death on the Reik Companion.pdf#page=42, Power Behind the Throne.pdf#page=120, Power Behind the Throne Companion.pdf#page=115, The Horned Rat.pdf#page=83, Empire in Ruins.pdf#page=23, Empire in Ruins.pdf#page=29, Empire in Ruins.pdf#page=117, Empire in Ruins.pdf#page=183, Empire in Ruins Companion.pdf#page=73
+Reik Rivermarshal%Altdorf.pdf#page=82
+Seneschal%Empire in Ruins Companion.pdf#page=79
+Steward%Middenheim.pdf#page=89
+Theoderic Gausser, Elector Count of Nordland%Salzenmund.pdf#page=18
+@@Ogres:
+Basic Ogre%Tribes and Tribulations.pdf#page=14
+Ogre Artisan%Archives of the Empire II.pdf#page=26
+Ogre Bruiser%Tribes and Tribulations.pdf#page=78
+Ogre Butcher%Tribes and Tribulations.pdf#page=79
+Ogre Clerk%Ubersreik Adventures I.pdf#page=82
+Ogre Dockhand%Hirelings of the Old World.pdf#page=4
+Ogre Hunter%Tribes and Tribulations.pdf#page=80
+Ogre Irongut%Tribes and Tribulations.pdf#page=81
+Ogre Mercenary%Power Behind the Throne Companion.pdf#page=31
+Ogre outlaw% Archives of the Empire II.pdf#page=14
+Ogre protagonist% Archives of the Empire II.pdf#page=14
+Ogre pit champion%Empire in Ruins Companion.pdf#page=71
+Ogre Stevedore%Archives of the Empire II.pdf#page=26
+Ogre Torturer%Death on the Reik.pdf#page=118
+@@Rogues, Criminals and Dropouts
+Assassin%Empire in Ruins.pdf#page=32, Empire in Ruins.pdf#page=129
+Bawd%Enemy in Shadows Companion.pdf#page=55, Power Behind the Throne.pdf#page=94
+Cat Burglar%Altdorf.pdf#page=136, The Horned Rat.pdf#page=86
+Charlatan%Enemy in Shadows.pdf#page=66, Enemy in Shadows Companion.pdf#page=47, Enemy in Shadows Companion.pdf#page=57, Death on the Reik.pdf#page=82, Death on the Reik Companion.pdf#page=38, Empire in Ruins Companion.pdf#page=72
+Con Artist%Archives of the Empire III.pdf#page=93, Middenheim.pdf#page=85, Enemy in Shadows Companion.pdf#page=111, Power Behind the Throne.pdf#page=140
+Crime Lord%Altdorf.pdf#page=36, Altdorf.pdf#page=137
+Dwarf Fence%Middenheim.pdf#page=39, Power Behind the Throne Companion.pdf#page=63, The Horned Rat.pdf#page=46
+Dwarf Slayer%Power Behind the Throne.pdf#page=61, The Horned Rat Companion.pdf#page=78, Empire in Ruins.pdf#page=173
+Deserter%Empire in Ruins Companion.pdf#page=65
+Fence%Middenheim.pdf#page=150
+Flagellant%Salzenmund.pdf#page=87, Middenheim.pdf#page=114, Death on the Reik Companion.pdf#page=59
+Gang Boss%Altdorf.pdf#page=32, Middenheim.pdf#page=95, Death on the Reik.pdf#page=145, The Horned Rat Companion.pdf#page=94
+Grave Robber%Death on the Reik Companion.pdf#page=40
+Halfling Grave Robber%Archives of the Empire I.pdf#page=30
+Halfling Master Beggar%Archives of the Empire I.pdf#page=27
+Halfling Racketeer%Archives of the Empire I.pdf#page=28
+Halfling Spy%Altdorf.pdf#page=195
+Hustler%Enemy in Shadows.pdf#page=23
+Long Drong Silver, Slayer Pirate Captain%Sea of Claws.pdf#page=152
+Mutant Brigand%Enemy in Shadows.pdf#page=29
+Outlaw%Shrines of Sigmar.pdf#page=10, Enemy in Shadows Companion.pdf#page=48, Enemy in Shadows Companion.pdf#page=92, Death on the Reik.pdf#page=83
+Pirate%Death on the Reik Companion.pdf#page=82
+Preternaturally Fine Burglar%Altdorf.pdf#page=67
+Protagonist% Death on the Reik.pdf#page=145
+Racketeer%Altdorf.pdf#page=32, Enemy in Shadows Companion.pdf#page=62, Power Behind the Throne.pdf#page=63, The Horned Rat.pdf#page=49
+Smuggler%Salzenmund.pdf#page=73, Salzenmund.pdf#page=137, The Horned Rat.pdf#page=113
+Spymaster%Power Behind the Throne Companion.pdf#page=60, Power Behind the Throne Companion.pdf#page=74, Empire in Ruins.pdf#page=20
+Spy%Empire in Ruins.pdf#page=118, Empire in Ruins.pdf#page=180
+Thief%Enemy in Shadows Companion.pdf#page=59, Power Behind the Throne.pdf#page=64
+Thug%Enemy in Shadows.pdf#page=79, Power Behind the Throne.pdf#page=63, Power Behind the Throne.pdf#page=97, The Horned Rat.pdf#page=9, The Horned Rat Companion.pdf#page=94
+Wrecker%Death on the Reik Companion.pdf#page=80
+@@Sailors and Rivermen
+Bargemaster%Enemy in Shadows.pdf#page=40, Death on the Reik.pdf#page=141
+Bargeswain%Death on the Reik Companion.pdf#page=20
+Boatswain%Altdorf.pdf#page=86, Empire in Ruins.pdf#page=112
+Dockhand%Enemy in Shadows.pdf#page=50
+Halfling Bargeswain%Archives of the Empire I.pdf#page=24
+Huffer%Sea of Claws.pdf#page=127
+Imperial Sea Lord%Sea of Claws.pdf#page=22
+Landsman%Sea of Claws.pdf#page=127
+Norse Dwarf Ship Master%Sea of Claws.pdf#page=47
+Privateer Captain%Sea of Claws.pdf#page=151
+River Elder%Patrons of the Old World II.pdf#page=12
+Ship Officer%Sea of Claws.pdf#page=127
+Sailor%Sea of Claws.pdf#page=127
+Seaman%Middenheim.pdf#page=153
+Stevedore% Enemy in Shadows Companion.pdf#page=58, Death on the Reik.pdf#page=139, Death on the Reik Companion.pdf#page=45
+@@Scholars and Erudites
+Apothecary%Middenheim.pdf#page=78, Enemy in Shadows.pdf#page=68, Death on the Reik.pdf#page=22
+Barrister%Power Behind the Throne.pdf#page=145, Hell Rides to Hallt.pdf#page=7
+Cartographer%Empire in Ruins Companion.pdf#page=41
+Dwarf Apothecary%The Imperial Zoo.pdf#page=124
+Dwarf History Professor%Archives of the Empire I.pdf#page=57
+Dwarf Engineer%Altdorf.pdf#page=149, Death on the Reik Companion.pdf#page=57, Empire in Ruins.pdf#page=39
+Dwarf Loremaster%Enemy in Shadows Companion.pdf#page=110
+Dwarf Master Engineer%Archives of the Empire I.pdf#page=62, Death on the Reik.pdf#page=36, The Horned Rat.pdf#page=121
+Doktor%Middenheim.pdf#page=72, Sea of Claws.pdf#page=127, Enemy in Shadows.pdf#page=31, Enemy in Shadows.pdf#page=144, Death on the Reik.pdf#page=144
+Judge%Enemy in Shadows.pdf#page=66
+Master Apothecary%Empire in Ruins.pdf#page=59
+Master Engineer%The Emperor’s Wrath.pdf#page=13
+Physician%Death on the Reik Companion.pdf#page=49
+Procurer%Middenheim.pdf#page=114, Power Behind the Throne Companion.pdf#page=53
+Professor%Altdorf.pdf#page=162, Patrons of the Old World II.pdf#page=4
+Scholar%The Imperial Zoo.pdf#page=128
+Steam Tank Engineer%The Emperor’s Wrath.pdf#page=14
+@@Sorcerers and Witches
+Amber Order Master Shaman%Middenheim.pdf#page=67, Death on the Reik Companion.pdf#page=48
+Amber Order Lord Shaman%Winds of Magic.pdf#page=145
+Balthazar Gelt, Patriarch of the Golden Order%Winds of Magic.pdf#page=73
+Bright Order Master Pyromancer%Altdorf.pdf#page=158
+Bright Order Pyromancer%Winds of Magic.pdf#page=133, Power Behind the Throne.pdf#page=91
+Celestial Order Grand Astromancer%Winds of Magic.pdf#page=97, The Horned Rat.pdf#page=148
+Celestial Order Astromancer%Death on the Reik.pdf#page=141
+Celestial Order Master Astromancer%Power Behind the Throne.pdf#page=128
+Daemonologist%Enemy in Shadows.pdf#page=112
+Elspeth Von Draken, Amethyst Wizard Lord%Winds of Magic.pdf#page=121
+Golden Order Alchemist%Salzenmund.pdf#page=33, Enemy in Shadows Companion.pdf#page=109
+Golden Order Alchemist Lord%Power Behind the Throne.pdf#page=127
+Grey Order Spymaster Shadowmancer%Winds of Magic.pdf#page=109, Empire in Ruins.pdf#page=21
+Hedgewitch%Blood and Bramble.pdf#page=19, Patrons of the Old World II.pdf#page=8
+Jade Order Druid Lord%Winds of Magic.pdf#page=85
+Jade Order Druid%The Imperial Zoo.pdf#page=133
+Light Order Hierophant%Winds of Magic.pdf#page=61
+Mystic%Enemy in Shadows.pdf#page=68
+Necromancer%Middenheim.pdf#page=106, Death on the Reik.pdf#page=116, Power Behind the Throne Companion.pdf#page=118, The Horned Rat.pdf#page=56, The Horned Rat Companion.pdf#page=119, Empire in Ruins Companion.pdf#page=117
+Thyrus Gormann, Bright Wizard Lord%Altdorf.pdf#page=21
+Witch%Blood and Bramble.pdf#page=21, Middenheim.pdf#page=78
+Wizard Apprentice%Enemy in Shadows.pdf#page=22, Death on the Reik.pdf#page=36, Death on the Reik.pdf#page=143, Power Behind the Throne.pdf#page=97, Empire in Ruins Companion.pdf#page=85
+@@ Skavens:
+Apprentice Warlock Engineer%The Horned Rat.pdf#page=106
+Chieftain%The Horned Rat.pdf#page=7
+Clan Eshin Infiltrator%The Horned Rat Companion.pdf#page=18
+Clan Eshin Master Assassin%The Horned Rat.pdf#page=78
+Clan Mange General%The Horned Rat.pdf#page=145
+Clan Mange Slave Master%The Horned Rat.pdf#page=90
+Clan Mors Chieftain%Altdorf.pdf#page=204
+Clan Mors Clanrat%The Horned Rat Companion.pdf#page=20
+Clan Mors Warrior%The Horned Rat Companion.pdf#page=20
+Clan Moulder Unique Experiment%The Imperial Zoo.pdf#page=41
+Clan Rat%The Horned Rat.pdf#page=7
+Clan Rat Clawleader%The Horned Rat.pdf#page=7
+Clan Skryre Packmaster%The Horned Rat.pdf#page=143
+Clan Skryre ‘Prototype’%The Imperial Zoo.pdf#page=95
+Clan Skryre Warlock Bombardier%Altdorf.pdf#page=204
+Clan Skyre Walock Engineer%The Imperial Zoo.pdf#page=95
+Clan Skryre Weapon Crew%The Horned Rat.pdf#page=8
+Deathvermin Commander%The Horned Rat Companion.pdf#page=22
+Deathvermin Stormvermin%The Horned Rat Companion.pdf#page=22
+Diseased Clanrat%The Horned Rat Companion.pdf#page=25
+Gutter Runner%A Guide to Ubersreik.pdf#page=51, Rough Nights and Hard Days.pdf#page=85, The Horned Rat Companion.pdf#page=54
+Grey Seer%Power Behind the Throne Companion.pdf#page=97, The Horned Rat Companion.pdf#page=14
+Hellbeast of Seep-Gore%The Horned Rat Companion.pdf#page=28
+Lord Skrolk, Skaven Plaguelord%Lustria.pdf#page=62
+Master-Moulder%Middenheim.pdf#page=110, The Horned Rat Companion.pdf#page=28
+Master Warlock-Engineer%The Horned Rat.pdf#page=150
+Packmaster%The Horned Rat Companion.pdf#page=28, The Imperial Zoo.pdf#page=41
+Plague Priest%The Horned Rat Companion.pdf#page=25
+Rat Ogre%The Horned Rat.pdf#page=74, The Horned Rat.pdf#page=148
+Rat Ogre Bonebreaker%The Horned Rat Companion.pdf#page=52, The Imperial Zoo.pdf#page=41
+Skaven Assassin%Starter Set Adventure Book.pdf#page=34
+Skaven Arch-Prelate%Middenheim.pdf#page=110
+Skaven Champion%Death on the Reik.pdf#page=60
+Skaven Palanquin Guards%The Horned Rat Companion.pdf#page=14
+Skaven Slave%The Horned Rat.pdf#page=7
+Skaven Warlord%Middenheim.pdf#page=109
+Skaven Warriors%Death on the Reik.pdf#page=60, Death on the Reik.pdf#page=120, Power Behind the Throne.pdf#page=91
+Skurry Stabbers Leader%The Horned Rat Companion.pdf#page=17
+Stormvermin%Power Behind the Throne.pdf#page=91, The Horned Rat.pdf#page=7, The Horned Rat.pdf#page=33
+Stormvermin Fangleader%The Horned Rat.pdf#page=7
+Treecherik Clanrat%The Horned Rat Companion.pdf#page=18
+Turntail Clanrat%The Horned Rat Companion.pdf#page=31
+Warlock Engineer%The Horned Rat.pdf#page=7
+Wind Globadier%The Horned Rat Companion.pdf#page=31
+Wolf Rat%The Imperial Zoo.pdf#page=41
+@@ Spirits & Undeads:
+Abyssal Terror%The Horned Rat Companion.pdf#page=120, Empire in Ruins Companion.pdf#page=118
+Bloody Hidesman%Middenheim.pdf#page=115
+Bog Liche%Emperor’s Wrath.pdf#page=15
+Bog Mummy%Patrons of the Old World II.pdf#page=18, Emperor’s Wrath.pdf#page=16
+Bone Hydra%Sea of Claws.pdf#page=146
+The Brine Wife%Syreen and Witch%Lustria.pdf#page=74
+Cairn Wraith %Starter Set Adventure Book.pdf#page=42
+Corpse Cart%The Night Parade.pdf#page=19
+Cursed Uathach%Shrines of Sigmar.pdf#page=7
+Dieter Helsnicht, the Doom Lord of Middenheim%Salzenmund.pdf#page=111, The Enemy Within Developer Diaries @@12.pdf#page=4
+Dryad%Shrines of Sigmar.pdf#page=12
+Dwarf King’s Ghost%The Horned Rat Companion.pdf#page=79
+Enhanced Zombie%The Horned Rat.pdf#page=53
+Flying Death Skull%Power Behind the Throne Companion.pdf#page=117, The Horned Rat Companion.pdf#page=120, Empire in Ruins Companion.pdf#page=118
+Flying Death-ier Skull%Power Behind the Throne Companion.pdf#page=117
+Ghost%Death on the Reik.pdf#page=63, Something Knocking.pdf#page=10, Empire in Ruins.pdf#page=151
+Ghoul Champion%Death on the Reik.pdf#page=37
+Ghoul Chancellor%Lustria.pdf#page=67
+Headless Skeleton%Power Behind the Throne Companion.pdf#page=119
+Headless Skeleton Champion%Power Behind the Throne Companion.pdf#page=119
+Hexwraith%Empire in Ruins Companion.pdf#page=118
+Infected Vampire%Ubersreik Adventures I.pdf#page=93
+Leech Wyrm%Sea of Claws.pdf#page=146
+Liche Corpsemaster%The Night Parade.pdf#page=12
+Luthor Harkon%Vampire Arch-Grand Commodore%Lustria.pdf#page=73
+Maddened Spite%Forest of Hate.pdf#page=41
+Maddened Treekin%Forest of Hate.pdf#page=40
+Mournghul%Empire in Ruins Companion.pdf#page=61
+Naiad%Death on the Reik Companion.pdf#page=88
+Necrofex Colossus%Empire in Ruins Companion.pdf#page=64
+Necromancer Lord%Salzenmund.pdf#page=111
+Nehekharan Wraith%Rough Nights and Hard Days.pdf#page=65, Starter Set Adventure Book.pdf#page=34
+Restless Ghost%Rough Nights and Hard Days.pdf#page=34
+River Zombies%Something Knocking.pdf#page=11
+Shade%Something Knocking.pdf#page=10
+Skeletons%Death on the Reik.pdf#page=63, Something Knocking.pdf#page=11, The Night Parade.pdf#page=9
+Skeleton Guards%Death on the Reik.pdf#page=98, Deadly Dispatch.pdf#page=11
+Skeleton Captain of the Guard%Death on the Reik.pdf#page=98
+Skeleton Horse%Shrines of Sigmar.pdf#page=7
+Skeleton Mass Grave Dead%The Night Parade.pdf#page=14
+Spectre%Middenheim.pdf#page=117
+Spite%Salzenmund.pdf#page=115, Forest of Hate.pdf#page=41
+Storm Rider of Uathach%Shrines of Sigmar.pdf#page=7
+Syreen%Sea of Claws.pdf#page=145
+Treekin%Forest of Hate.pdf#page=40
+Undead Knight (Wight)%The Imperial Zoo.pdf#page=93
+Undead Mounts%The Night Parade.pdf#page=10
+Undead Orc%Ubersreik Adventures I.pdf#page=78
+Vampire Noble%Death on the Reik Companion.pdf#page=21
+Vengeful Ghost%The Horned Rat.pdf#page=132
+Wight%Deadly Dispatch.pdf#page=9, The Night Parade.pdf#page=14
+Wight Champion%The Night Parade.pdf#page=13
+Zombie%Death on the Reik.pdf#page=37, Power Behind the Throne Companion.pdf#page=117, Deadly Dispatch.pdf#page=10, Empire in Ruins.pdf#page=155, Empire in Ruins Companion.pdf#page=118, The Night Parade.pdf#page=9
+Zombie Champion%Power Behind the Throne Companion.pdf#page=117
+@@Squigs:
+Colossal Squig%Empire in Ruins Companion.pdf#page=63
+Giant Squig%Tribes and Tribulations.pdf#page=19
+Gobbla, Bloated Cave Squig%Tribes and Tribulations.pdf#page=105
+Hopping Squig%Tribes and Tribulations.pdf#page=19
+Night Goblin Cave Squig Swarm%The Imperial Zoo.pdf#page=27
+@@Trolls:
+Basic Common Troll%Tribes and Tribulations.pdf#page=15
+Hulking Chaos Troll%Tribes and Tribulations.pdf#page=108
+Old Stone Troll%Tribes and Tribulations.pdf#page=92
+River Troll%Starter Set Adventure Book.pdf#page=22, Death on the Reik Companion.pdf#page=89, The Imperial Zoo.pdf#page=49
+River Troll Hag%The Imperial Zoo.pdf#page=49, Tribes and Tribulations.pdf#page=93
+Stone Troll%The Horned Rat.pdf#page=134
+Throgg the Troll King%Sea of Claws.pdf#page=39
+@@Others:
+Animated Flames%The Horned Rat.pdf#page=42
+Child of Ulric %Starter Set Adventure Book.pdf#page=38, Middenheim.pdf#page=116
+Curs’d Ettins%Empire in Ruins Companion.pdf#page=62
+Doppelganger%A Guide to Ubersreik.pdf#page=51, Power Behind the Throne.pdf#page=148
+Fetchling%Middenheim.pdf#page=67
+Giant Spy%The Imperial Zoo.pdf#page=35
+Great Taurus%The Imperial Zoo.pdf#page=75
+Living Water%The Enemy Within Developer Diaries @@10.pdf#page=5
+Mutant Bog Octopus%A Guide to Ubersreik.pdf#page=64
+Runic Guardian %Starter Set Adventure Book.pdf#page=39
+Siren%The Imperial Zoo.pdf#page=86
+Triton%Sea of Claws.pdf#page=149
+@Skills, Traits & Talents:
+@@Skills:
+Augury%Winds of Magic.pdf#page=44
+Channeling (Quaysh)%Lustria.pdf#page=126
+Hypnotism%Power Behind the Throne.pdf#page=149
+Language (Malla-room-ba-larin)%Shrines of Sigmar.pdf#page=12
+Psychometry%Altdorf.pdf#page=61, Winds of Magic.pdf#page=47
+@@Talents:
+Animal Assistant%Archives of the Empire III.pdf#page=81
+Beat Blade%Up in Arms.pdf#page=140
+Blessed by Isha%Lustria.pdf#page=127
+Cantor%Ubersreik Adventures I.pdf#page=76
+Chanty%Sea of Claws.pdf#page=63
+Concoct%Winds of Magic.pdf#page=161
+Controlled Corruption%Power Behind the Throne Companion.pdf#page=34
+Crew Commander%Up in Arms.pdf#page=140, Sea of Claws.pdf#page=63
+Disciple of Change%Enemy in Shadows Companion.pdf#page=75
+Distract%Up in Arms.pdf#page=140
+Double Life%Enemy in Shadows Companion.pdf#page=75
+Drilled%Up in Arms.pdf#page=140
+Extra Spell%Power Behind the Throne Companion.pdf#page=34
+Flee!%Up in Arms.pdf#page=140
+Gunner%Up in Arms.pdf#page=140
+High Magic%Lustria.pdf#page=127
+Magical Assistant%Winds of Magic.pdf#page=186
+Master and Commander%Sea of Claws.pdf#page=63
+Rapid Reload%Up in Arms.pdf#page=140
+Relentless%Up in Arms.pdf#page=141
+Reversal%Up in Arms.pdf#page=141
+Roughrider%Up in Arms.pdf#page=141
+Shieldsman%Up in Arms.pdf#page=141
+Strike to Injure%Up in Arms.pdf#page=141
+Suffuse with Magic%Enemy in Shadows Companion.pdf#page=79
+Suffuse with Ulgu%Rough Nights and Hard Days.pdf#page=88
+Suffuse with [Wind]%Winds of Magic.pdf#page=186
+Tail Fighting%The Horned Rat Companion.pdf#page=34
+Tzeentch’s Blessing%Enemy in Shadows Companion.pdf#page=75
+Wilful Corruption%Death on the Reik Companion.pdf#page=100
+@@Traits:
+Absorb%Enemy in Shadows.pdf#page=147
+Amorphous%Enemy in Shadows.pdf#page=147
+Analgesic Saliva%Death on the Reik Companion.pdf#page=90
+Animal Telepathy%Archives of the Empire III.pdf#page=82
+Anticoagulant Saliva%Death on the Reik Companion.pdf#page=90
+Aquatic%Death on the Reik Companion.pdf#page=90
+Attach and Feed%Death on the Reik Companion.pdf#page=90
+Bale Eye%Winds of Magic.pdf#page=217
+Balefire Brazier%The Night Parade.pdf#page=19
+Blighted%Enemy in Shadows.pdf#page=145
+Breath Rating (Warpfire)%Empire in Ruins Companion.pdf#page=21
+Burrow%The Imperial Zoo.pdf#page=23
+Capricious%Death on the Reik Companion.pdf#page=90
+Chameleon%Lustria.pdf#page=151
+Creeping%Death on the Reik Companion.pdf#page=90
+Deception (Fox)%Archives of the Empire III.pdf#page=81
+Divination (Owl)%Archives of the Empire III.pdf#page=81
+Easily Confused%Archives of the Empire III.pdf#page=91
+Engulf%Death on the Reik Companion.pdf#page=90
+Flammable%Lustria.pdf#page=165, Forest of Hate.pdf#page=40
+Fleshthief%Enemy in Shadows.pdf#page=148
+Font of Flame%Empire in Ruins Companion.pdf#page=21
+Formless Horror%Power Behind the Throne Companion.pdf#page=85
+Grim%The Imperial Zoo.pdf#page=11, Winds of Magic.pdf#page=176, Sea of Claws.pdf#page=140, Lustria.pdf#page=165
+Hallucinogen%Death on the Reik Companion.pdf#page=90
+Immunity (Mundane Weapons)%Hunting Monsters of Fun and Profit
+Incorporeal%Spirit of Mondstille.pdf#page=7
+Invisibility%Archives of the Empire III.pdf#page=82
+Living Gate%Empire in Ruins.pdf#page=153
+Marine Creature%Sea of Claws.pdf#page=140
+Mark of Khorne%Sea of Claws.pdf#page=56
+Mark of Nurgle%The Warband of Bayl of Many Eyes.pdf#page=10
+Mark of Tzeentch %Enemy in Shadows Companion.pdf#page=82
+Mark of the Old Ones%Lustria.pdf#page=151
+Messenger%Archives of the Empire III.pdf#page=82
+Mindless%Enemy in Shadows.pdf#page=148
+Null%Patrons of the Old World II.pdf#page=4
+Orc and Goblin Nemesis Traits%Tribes and Tribulations.pdf#page=103
+Paralysing Chill%The Spirit of Mondstille.pdf#page=6
+Perception (Stoat)%Archives of the Empire III.pdf#page=81
+Piercing Gaze%Starter Set Adventure Book.pdf#page=28
+Random Caster%Empire in Ruins Companion.pdf#page=18, Winds of Magic.pdf#page=214
+Reducible%The Enemy Within Developer Diaries @@10.pdf#page=5
+Resilience (Badger)%Archives of the Empire III.pdf#page=81
+Shapeshifter%Enemy in Shadows Companion.pdf#page=87
+Sensory Sharing%Archives of the Empire III.pdf#page=82
+Spell Syphon%Empire in Ruins Companion.pdf#page=18, Winds of Magic.pdf#page=214
+Split%Enemy in Shadows.pdf#page=148, Enemy in Shadows Companion.pdf#page=84, Empire in Ruins.pdf#page=156
+Stationary Attacker%Lustria.pdf#page=166
+Stealth (Cat)%Archives of the Empire III.pdf#page=81
+Telepathy%Lustria.pdf#page=151
+Transformation (Crow)%Archives of the Empire III.pdf#page=82
+Tzeentch’s Fire%Enemy in Shadows Companion.pdf#page=84, Empire in Ruins.pdf#page=156
+Vampiric Gaze%Lustria.pdf#page=73
+Vigor Mortis%The Night Parade.pdf#page=19
+@@Mutations:
+Bayl’s Eye-Flies%The Warband of Bayl of Many Eyes.pdf#page=12
+Brine Drinker%Sea of Claws.pdf#page=55
+Clutch of Eyes %Starter Set Adventure Book.pdf#page=46
+Induce Frenzy%Empire in Ruins Companion.pdf#page=20
+Massive Intellect %Starter Set Adventure Book.pdf#page=46
+Slippery Skin %Starter Set Adventure Book.pdf#page=46
+Telepathy %Starter Set Adventure Book.pdf#page=46
+Mutant Creation Tables%Enemy in Shadows Companion.pdf#page=65
+@Trappings:
+@@Armour, Clothes & Accessories:
+Amulet of Jade%Empire in Ruins.pdf#page=23
+Amulet of Sea Gold%Winds of Magic.pdf#page=73
+The Blazing Ruby%Altdorf.pdf#page=21
+Bandoleer%Up in Arms.pdf#page=88
+Boots of Gucci%Middenheim.pdf#page=71
+Cloak of Coatl Feathers%Lustria.pdf#page=153
+Cloak of Golden Glamour%Winds of Magic.pdf#page=211
+Dangly Wotnotz%Tribes and Tribulations.pdf#page=97
+Effigy of Gork%Tribes and Tribulations.pdf#page=97
+Effigy of Mork%Tribes and Tribulations.pdf#page=97
+Enchanted Masks%Salzenmund.pdf#page=57
+Enchanted Spyglass%Sea of Claws.pdf#page=151
+Fire Stone of Agni%Altdorf.pdf#page=21
+Gas Mask%The Horned Rat Companion.pdf#page=39
+Glowy Green Amulet%Tribes and Tribulations.pdf#page=97
+The Gleaming Robe%Winds of Magic.pdf#page=73
+Gromril Helm%Middenheim.pdf#page=71
+Helm of the Kraken%Lustria.pdf#page=90
+The Jade Griffon%Empire in Ruins.pdf#page=25
+Jarl Fur Jacket%Sea of Claws.pdf#page=62
+Laurels of Victory%Altdorf.pdf#page=78
+Nineteenth Palm of Volans%Ubersreik Adventure.pdf#page=70
+Ogre Gutplate% Archives of the Empire II.pdf#page=29
+The Pectoral of Qotl%Lustria.pdf#page=59
+The Pelt of Wulfang%Tribes and Tribulations.pdf#page=63
+Quietened Mail% Archives of the Empire II.pdf#page=55
+Ring of Necromancy%Power Behind the Throne Companion.pdf#page=94
+Ring of Opsianon%Enemy in Shadows.pdf#page=148
+Ring of Tongues%Middenheim.pdf#page=71
+Roth’s Moondial%Sea of Claws.pdf#page=151
+Sealskin%Up in Arms.pdf#page=88
+Sea Dragon Cloak%Lustria.pdf#page=91, The Corsairs of Captain Flariel.pdf#page=6
+Shark Tooth Charms%Sea of Claws.pdf#page=62
+Silk Underwear%Up in Arms.pdf#page=88
+The Silver Seal%Empire in Ruins.pdf#page=27
+Tecutoltec’s Bracers%Lustria.pdf#page=60
+Warlock Optics%The Horned Rat Companion.pdf#page=40
+Wintertooth Crown%Sea of Claws.pdf#page=39
+Wolfjaw Talisman%Salzenmund.pdf#page=60
+Wolfplate%Empire in Ruins.pdf#page=30
+@@Consumables:
+Ale%Taverns of the Old World.pdf#page=16
+Ameliorative Elixir%Guide to Ubersreik.pdf#page=40
+Bezoar Solvent%The Imperial Zoo.pdf#page=105
+Bloodblind%The Imperial Zoo.pdf#page=106
+Boar’s Musk%Winds of Magic.pdf#page=161
+Carroburg Fire%The Imperial Zoo.pdf#page=106
+Channelpath Potion%Winds of Magic.pdf#page=162
+Clearmind%The Imperial Zoo.pdf#page=107
+Dark Kiss%The Horned Rat Companion.pdf#page=54
+Debauch’s Friend%Winds of Magic.pdf#page=161
+Draught of Power%Winds of Magic.pdf#page=162
+Dreamwine%Altdorf.pdf#page=185, Winds of Magic.pdf#page=46
+Dwarf Ale%Taverns of the Old World.pdf#page=16
+Enchanted Miasma%Ubersreik Adventures III.pdf#page=92
+Estalian Mosca%Power Behind the Throne Companion.pdf#page=23
+Excellent Spirits%Taverns of the Old World.pdf#page=16
+Fine Menu%Taverns of the Old World.pdf#page=17
+Fine Wine%Taverns of the Old World.pdf#page=16
+Flesh Blister%The Imperial Zoo.pdf#page=104
+Focusing Philtre%Guide to Ubersreik.pdf#page=40
+Foolmaker%The Horned Rat Companion.pdf#page=54
+Forge Shield%The Imperial Zoo.pdf#page=107
+Ghostsmear%Empire in Ruins Companion.pdf#page=111
+Hair Tonic%Winds of Magic.pdf#page=162
+Herbs of the Empire%Death on the Reik Companion.pdf#page=9
+Katya’s Cordial%Guide to Ubersreik.pdf#page=40
+Last Gasp%The Imperial Zoo.pdf#page=107
+Lavish Menu%Taverns of the Old World.pdf#page=17
+Legendary Wine%Taverns of the Old World.pdf#page=16
+Liquid Fire%The Imperial Zoo.pdf#page=107
+Liquor of Luck%Guide to Ubersreik.pdf#page=40
+Longsleep%The Imperial Zoo.pdf#page=104
+Lucidity Tonic%Winds of Magic.pdf#page=162
+Lurek’s Cure%The Imperial Zoo.pdf#page=105
+Meal%Taverns of the Old World.pdf#page=17
+Menu%Taverns of the Old World.pdf#page=17
+Nectar of Beauty%Winds of Magic.pdf#page=162
+Nectar of Veracity%Winds of Magic.pdf#page=162
+Nectar of Vitality%Winds of Magic.pdf#page=162
+The Marvelous Medicinal Mixture%Guide to Ubersreik.pdf#page=40
+Panacea Universalis%Winds of Magic.pdf#page=163
+Potency Draught%Winds of Magic.pdf#page=163
+Potion of Flight%Death on the Reik.pdf#page=35, Winds of Magic.pdf#page=163
+Potion of Fortune%Winds of Magic.pdf#page=163
+Potion of Invisibility%Winds of Magic.pdf#page=163
+Potion of Resistance%Power Behind the Throne Companion.pdf#page=75
+Power Stone%Forest of Hate.pdf#page=30
+Preyton’s Fury%The Imperial Zoo.pdf#page=107
+Purple Cap Mushrooms%Empire in Ruins Companion.pdf#page=31
+Razorburn%The Imperial Zoo.pdf#page=108
+Reactionary Restorative%Guide to Ubersreik.pdf#page=40
+Rough Spirits%Taverns of the Old World.pdf#page=16
+Schlaff%Ubersreik Adventures III.pdf#page=24
+Seer Snake Liquor%The Imperial Zoo.pdf#page=108
+Shaman Shrooms%Tribes and Tribulations.pdf#page=99
+Simple Meal%Taverns of the Old World.pdf#page=17
+Small Beer%Taverns of the Old World.pdf#page=16
+Snacks%Taverns of the Old World.pdf#page=17
+Skalm%The Horned Rat Companion.pdf#page=39
+Skavenbrew%The Horned Rat Companion.pdf#page=40
+Skitter%Patrons of the Old World I.pdf#page=5
+Spider Venom%The Cluster Eye Tribe.pdf#page=10
+Spirits%Taverns of the Old World.pdf#page=16
+Spite%The Imperial Zoo.pdf#page=108
+Stag’s Ward%The Imperial Zoo.pdf#page=108
+Stew%Taverns of the Old World.pdf#page=17
+Strong Ale%Taverns of the Old World.pdf#page=16
+Tide Blood%The Imperial Zoo.pdf#page=109
+Tonic of Sight Beyond Sight%Guide to Ubersreik.pdf#page=40
+Treemeld%The Imperial Zoo.pdf#page=110
+Troll Acid%The Imperial Zoo.pdf#page=109
+Two-Headed Tincture%The Imperial Zoo.pdf#page=106
+Veinpowder%The Imperial Zoo.pdf#page=110
+Warpstone Snuff%The Horned Rat Companion.pdf#page=14
+Weirdroot%Winds of Magic.pdf#page=47
+Wheeze%The Imperial Zoo.pdf#page=105
+Wine%Taverns of the Old World.pdf#page=16
+Witchbane%The Imperial Zoo.pdf#page=111
+Wyvern’s Kiss%The Imperial Zoo.pdf#page=105
+@@Basic Weapons:
+Axe%Up in Arms.pdf#page=91
+Axe of Redhelm%Salzenmund.pdf#page=22
+Ballock Knife%Up in Arms.pdf#page=91
+Barrakul%Death on the Reik.pdf#page=79
+Bearded Axe%Archives of the Empire I.pdf#page=92
+The Blade of Corruption%The Horned Rat Companion.pdf#page=33
+The Blade of Nurglitch%The Horned Rat Companion.pdf#page=33, The Enemy Within Developer Diaries @@18.pdf#page=5
+The Bright Sword%Altdorf.pdf#page=21
+Chaos Runesword%Salzenmund.pdf#page=111, The Enemy Within Developer Diaries @@12.pdf#page=4
+Club%Up in Arms.pdf#page=91
+Dagger%Up in Arms.pdf#page=91
+Dragon Blade%Lustria.pdf#page=87
+Dwarf Hammer%Archives of the Empire I.pdf#page=92
+Elthrai Cadaith%Empire in Ruins.pdf#page=150
+Eonir War Blade%Archives of the Empire I.pdf#page=92
+The Fang of Horros%Empire in Ruins.pdf#page=31
+Frostbane%Salzenmund.pdf#page=60
+Ironfist% Archives of the Empire II.pdf#page=29
+Iron Skillet%Archives of the Empire I.pdf#page=92
+Knife%Up in Arms.pdf#page=91
+Mace%Up in Arms.pdf#page=91
+Magical Dagger%Middenheim.pdf#page=71
+Magical Sword of Warping%Lustria.pdf#page=42
+Military Pick%Up in Arms.pdf#page=91
+The Nameless Blade%Double Trouble.pdf#page=5
+Nan’s Cleaver%Archives of the Empire I.pdf#page=92
+Obsinite Club%Lustria.pdf#page=163
+Obisinite Spiked Maul%Lustria.pdf#page=163
+Ogre Club% Archives of the Empire II.pdf#page=29
+Plaguesword%Lustria.pdf#page=61, Ubersreik Adventures III.pdf#page=96
+Punch Dagger%The Horned Rat Companion.pdf#page=34
+Pure Fire%Empire in Ruins.pdf#page=174
+Rat Claws%The Horned Rat Companion.pdf#page=34
+The Red Blades%Lustria.pdf#page=90
+The Red Fang%Tribes and Tribulations.pdf#page=107
+Runefang of Solland%Altdorf.pdf#page=78
+Saif al’Janub %Starter Set Adventure Book.pdf#page=35
+Scimitar%Up in Arms.pdf#page=91
+Shinsmasher’s Club% Archives of the Empire II.pdf#page=55
+Sword%Up in Arms.pdf#page=91
+Sword of Fear%Middenheim.pdf#page=71
+Tail Weapon%The Horned Rat Companion.pdf#page=34
+Von Haffenhof’s Sword%The Horned Rat Companion.pdf#page=82
+Warhammer%Up in Arms.pdf#page=91
+Warp-Blades%The Horned Rat Companion.pdf#page=33
+Warpforged Blade%The Enemy Within Developer Diaries @@18.pdf#page=5
+@@Cavalry Weapons:
+Cavalry Hammer%Up in Arms.pdf#page=93
+Demi-Lance%Up in Arms.pdf#page=93
+Lance%Up in Arms.pdf#page=93
+Sabre%Up in Arms.pdf#page=93
+@@Fencing Weapons:
+Foil%Up in Arms.pdf#page=93
+Rapier%Up in Arms.pdf#page=93
+Smallsword%Up in Arms.pdf#page=93
+Throatseeker’s Blade% Archives of the Empire II.pdf#page=55
+@@Brawling Weapons:
+Boat Hook%Up in Arms.pdf#page=94
+Garrote%Up in Arms.pdf#page=94
+Knuckledusters%Up in Arms.pdf#page=94
+Locked Gauntlet%Up in Arms.pdf#page=94
+Sap%Up in Arms.pdf#page=94
+Spiked Gauntlet%Up in Arms.pdf#page=94
+@@Two-Handed Weapons:
+Barrakul%Death on the Reik.pdf#page=79
+Bastard Sword%Up in Arms.pdf#page=97
+Big Ogre Club% Archives of the Empire II.pdf#page=29
+Flamberge Zweihander%Up in Arms.pdf#page=97
+Ghal Maraz%Empire in Ruins.pdf#page=160
+Great Axe%Up in Arms.pdf#page=97
+Hammer-axe of Skoll%Empire in Ruins.pdf#page=30
+Pick%Up in Arms.pdf#page=97
+Slayer’s Axe%Archives of the Empire I.pdf#page=92
+Throgg’s Maul%Sea of Claws.pdf#page=39
+Warhammer%Up in Arms.pdf#page=97
+Warp-Blades%The Imperial Zoo.pdf#page=94
+Wildwood Sword%Archives of the Empire I.pdf#page=92
+Zweihander%Up in Arms.pdf#page=97
+@@Polearms:
+Ahlspiess%Up in Arms.pdf#page=96
+Beast-Prod%The Horned Rat Companion.pdf#page=34
+Bill%Up in Arms.pdf#page=96
+Copper Staff%Tribes and Tribulations.pdf#page=97
+Eonir Spear%Archives of the Empire I.pdf#page=92
+The Firebrand Staff%Altdorf.pdf#page=21
+Halberd%Up in Arms.pdf#page=96
+Man Catcher%Middenheim.pdf#page=110, Up in Arms.pdf#page=96
+The Pale Scythe%Winds of Magic.pdf#page=121
+Partizan/Glaive%Up in Arms.pdf#page=96
+Pike%Up in Arms.pdf#page=96
+Poleaxe%Up in Arms.pdf#page=96
+Quarterstaff%Up in Arms.pdf#page=96
+Rod of Corruption%Lustria.pdf#page=63
+Shaman Staff%Tribes and Tribulations.pdf#page=97
+Skarsnik’s Prodda%Tribes and Tribulations.pdf#page=105
+Staff of Athanoc%Forest of Hate.pdf#page=37
+Staff of Command%Empire in Ruins.pdf#page=25
+Staff of Flaming Death%Salzenmund.pdf#page=111, The Enemy Within Developer Diaries @@12.pdf#page=4
+Staff of Volans%Altdorf.pdf#page=21
+Spear%Up in Arms.pdf#page=96
+Things-Catcher%The Horned Rat Companion.pdf#page=34
+Warp-Blades%The Horned Rat Companion.pdf#page=33
+@@Flails:
+Censer-Flail%Patrons of the Old World II.pdf#page=17
+Flail%Up in Arms.pdf#page=95
+Grain Flail%Up in Arms.pdf#page=95
+Military Flail%Up in Arms.pdf#page=95
+Plague Censer%The Horned Rat Companion.pdf#page=34
+@@Parrying Weapons:
+Cloak%Up in Arms.pdf#page=95
+Main Gauche%Up in Arms.pdf#page=95
+Swordbreaker%Up in Arms.pdf#page=95
+Weighted Net%Up in Arms.pdf#page=95
+@@Shields:
+Buckler%Up in Arms.pdf#page=92
+Gudii’s Shield%The Horned Rat Companion.pdf#page=82
+Hafskjold%Salzenmund.pdf#page=18
+Large Shield%Up in Arms.pdf#page=92
+Pavise%The Horned Rat Companion.pdf#page=32, Up in Arms.pdf#page=92
+Shield%Up in Arms.pdf#page=92
+@@Goblin Loonie:
+Goblin Ball and Chain%Empire in Ruins.pdf#page=143
+@@Traps:
+Deadfall%Salzenmund.pdf#page=130
+Man-trap%The Horned Rat.pdf#page=90
+Snare%Salzenmund.pdf#page=130
+Spiky Pit%Salzenmund.pdf#page=130
+@@Crossbows:
+Dwarf Crossbow%Archives of the Empire I.pdf#page=93
+@@Blackpowder Weapons:
+Arquebus%Up in Arms.pdf#page=101
+Blunderbuss%Up in Arms.pdf#page=101
+Double Barrelled Handgun%Up in Arms.pdf#page=101
+Dwarf Handgun%Archives of the Empire I.pdf#page=93
+Dwarf Pistol%Archives of the Empire I.pdf#page=93
+Griffonsfoot Pistol%Up in Arms.pdf#page=101
+Gun Axe%Up in Arms.pdf#page=101
+Gun Halberd%Up in Arms.pdf#page=101
+Handgun%Up in Arms.pdf#page=101
+Hochland Long Rifle%Up in Arms.pdf#page=101
+Leadbelcher Gun% Archives of the Empire II.pdf#page=29
+Matchlock Blunderbuss%Up in Arms.pdf#page=101
+Matchlock Handgun%Up in Arms.pdf#page=101
+Ogre Pistol% Archives of the Empire II.pdf#page=29
+Pistol%Up in Arms.pdf#page=101
+The Traitor’s Shot%Skeleton Crew.pdf#page=22
+Warplock Jezzail%The Horned Rat.pdf#page=8, The Horned Rat Companion.pdf#page=36, The Imperial Zoo.pdf#page=94
+Warplock Pistol%The Horned Rat.pdf#page=8, The Horned Rat Companion.pdf#page=36, The Imperial Zoo.pdf#page=94
+Warpmusket%The Horned Rat.pdf#page=8, The Horned Rat Companion.pdf#page=36
+@@Engineering Weapons:
+Cane Pistol%Up in Arms.pdf#page=101
+Doomrocket%The Horned Rat Companion.pdf#page=34
+Drakefire Pistol%Archives of the Empire I.pdf#page=93
+Hand Mortar%Up in Arms.pdf#page=101
+Pepperbox%Up in Arms.pdf#page=101
+Ratling Gun%The Horned Rat Companion.pdf#page=35, The Imperial Zoo.pdf#page=94
+Repeater Handgun%Up in Arms.pdf#page=101
+Repeater Pistol%Up in Arms.pdf#page=101
+Warpfire Thrower%The Horned Rat Companion.pdf#page=36, The Imperial Zoo.pdf#page=94
+Warp-grinder%The Horned Rat.pdf#page=100, The Horned Rat Companion.pdf#page=36
+@@Throwing Weapons:
+Blackbriar Javelin%Archives of the Empire I.pdf#page=93
+Death Globe%The Horned Rat Companion.pdf#page=34
+Great Throwing Spear% Archives of the Empire II.pdf#page=29
+Infernal Bomb%The Horned Rat Companion.pdf#page=35
+Magnin Throwing Knife%Altdorf.pdf#page=94
+Poisoned Wind Globe%The Horned Rat.pdf#page=8, The Horned Rat Companion.pdf#page=35
+Smoke Bomb%The Horned Rat Companion.pdf#page=36
+Warpstone Star%The Horned Rat Companion.pdf#page=36
+@@Entangling Weapons:
+Barbed Net%Power Behind the Throne.pdf#page=28
+Chain Trap% Archives of the Empire II.pdf#page=29
+Electro-Whip%The Horned Rat Companion.pdf#page=35
+Harpoon Launcher% Archives of the Empire II.pdf#page=29
+Nets%The Imperial Zoo.pdf#page=29
+Snare-Net%The Horned Rat Companion.pdf#page=36
+@@Explosives:
+Cinderblast Bomb%Archives of the Empire I.pdf#page=93, The Horned Rat.pdf#page=130
+@@Blowpipe:
+Blowpipe%Lustria.pdf#page=163
+@@War Machines and artillery:
+Ballista% Archives of the Empire II.pdf#page=88, Up in Arms.pdf#page=123
+Battering Ram% Archives of the Empire II.pdf#page=88
+Cannon% Archives of the Empire II.pdf#page=88, Up in Arms.pdf#page=123
+Catapult%Up in Arms.pdf#page=123
+Doom Diver%Tribes and Tribulations.pdf#page=41
+Dwarf Flame Cannon% Archives of the Empire II.pdf#page=88
+Eagle Claw Bolt Thrower%Lustria.pdf#page=89
+Eagle Eye Bolt Thrower%Lustria.pdf#page=89
+Engine of the Gods’ Burning Alignment%Lustria.pdf#page=178
+Engine of the Gods’ Power of the Ancients%Lustria.pdf#page=178
+Giant Blowpipe%Lustria.pdf#page=178
+Giant Bow%Lustria.pdf#page=178
+Helblaster Volley Cannon% Archives of the Empire II.pdf#page=88, Up in Arms.pdf#page=123
+Helstorm Rocket Battery%Empire in Ruins.pdf#page=43, Archives of the Empire II.pdf#page=88, Up in Arms.pdf#page=123
+Large Cannon%Up in Arms.pdf#page=123
+Mangonel Catapult% Archives of the Empire II.pdf#page=88
+Mortar% Archives of the Empire II.pdf#page=88, Up in Arms.pdf#page=123
+Onager Catapult% Archives of the Empire II.pdf#page=88
+Poisoned Wind Mortar%The Horned Rat Companion.pdf#page=35
+Rock Lobber%Tribes and Tribulations.pdf#page=41
+Small Cannon%Empire in Ruins.pdf#page=114, Up in Arms.pdf#page=123
+Solar Engine’s Beam of Chotec%Lustria.pdf#page=178
+Spear Chukka%Tribes and Tribulations.pdf#page=41
+Swivel Gun%Empire in Ruins.pdf#page=114, Up in Arms.pdf#page=123
+Trebuchet% Archives of the Empire II.pdf#page=88
+Volley Gun%Up in Arms.pdf#page=123
+@@New Trapping Qualities and Flaws:
+Crewed%Up in Arms.pdf#page=125, Emperor’s Wrath.pdf#page=26, Sea of Claws.pdf#page=102, Tribes and Tribulations.pdf#page=41
+Cursed%Winds of Magic.pdf#page=170
+Experimental%Lustria.pdf#page=30
+Salvo%Up in Arms.pdf#page=126, Emperor’s Wrath.pdf#page=26
+Slash%Up in Arms.pdf#page=89
+Spiderborn (weapons)%Patrons of the Old World I.pdf#page=14
+Spread%Up in Arms.pdf#page=89, Sea of Claws.pdf#page=102
+Trip%Up in Arms.pdf#page=89
+Unbalanced%Up in Arms.pdf#page=89
+Volley%Lustria.pdf#page=89
+Warded (armours)%Patrons of the Old World I.pdf#page=14
+Warpforged Weapons%The Horned Rat Companion.pdf#page=33
+Warpstone%The Horned Rat.pdf#page=8, The Horned Rat Companion.pdf#page=32
+Weeping Weapon%The Horned Rat Companion.pdf#page=33
+ZZAP! (weapons) %The Horned Rat Companion.pdf#page=32
+@@Ammunition:
+Arrow%Up in Arms.pdf#page=98
+Aqshy-Infused Powder%Up in Arms.pdf#page=102
+Barbed Arrow%Up in Arms.pdf#page=98
+Blowpipe Dart%Lustria.pdf#page=163
+Bodkin Arrow%Up in Arms.pdf#page=98
+Bolt%Up in Arms.pdf#page=98, Tribes and Tribulations.pdf#page=41
+Bomb%Up in Arms.pdf#page=102
+Bullet and Powder%Up in Arms.pdf#page=102
+Drakefire Shots%Archives of the Empire I.pdf#page=93
+Doomrocket%The Horned Rat Companion.pdf#page=39
+Elf Arrow%Up in Arms.pdf#page=98
+Enchanted anti-magic bullets%Shrines of Sigmar.pdf#page=5
+Grapple%Up in Arms.pdf#page=102
+Harpoon% Archives of the Empire II.pdf#page=29
+Improvised Shot and Powder%Up in Arms.pdf#page=102
+Incendiary%Up in Arms.pdf#page=102
+Jezzail Bullet and Powder%The Horned Rat Companion.pdf#page=39
+Large Bullet and Powder%Up in Arms.pdf#page=102
+Leadbelcher Ball% Archives of the Empire II.pdf#page=29
+Leadbelcher Shot% Archives of the Empire II.pdf#page=29
+Lead Bullet%Up in Arms.pdf#page=98
+Paper Cartridge%Up in Arms.pdf#page=102
+Pebble%Up in Arms.pdf#page=98
+Precision Shot and Powder%Archives of the Empire I.pdf#page=93, Up in Arms.pdf#page=102
+Ratling Gun Belt%The Horned Rat Companion.pdf#page=39
+Scrap and Powder%Up in Arms.pdf#page=102
+Sharp Stick%Up in Arms.pdf#page=98
+Small Shot and Powder%Up in Arms.pdf#page=102
+Starfire Shafts%Archives of the Empire I.pdf#page=93
+Stone%Tribes and Tribulations.pdf#page=41
+Stone Bullet%Up in Arms.pdf#page=98
+Swiftshire Shafts%Archives of the Empire I.pdf#page=93
+Warpfire Fuel Vat%The Horned Rat Companion.pdf#page=39
+Warpstone Bullet and Powder%The Horned Rat Companion.pdf#page=39
+Warpstone Buckshot%The Horned Rat Companion.pdf#page=39
+@@Vehicles:
+Barge%Lustria.pdf#page=206
+Cog%Skeleton Crew.pdf#page=10
+Ghost Ship%Skeleton Crew.pdf#page=21
+Hawkship%Lustria.pdf#page=81
+Imperial Navy Fast Patrol Boat%Empire in Ruins.pdf#page=113
+Knarr%Lustria.pdf#page=206
+Large Barge%Lustria.pdf#page=206
+Longship%Lustria.pdf#page=206
+Medium Dwarf Dirigible%Empire in Ruins.pdf#page=37
+Patrolboat%Lustria.pdf#page=206
+Ravenship%The Corsairs of Captain Flariel.pdf#page=10
+Riverboats of the Empire%Death on the Reik Companion.pdf#page=33
+Rowboat%Lustria.pdf#page=206
+Steam Tank Rules%Emperor’s Wrath.pdf#page=21
+Terradon Glider%Lustria.pdf#page=30
+The Diving Bell%Sea of Claws.pdf#page=33
+Vehicles of the Empire%Enemy in Shadows Companion.pdf#page=27
+@@Other:
+Bow String%Up in Arms.pdf#page=88
+Captain Braun’s Insta-Boiler%Up in Arms.pdf#page=89
+Captain Braun’s Multi-Stove%Up in Arms.pdf#page=89
+The Cauldron of a Thousand Poxes%Lustria.pdf#page=57
+Compass%Up in Arms.pdf#page=88
+Cursed Items%Winds of Magic.pdf#page=170
+Death’s Timekeeper%Winds of Magic.pdf#page=121
+Fang of the Winter Wolf%Power Behind the Throne.pdf#page=55
+Fuse%Up in Arms.pdf#page=88
+Gromril Trappings%The Horned Rat Companion.pdf#page=82
+Horned Rat Talisman%The Enemy Within Developer Diaries @@18.pdf#page=5
+Horn of Desecration%Lustria.pdf#page=61
+Idols of Gork and Mork%Tribes and Tribulations.pdf#page=101
+Liber Bubonicus%The Horned Rat Companion.pdf#page=39
+Liber Chaotica% Archives of the Empire II.pdf#page=81
+Liber Malefic Nautica%Skeleton Crew.pdf#page=22
+Mirror of Scrying%Lustria.pdf#page=75
+Ostrich Feather%Up in Arms.pdf#page=88
+Redfern’s Lute%Forest of Hate.pdf#page=36
+Skaven Heavy Weapons%The Horned Rat Companion.pdf#page=37
+Slaanesh’s Own Cittern -The Blessing that Drew Blood.pdf#page=27
+Slow Match%Up in Arms.pdf#page=88
+Theodolite%Up in Arms.pdf#page=88
+The Skull of Katam%Winds of Magic.pdf#page=211
+Tlatl’s feather%Lustria.pdf#page=155
+Wand of Onyx– Death on the Reik.pdf#page=35
+Warp Energy Condenser%The Horned Rat Companion.pdf#page=40
+Warp-Power Accumulator%The Horned Rat Companion.pdf#page=40
+Warp Scroll%The Horned Rat Companion.pdf#page=40
+Warpstone Charm%The Horned Rat Companion.pdf#page=14
+Warpstone Tokens%The Horned Rat Companion.pdf#page=40
+Whetstone%Up in Arms.pdf#page=88
+Wraith Cylinder Apparatus%Lustria.pdf#page=81
+@Magic & Spells:
+@@Additional Magic Rules:
+Alternative Channeling%Archives of the Empire III.pdf#page=85
+Animal Familiars%Archives of the Empire III.pdf#page=75
+Beast Form and Other Transformation Spells%Winds of Magic.pdf#page=150
+Casting Spells while at Sea%Sea of Claws.pdf#page=14
+Channeling and casting Spells with Dhar%Enemy in Shadows Companion.pdf#page=77
+Channeling Ghur and Ghyran in Lustria%Lustria.pdf#page=191
+Dark Magic Rules%The Corsairs of Captain Flariel.pdf#page=8
+Dwarf Runes%Sea of Claws.pdf#page=47
+Generating a Magical Artefact% Archives of the Empire II.pdf#page=51
+Grimoires Rules%Winds of Magic.pdf#page=165
+High Magic Rules%Lustria.pdf#page=127
+Malign influence of Tzeentch%Enemy in Shadows Companion.pdf#page=78
+Lore Attribute of Tzeentch Spells%Enemy in Shadows Companion.pdf#page=81
+Lore Attribute of Ruin Spells%The Horned Rat Companion.pdf#page=45
+Lore Attribute of Plague Spells%The Horned Rat Companion.pdf#page=46
+Lore Attribute of Stealth Spells%The Horned Rat Companion.pdf#page=48
+Magical Artifacts (Wizard’s Robes, Enchanted Staff, Scrolls…)%Winds of Magic.pdf#page=151
+Magic Potions%Winds of Magic.pdf#page=154
+New and Revised Spellcasting Rules%Winds of Magic.pdf#page=19
+Options: Spells of Chaos%Enemy in Shadows Companion.pdf#page=80
+Ogre Magic Rules% Archives of the Empire II.pdf#page=31, Tribes and Tribulations.pdf#page=82
+Power Stones%Winds of Magic.pdf#page=167
+Ritual Magic Rules%Winds of Magic.pdf#page=27
+Skaven Magic Rules%The Horned Rat Companion.pdf#page=41
+Waaagh! Magic Rules%Tribes and Tribulations.pdf#page=94
+
+@@Arcane Spells:
+Belligerence of the Bloodmarsh%Winds of Magic.pdf#page=26
+Collapse Construct%Winds of Magic.pdf#page=26
+Decipher Curse%Winds of Magic.pdf#page=26
+Disrupt Magic%Winds of Magic.pdf#page=26
+Fly-Infested Rotweed%Winds of Magic.pdf#page=26
+Lifebloom Silt%Winds of Magic.pdf#page=26
+Silence%Winds of Magic.pdf#page=27
+Snitch%Power Behind the Throne Companion.pdf#page=110
+Succour Magical Servant%Winds of Magic.pdf#page=27
+@@Aqshy (Lore of Fire):
+Aqshy’s Aegis%Winds of Magic.pdf#page=134
+Body of Fire%Winds of Magic.pdf#page=134
+Boiling Blood%Winds of Magic.pdf#page=134
+Burning Head%Winds of Magic.pdf#page=134
+Captivating Flame%Winds of Magic.pdf#page=134
+Cauterise%Winds of Magic.pdf#page=135
+Ceaseless Flame%Sullasara's Spells of Unrivalled Utility.pdf#page=6
+Choleric%Winds of Magic.pdf#page=135
+Comfort%Sullasara's Spells of Unrivalled Utility.pdf#page=6
+Crown of Flame%Winds of Magic.pdf#page=135
+Flamestorm%Winds of Magic.pdf#page=135
+Flaming Hearts%Winds of Magic.pdf#page=135
+Flaming Sword of Rhuin%Winds of Magic.pdf#page=135
+Flashcook%Sullasara's Spells of Unrivalled Utility.pdf#page=6
+Firewall%Winds of Magic.pdf#page=135
+Forge of Tarnus%Winds of Magic.pdf#page=136
+Great Fires of U’Zhul%Winds of Magic.pdf#page=135
+Ignite%Winds of Magic.pdf#page=135
+Inextinguishable Flame%Winds of Magic.pdf#page=135
+Kindleflame%Winds of Magic.pdf#page=135
+Kindred of the Hearth%Winds of Magic.pdf#page=135
+Magma Storm%Winds of Magic.pdf#page=135
+Purge%Winds of Magic.pdf#page=135
+Sanguine Swords%Winds of Magic.pdf#page=135
+Taste of Fire%Winds of Magic.pdf#page=135
+Withering Heat%Winds of Magic.pdf#page=135
+Ygethmor’s Flaming Blizzard%Winds of Magic.pdf#page=135
+@@Azyr (Lore of Heavens):
+Azure Blades%Winds of Magic.pdf#page=98
+Birdspeech%Sullasara's Spells of Unrivalled Utility.pdf#page=7
+Blessings of Bel Shanaar%Sea of Claws.pdf#page=15
+Cerulean Shield%Winds of Magic.pdf#page=98
+Comet of Casandora%Winds of Magic.pdf#page=98
+Curse of Fate%Winds of Magic.pdf#page=99
+Divination%Winds of Magic.pdf#page=99
+Enemy Foreseen%Winds of Magic.pdf#page=99
+Fantastic Foresight%Winds of Magic.pdf#page=99
+Fate’s Fickle Fingers%Winds of Magic.pdf#page=99
+Fate Illuminated%Winds of Magic.pdf#page=99
+Gale%Sullasara's Spells of Unrivalled Utility.pdf#page=7
+Lens on the Sky%Winds of Magic.pdf#page=100
+Let the Four Winds Blow!%Winds of Magic.pdf#page=100
+Mistral From the Stratosphere%Winds of Magic.pdf#page=100
+Mystic Mirror%Winds of Magic.pdf#page=100
+Niezlib’s Optimal Firing Solution%Sea of Claws.pdf#page=15
+Polish and Glean%Winds of Magic.pdf#page=100
+Project Spirit%Winds of Magic.pdf#page=100
+Sapphire Arch%Winds of Magic.pdf#page=100
+Sea of Glass%Sea of Claws.pdf#page=15
+Starcrossed%Winds of Magic.pdf#page=101
+Starshine%Winds of Magic.pdf#page=101
+Storm of Shentek%Winds of Magic.pdf#page=101
+T’Essla’s Arc%Winds of Magic.pdf#page=101
+The First Portent of Amul%Winds of Magic.pdf#page=101
+The Second Portent of Amul%Winds of Magic.pdf#page=101
+The Third Portent of Amul%Winds of Magic.pdf#page=101
+Thorsen’s Thunderstorm%Winds of Magic.pdf#page=101
+Weathervane%Sullasara's Spells of Unrivalled Utility.pdf#page=7
+@@Chamon (Lore of Metal):
+Armour of Tin%Winds of Magic.pdf#page=74
+Breach the Unknwown%Winds of Magic.pdf#page=74
+Crucible of Chamon%Winds of Magic.pdf#page=74
+Curse of Rust%Winds of Magic.pdf#page=74
+Enchant Weapon%Winds of Magic.pdf#page=74
+Fault of Form%Winds of Magic.pdf#page=75
+Feather of Lead%Winds of Magic.pdf#page=75
+Fool’s Gold%Winds of Magic.pdf#page=75
+Forge of Chamon%Winds of Magic.pdf#page=75
+Gehenna’s Golden Globe%Winds of Magic.pdf#page=75
+Gilded Cage%Winds of Magic.pdf#page=75
+Glittering Robe%Winds of Magic.pdf#page=75
+Golden Touch%Winds of Magic.pdf#page=75
+Goldsteel Shielding%Winds of Magic.pdf#page=76
+Inscription%Winds of Magic.pdf#page=76
+Knot Untied%Winds of Magic.pdf#page=76
+Metal Mended%Winds of Magic.pdf#page=76
+Meteoric Ironclad%Winds of Magic.pdf#page=76
+Mutable Metal%Winds of Magic.pdf#page=77
+Prismatic Refracton of Habermas%Winds of Magic.pdf#page=77
+Puchta’s Silver Compass%Winds of Magic.pdf#page=77
+Replication of Levorg%Winds of Magic.pdf#page=77
+Rigor of Steel%Sullasara's Spells of Unrivalled Utility.pdf#page=8
+Sense Metal%Sullasara's Spells of Unrivalled Utility.pdf#page=8
+Tale of Metal%Sullasara's Spells of Unrivalled Utility.pdf#page=8
+Transmutation of Chamon%Winds of Magic.pdf#page=77
+Trial and Error%Winds of Magic.pdf#page=77
+@@Chaos:
+Blast of Corruption%Enemy in Shadows Companion.pdf#page=79
+Bolt of Corruption%Enemy in Shadows Companion.pdf#page=79
+Daemonic Mien%Enemy in Shadows Companion.pdf#page=79
+Foul Messenger%Enemy in Shadows Companion.pdf#page=80
+Joyous Aspect%Enemy in Shadows Companion.pdf#page=80
+Obsession%Enemy in Shadows Companion.pdf#page=80
+Power of Chaos%Enemy in Shadows Companion.pdf#page=80
+Rend Aethyr%Enemy in Shadows Companion.pdf#page=80
+Slave to Darkness%Enemy in Shadows Companion.pdf#page=80
+@@Dark Magic:
+Arnzipal’s Black Horror%The Corsairs of Captain Flariel.pdf#page=8
+Doombolt%The Corsairs of Captain Flariel.pdf#page=8
+Shroud of Despair%The Corsairs of Captain Flariel.pdf#page=8
+Word of Pain%The Corsairs of Captain Flariel.pdf#page=8
+@@Ghur (Lore of Beasts):
+Amber Talons%Winds of Magic.pdf#page=146
+Amber Trance%Winds of Magic.pdf#page=146
+Awakening of the Wood%Winds of Magic.pdf#page=146
+Beast Form%Winds of Magic.pdf#page=146
+Beast Made Well%Sullasara's Spells of Unrivalled Utility.pdf#page=4
+Beast Master%Winds of Magic.pdf#page=146
+Beast Tongue%Winds of Magic.pdf#page=147
+Beast Unbroken%Winds of Magic.pdf#page=147
+Cruelty’s Deserts%Sullasara's Spells of Unrivalled Utility.pdf#page=4
+Curse of Anraheir%Winds of Magic.pdf#page=147
+Eyes of the Pack%Winds of Magic.pdf#page=147
+Flock of Doom%Winds of Magic.pdf#page=147
+Follow Scent%Winds of Magic.pdf#page=148
+Hunter’s Hide%Winds of Magic.pdf#page=148
+Hunter’s Moons%Winds of Magic.pdf#page=148
+Merciw’s Monstrous Regiment%Winds of Magic.pdf#page=148
+Musk Spray%Winds of Magic.pdf#page=148
+Quick Passage%Winds of Magic.pdf#page=148
+Summon Mount%Winds of Magic.pdf#page=148
+The Amber Spear%Winds of Magic.pdf#page=148
+The Ox Stands%Winds of Magic.pdf#page=149
+Transformation of Kadon%Winds of Magic.pdf#page=149
+Vengeful Hood%Winds of Magic.pdf#page=149
+Wildercall%Sullasara's Spells of Unrivalled Utility.pdf#page=4
+Winter Coat%Winds of Magic.pdf#page=149
+Writhing Worm%Winds of Magic.pdf#page=149
+Wyssan’s Ally%Sullasara's Spells of Unrivalled Utility.pdf#page=4
+Wyssan’s Wilfdform%Winds of Magic.pdf#page=149
+@@Ghyran (Lore of Life):
+Almanac%Winds of Magic.pdf#page=86
+Barkskin%Winds of Magic.pdf#page=86
+Dwellers Below%Winds of Magic.pdf#page=86
+Earthblood%Winds of Magic.pdf#page=86
+Earthpool%Winds of Magic.pdf#page=86
+Fat of the Land%Winds of Magic.pdf#page=87
+Ferment%Sullasara's Spells of Unrivalled Utility.pdf#page=9
+Flesh of Stone%Winds of Magic.pdf#page=87
+Forest of Thorns%Winds of Magic.pdf#page=87
+Gardener’s Warcry%Winds of Magic.pdf#page=87
+Geyser%Winds of Magic.pdf#page=87
+Invigorating Chant%Winds of Magic.pdf#page=87
+Jade Casket%Winds of Magic.pdf#page=87
+Leaf Fall%Winds of Magic.pdf#page=88
+Leyfinding%Winds of Magic.pdf#page=88
+Lie of the Land%Winds of Magic.pdf#page=88
+Lifebloom%Winds of Magic.pdf#page=88
+Living Mire%Sea of Claws.pdf#page=15
+Nature’s Whisper%Winds of Magic.pdf#page=88
+Paranoth’s Pathway%Winds of Magic.pdf#page=88
+Regenerate%Winds of Magic.pdf#page=88
+Spiral Stair%Winds of Magic.pdf#page=89
+Timbervault%Sullasara's Spells of Unrivalled Utility.pdf#page=9
+Track’s Tale Told%Sullasara's Spells of Unrivalled Utility.pdf#page=9
+Vaunted Transmogrification of Colchis%Winds of Magic.pdf#page=89
+Verdant Apotheosis%Winds of Magic.pdf#page=89
+Vital Growth%Winds of Magic.pdf#page=89
+Water, Water Everywhere%Sea of Claws.pdf#page=15
+Whirlpool%Sea of Claws.pdf#page=15
+Wood Shape%Winds of Magic.pdf#page=89
+@@Hysh (Lore of Light):
+Abulla’s Snare%Winds of Magic.pdf#page=62
+Assault of Stone%Winds of Magic.pdf#page=62
+Banishment%Winds of Magic.pdf#page=62
+Blinding Light%Winds of Magic.pdf#page=62
+Clarity of Thought%Winds of Magic.pdf#page=62
+Cleansing Glow%Sullasara's Spells of Unrivalled Utility.pdf#page=10
+Crevasse%Winds of Magic.pdf#page=62
+Daemonbane%Winds of Magic.pdf#page=63
+Dazzling Brightness%Winds of Magic.pdf#page=63
+Disgust%Sullasara's Spells of Unrivalled Utility.pdf#page=10
+Driving Intent%Winds of Magic.pdf#page=63
+Erect the Edifice%Winds of Magic.pdf#page=63
+Eyes of Volans%Winds of Magic.pdf#page=63
+Hands of Karkora%Winds of Magic.pdf#page=64
+Healing Light%Winds of Magic.pdf#page=63
+Illuminate%Sullasara's Spells of Unrivalled Utility.pdf#page=10
+Illuminate the Edifice%Winds of Magic.pdf#page=64
+Light of Purity%Winds of Magic.pdf#page=64
+Meissner’s Instantaneous Librarian%Winds of Magic.pdf#page=64
+Net of Amyntok%Winds of Magic.pdf#page=64
+Orb of Hysh%Winds of Magic.pdf#page=64
+Perfect Comprehension%Winds of Magic.pdf#page=65
+Phâ’s Protection%Winds of Magic.pdf#page=65
+Pierce the Veil%Winds of Magic.pdf#page=65
+Shimmering Cloak%Winds of Magic.pdf#page=65
+Speed of Thought%Winds of Magic.pdf#page=65
+Time Amok%Winds of Magic.pdf#page=65
+@@Hedgecraft:
+Badwill%Blood and Bramble.pdf#page=6
+Bonesetter%Blood and Bramble.pdf#page=6
+Breathe Underwater%The Enemy Within Developer Diaries @@10.pdf#page=2
+Cleanslate%Blood and Bramble.pdf#page=6
+Dagger of the Art%Archives of the Empire III.pdf#page=62
+Dry Out%The Enemy Within Developer Diaries @@10.pdf#page=2
+Extinguish Fire%The Enemy Within Developer Diaries @@10.pdf#page=3
+Fellstave%Archives of the Empire III.pdf#page=62
+Fertilise%Blood and Bramble.pdf#page=7
+Fetterfetch%Blood and Bramble.pdf#page=7
+Find Lost%The Enemy Within Developer Diaries @@10.pdf#page=3
+Float%The Enemy Within Developer Diaries @@10.pdf#page=3
+Friendly Food%The Enemy Within Developer Diaries @@10.pdf#page=3
+Geistbane%Blood and Bramble.pdf#page=8
+Godspakt%Blood and Bramble.pdf#page=10
+Goodwill%Archives of the Empire III.pdf#page=63
+Invigorate%Archives of the Empire III.pdf#page=63
+Kindle%Blood and Bramble.pdf#page=8
+Lovelock%Archives of the Empire III.pdf#page=63
+Mirkride%Archives of the Empire III.pdf#page=63
+Mystic Mist%The Enemy Within Developer Diaries @@10.pdf#page=3
+Nepenthe%Archives of the Empire III.pdf#page=63
+Nostrum%Archives of the Empire III.pdf#page=63
+Onerion%Blood and Bramble.pdf#page=9
+Part of the Branches%Archives of the Empire III.pdf#page=63
+Part Water%The Enemy Within Developer Diaries @@10.pdf#page=3
+Protection Pouch%Archives of the Empire III.pdf#page=63
+Protective Charm%Archives of the Empire III.pdf#page=64
+River Sense%The Enemy Within Developer Diaries @@10.pdf#page=3
+Silvertide%Archives of the Empire III.pdf#page=64
+Sightstep%Archives of the Empire III.pdf#page=64
+Stout Spirit%Blood and Bramble.pdf#page=9
+The Ousting%Archives of the Empire III.pdf#page=64
+Trankraft%Blood and Bramble.pdf#page=9
+Walk on Water%The Enemy Within Developer Diaries @@10.pdf#page=4
+Woecharm%Blood and Bramble.pdf#page=10
+Wyrd Ward%Archives of the Empire III.pdf#page=64
+@@Nurgle:
+Reveal the Inner Beauty%Rough Nights and Hard Days.pdf#page=52
+@@Qhaysh (High Magic):
+Apotheosis%Lustria.pdf#page=128
+Arcane Unforging%Lustria.pdf#page=128
+Drain Magic%Lustria.pdf#page=128
+Earth Line (Slanns Only)%Lustria.pdf#page=129
+Mental Blast%Lustria.pdf#page=129
+Ruination of Cities (Slanns Only)%Lustria.pdf#page=129
+Uproot the Mountains%Lustria.pdf#page=128
+Walk Between Worlds%Lustria.pdf#page=128
+@@Shyish (Lore of Death):
+Acceptance of Fate%Winds of Magic.pdf#page=122
+Amaranth%Winds of Magic.pdf#page=122
+Animus Imprisoned%Winds of Magic.pdf#page=122
+Ashes and Dust%Winds of Magic.pdf#page=122
+Caress of Laniph%Winds of Magic.pdf#page=123
+Compel Spirits%Winds of Magic.pdf#page=123
+Crystal Maze%Winds of Magic.pdf#page=123
+Deathsight%Sullasara's Spells of Unrivalled Utility.pdf#page=5
+Death’s Release%Winds of Magic.pdf#page=123
+Dying Words%Winds of Magic.pdf#page=123
+Fate of Bjuna%Winds of Magic.pdf#page=123
+Iyrtu’s Embrace%Winds of Magic.pdf#page=124
+Limbwither%Winds of Magic.pdf#page=124
+Preservation%Sullasara's Spells of Unrivalled Utility.pdf#page=5
+Purple Pall of Shyish%Winds of Magic.pdf#page=124
+Sanctify%Winds of Magic.pdf#page=124
+Scythe of Shyish%Winds of Magic.pdf#page=124
+Shyish Uncovered%Winds of Magic.pdf#page=124
+Soul Vortex%Winds of Magic.pdf#page=124
+Speed of Lykos%Winds of Magic.pdf#page=124
+Stay Death’s Hand%Sullasara's Spells of Unrivalled Utility.pdf#page=5
+Steal Life%Winds of Magic.pdf#page=125
+Swift Passing%Winds of Magic.pdf#page=125
+Taste of Death%Winds of Magic.pdf#page=125
+Telepathy%Winds of Magic.pdf#page=125
+Tide of Years%Winds of Magic.pdf#page=125
+Wild Kin of Zandox%Winds of Magic.pdf#page=125
+@@Slaanesh (petty spells):
+Befuddle%Power Behind the Throne Companion.pdf#page=36
+Blessing of Slaanesh%Power Behind the Throne Companion.pdf#page=36
+Endure Excess%Power Behind the Throne Companion.pdf#page=36
+Leer%Power Behind the Throne Companion.pdf#page=36
+Lure%Power Behind the Throne Companion.pdf#page=36
+Preen%Power Behind the Throne Companion.pdf#page=36
+Sense Vice%Power Behind the Throne Companion.pdf#page=36
+@@Slaanesh:
+Acquiescence%Power Behind the Throne Companion.pdf#page=36
+Aura of Acquiescence%Power Behind the Throne Companion.pdf#page=36
+Bonds of Slaanesh%Power Behind the Throne Companion.pdf#page=37
+Breath of Inspiration%Power Behind the Throne Companion.pdf#page=37
+Blissful Throes%Power Behind the Throne Companion.pdf#page=37
+Cacophonic Caress%Power Behind the Throne Companion.pdf#page=37
+Careless Whispers%Power Behind the Throne Companion.pdf#page=37
+Chaos Spawn%Power Behind the Throne Companion.pdf#page=37
+Cursed Caress%Power Behind the Throne Companion.pdf#page=37
+Cutting Wit%Power Behind the Throne Companion.pdf#page=37
+Delicious Excruciation%Power Behind the Throne Companion.pdf#page=37
+Fleshy Curse%Power Behind the Throne Companion.pdf#page=38
+Flesh Puppet%Power Behind the Throne Companion.pdf#page=39
+From Pain, Pleasure%Power Behind the Throne Companion.pdf#page=39
+Lash of Slaanesh%Power Behind the Throne Companion.pdf#page=39
+Gift of Slaanesh%Power Behind the Throne Companion.pdf#page=39
+Luxurious Torment%Power Behind the Throne Companion.pdf#page=40
+Mask of Desire%Power Behind the Throne Companion.pdf#page=40
+Pavane of Slaanesh%Power Behind the Throne Companion.pdf#page=40
+Phantasmagoria%Power Behind the Throne Companion.pdf#page=40
+Soporific Lull%Blessings that Drew Blood.pdf#page=5
+Succubus’ Caress%Power Behind the Throne Companion.pdf#page=40
+Summon Daemonette%Power Behind the Throne Companion.pdf#page=40
+Summon Daemonette Pack%Power Behind the Throne Companion.pdf#page=40
+Titillating Delusions%Power Behind the Throne Companion.pdf#page=40
+Uncontrollable Corporal Expulsion%Blessings that Drew Blood.pdf#page=5
+@@Tzeentch (petty spells):
+Beast Tongue%Death on the Reik Companion.pdf#page=98
+Eyes of the Beast%Death on the Reik Companion.pdf#page=98
+Sign of the Beast%Death on the Reik Companion.pdf#page=98@@ 
+@@Tzeentch:
+Bension of Tzeentch%Death on the Reik Companion.pdf#page=98
+Bestial Rage%Death on the Reik Companion.pdf#page=98
+Blue Fire of Tzeentch%Enemy in Shadows Companion.pdf#page=82
+Boon of Tzeentch%Enemy in Shadows Companion.pdf#page=81
+Bolt of Change%Enemy in Shadows Companion.pdf#page=82
+Climb%Death on the Reik Companion.pdf#page=98
+Curse of Tzeentch%Enemy in Shadows Companion.pdf#page=82
+Enrage Beast%Death on the Reik Companion.pdf#page=99
+Gift of the Beast%Death on the Reik Companion.pdf#page=99
+Master of Fortune%Enemy in Shadows Companion.pdf#page=82
+Mindfire%Enemy in Shadows Companion.pdf#page=83
+Pink Fire of Tzeentch%Enemy in Shadows Companion.pdf#page=83
+Sense the Skein%Enemy in Shadows Companion.pdf#page=83
+Slave to Chaos%Death on the Reik Companion.pdf#page=99
+Subvert Strength%Death on the Reik Companion.pdf#page=99
+The Flickering Flames of Fickle Fate%Enemy in Shadows Companion.pdf#page=82
+The Purple Hand%Enemy in Shadows Companion.pdf#page=81
+Transformation of the Beast%Death on the Reik Companion.pdf#page=100
+Transformation of Tzeentch%Enemy in Shadows Companion.pdf#page=83
+Tremor%Death on the Reik Companion.pdf#page=100
+Tzeentch’s Firestorm%Enemy in Shadows Companion.pdf#page=83
+Tzeentch’s Golden Aura%Enemy in Shadows Companion.pdf#page=83
+Word of Tzeentch%Enemy in Shadows Companion.pdf#page=83
+@@Ulgu (Lore of Shadows):
+Bewilder%Winds of Magic.pdf#page=110
+Black Horrors%Winds of Magic.pdf#page=110
+Bridge of Shadows%Winds of Magic.pdf#page=110
+Choking Shadows%Winds of Magic.pdf#page=110
+Cloak Activity%Sullasara's Spells of Unrivalled Utility.pdf#page=11
+Dance of Despair%Winds of Magic.pdf#page=110
+Deep Pockets%Winds of Magic.pdf#page=111
+Doppelganger%Winds of Magic.pdf#page=111
+Grand Illusion%Winds of Magic.pdf#page=111
+Grey Wings%Winds of Magic.pdf#page=111
+Horn of Handar%Winds of Magic.pdf#page=111
+Hush%Winds of Magic.pdf#page=111
+Illusion%Winds of Magic.pdf#page=111
+Mindslip%Winds of Magic.pdf#page=112
+Mutable Visage%Winds of Magic.pdf#page=112
+Mystifying Miasma%Winds of Magic.pdf#page=112
+Pall of Darkness%Sullasara's Spells of Unrivalled Utility.pdf#page=11
+Pit of Tarnus%Winds of Magic.pdf#page=112
+Ribauld’s Retroactive Illusion%Winds of Magic.pdf#page=112
+Shadow GrovePit of Tarnus%Winds of Magic.pdf#page=112
+Ribauld’s Retroactive Illusion%Winds of Magic.pdf#page=112
+Shadows of Splendour%Sullasara's Spells of Unrivalled Utility.pdf#page=11
+Shadowsteed%Winds of Magic.pdf#page=113
+Shadowstep%Winds of Magic.pdf#page=113
+Shroud of Fog%Lustria.pdf#page=81
+Shroud of Invisibility%Winds of Magic.pdf#page=113
+Substance of Shadow%Winds of Magic.pdf#page=113
+Traitor of Tarn%Winds of Magic.pdf#page=113
+Wandering Shadow%Winds of Magic.pdf#page=113
+@@Necromancy:
+Spirit Walk%Empire in Ruins Companion.pdf#page=117
+Vanhel’s Invitation to the Dance Macabre%Deadly Dispatch.pdf#page=11
+@@Lore of the Great Maw Spells:
+Bilebrew%Tribes and Tribulations.pdf#page=82
+Bloodgruel%Tribes and Tribulations.pdf#page=82
+Bonecrusher% Archives of the Empire II.pdf#page=32
+Bullgorger% Archives of the Empire II.pdf#page=32
+Braingobbler% Archives of the Empire II.pdf#page=32
+Feast of the Fallen% Archives of the Empire II.pdf#page=33
+Get Some Guts%Tribes and Tribulations.pdf#page=82
+Taste Death% Archives of the Empire II.pdf#page=33
+The Maw% Archives of the Empire II.pdf#page=33
+Toothcracker%Tribes and Tribulations.pdf#page=82
+Trollguts% Archives of the Empire II.pdf#page=33
+@@Rituals:
+Bind Monstrous Beast%Winds of Magic.pdf#page=28
+Bind Spirit Within Power Stone%Winds of Magic.pdf#page=28
+Carve Ogham Stone%Winds of Magic.pdf#page=28
+Conjuration of the Bloody Hidesman%Winds of Magic.pdf#page=29
+Conjuration of Jack O’Cinders%Winds of Magic.pdf#page=30
+Conjuration of the Incarnate Elemental of Death%Winds of Magic.pdf#page=29
+Corrupt Waystone%Winds of Magic.pdf#page=30
+Create Construct%Winds of Magic.pdf#page=30
+Create Familiar%Winds of Magic.pdf#page=31
+Create Power Stone%Winds of Magic.pdf#page=28
+Create Waystone Property%Winds of Magic.pdf#page=32
+Cursecraft%Winds of Magic.pdf#page=32
+Imbue Staff%Winds of Magic.pdf#page=32
+Invocate Daemon%Winds of Magic.pdf#page=32
+Materialize the Living Swamp%Winds of Magic.pdf#page=33
+Remove Curse%Winds of Magic.pdf#page=33
+Spirit-Bonding Ritual%Archives of the Empire III.pdf#page=80
+The Crossed Scythes%Winds of Magic.pdf#page=33
+@@Skaven Petty Magic:
+Favour of the Horned Rat%The Horned Rat Companion.pdf#page=42
+Ghostly Flame%The Horned Rat Companion.pdf#page=42
+Mark of the Horned Rat%The Horned Rat Companion.pdf#page=42
+Rat Thrall%The Horned Rat Companion.pdf#page=43
+Vector%The Horned Rat Companion.pdf#page=43
+Wrack%The Horned Rat Companion.pdf#page=43
+@@Skaven Arcane Magic:
+Aspect of the Horned Rat%The Enemy Within Developer Diaries @@18.pdf#page=5
+Curse of the Horned Rat%The Horned Rat Companion.pdf#page=43
+Death Frenzy%The Horned Rat Companion.pdf#page=44
+Fight-Fight%The Enemy Within Developer Diaries @@18.pdf#page=5
+Musk of Terror%The Horned Rat Companion.pdf#page=44
+Skitterleap%The Horned Rat Companion.pdf#page=44
+Vermintide%The Horned Rat Companion.pdf#page=44
+@@Skaven Lore of Ruin
+Crack’s Call%The Horned Rat Companion.pdf#page=45
+Crackling Doom%The Horned Rat Companion.pdf#page=45
+Earth Crack%The Enemy Within Developer Diaries @@18.pdf#page=4
+Flensing Ruin%The Horned Rat Companion.pdf#page=45
+Howling Warpgale%The Horned Rat Companion.pdf#page=45
+Scorch%The Horned Rat Companion.pdf#page=45
+Warp Lightning%The Horned Rat Companion.pdf#page=45
+Warp Shield%The Horned Rat Companion.pdf#page=46
+Warp Storm%The Horned Rat Companion.pdf#page=46
+@@Skaven Lore of Plague
+Bless with Filth%Middenheim.pdf#page=109, The Horned Rat Companion.pdf#page=47
+Cloud of Corruption%The Horned Rat Companion.pdf#page=47
+Lance of Pestilence%The Enemy Within Developer Diaries @@18.pdf#page=4
+Mantle of Contagion%The Horned Rat Companion.pdf#page=47
+Pestilent Breath%The Horned Rat Companion.pdf#page=46
+Poisonous Pustule%The Horned Rat Companion.pdf#page=46
+Putrefy%The Horned Rat Companion.pdf#page=47
+Toxic Rain%The Horned Rat Companion.pdf#page=47
+Veil of Flies%The Horned Rat Companion.pdf#page=48
+Weeping Wound%The Horned Rat Companion.pdf#page=48
+Wither%The Horned Rat Companion.pdf#page=48
+@@Skaven Lore of Stealth
+Armour of Darkness%The Horned Rat Companion.pdf#page=48
+Black Whirlwind%The Horned Rat Companion.pdf#page=49
+Buoyant Passage%The Horned Rat Companion.pdf#page=49
+Flash-Bang%The Horned Rat Companion.pdf#page=49
+Pelt of the Assassin%The Horned Rat Companion.pdf#page=49
+Stickypaws%The Horned Rat Companion.pdf#page=49
+Swiftscamper%The Horned Rat Companion.pdf#page=48
+Traceless Demise%The Horned Rat Companion.pdf#page=49
+Warp Star Infusion%The Horned Rat Companion.pdf#page=49
+
+@@Big Waaagh!:
+‘Ard as Nails%Tribes and Tribulations.pdf#page=100
+Bash’Em Lads%Lustria.pdf#page=183, Tribes and Tribulations.pdf#page=100
+Brainbursta%Tribes and Tribulations.pdf#page=100
+‘Eadbutt!%Lustria.pdf#page=183, Tribes and Tribulations.pdf#page=100
+‘Ere We Go!%Tribes and Tribulations.pdf#page=100
+The Evil Sun%Tribes and Tribulations.pdf#page=100
+Fists of Gork%Lustria.pdf#page=183, Tribes and Tribulations.pdf#page=100
+Foot of Gork%Tribes and Tribulations.pdf#page=101
+Gaze of Mork%Tribes and Tribulations.pdf#page=101
+The Hand of Gork%Tribes and Tribulations.pdf#page=101
+Mork Save Us!%Lustria.pdf#page=183, Tribes and Tribulations.pdf#page=101
+WAAAGH!%Tribes and Tribulations.pdf#page=101
+@@Little Waaagh!:
+Behave!%Tribes and Tribulations.pdf#page=98
+Cunnin’ Words%Empire in Ruins.pdf#page=140, Tribes and Tribulations.pdf#page=98
+Curse of Da Bad Moon%Tribes and Tribulations.pdf#page=98
+Gift of the Spider God%Tribes and Tribulations.pdf#page=98
+Gork’ll Fix It%Empire in Ruins.pdf#page=140, Tribes and Tribulations.pdf#page=98
+The Great Green Spite%Tribes and Tribulations.pdf#page=98
+Itchy Nuisance%Starter Set Adventure Book.pdf#page=36, Tribes and Tribulations.pdf#page=98
+Mork Wants Ya!%Tribes and Tribulations.pdf#page=98
+Night Shroud%Empire in Ruins.pdf#page=140, Tribes and Tribulations.pdf#page=99
+Nikkit!%Tribes and Tribulations.pdf#page=99
+Sneaky Stabbin’%Starter Set Adventure Book.pdf#page=36, Empire in Ruins.pdf#page=140, Tribes and Tribulations.pdf#page=99
+Vindicative Glare%Empire in Ruins.pdf#page=140, Tribes and Tribulations.pdf#page=99
+@@Witchcraft:
+Angry Wave%The Enemy Within Developer Diaries @@10.pdf#page=4
+Banishment of Böl%Blood and Bramble.pdf#page=12
+Bonesnapper%Blood and Bramble.pdf#page=12
+Congeal%Blood and Bramble.pdf#page=13
+Curse of Rust%The Enemy Within Developer Diaries @@10.pdf#page=4
+Curse of the Treacherous Tongue%Blood and Bramble.pdf#page=13
+Fatethief%Blood and Bramble.pdf#page=13
+Lodestone%Blood and Bramble.pdf#page=13
+Mirrored Abyss%Blood and Bramble.pdf#page=14
+Nameless Summons%Blood and Bramble.pdf#page=17
+One with the River%The Enemy Within Developer Diaries @@10.pdf#page=4
+Outcast’s Curse%Blood and Bramble.pdf#page=14
+Pactbind%Blood and Bramble.pdf#page=15
+Painjar%Blood and Bramble.pdf#page=16
+River’s Dead%The Enemy Within Developer Diaries @@10.pdf#page=4
+Warship’s Hull%The Enemy Within Developer Diaries @@10.pdf#page=4
+Living Water%The Enemy Within Developer Diaries @@10.pdf#page=5
+River’s Whisper%The Enemy Within Developer Diaries @@10.pdf#page=5
+Swell River%The Enemy Within Developer Diaries @@10.pdf#page=5
+Tangleweed%The Enemy Within Developer Diaries @@10.pdf#page=5
+Wayward Path%Blood and Bramble.pdf#page=16
+@@Dwarf Runes
+Rune of Clear Seeing%Sea of Claws.pdf#page=47
+Rune of Farseeing%Sea of Claws.pdf#page=47
+Rune of Fire%Empire in Ruins.pdf#page=160
+Rune of Goblin Bane%Empire in Ruins.pdf#page=160
+Rune of Leaping%Starter Set Adventure Book.pdf#page=34
+Rune of Speed%Sea of Claws.pdf#page=47
+Rune of Spell-Breaking%Empire in Ruins.pdf#page=160
+Rune of Stalwart%Empire in Ruins.pdf#page=160
+Rune of Striking%Sea of Claws.pdf#page=47
+Smednir’s Master Rune of Head-Wrecking%Empire in Ruins.pdf#page=160
+@@Fimir Marsh Magic Spells:
+A Bite of Midges%Winds of Magic.pdf#page=217
+Despondent Slough%Winds of Magic.pdf#page=217
+Inculcate Mizzle%Winds of Magic.pdf#page=217
+Mystic Mist%Winds of Magic.pdf#page=217
+O Mere Be More%Winds of Magic.pdf#page=217
+Turned Around%Winds of Magic.pdf#page=217
+@Religion and Belief:
+@@Additional Religion Rules:
+The Cult of Khaine%Archives of the Empire III.pdf#page=50
+The Cult of Handrich%Archives of the Empire III.pdf#page=39
+The Cult of Manann%Sea of Claws.pdf#page=80
+The Cult of Myrmidia rules%Up in Arms.pdf#page=61
+The Cult ot the Old Faith%Archives of the Empire III.pdf#page=56
+The Cult of Rhya%Archives of the Empire III.pdf#page=65
+The Cult of Solkan%Archives of the Empire III.pdf#page=52
+The Cult of Stromfels%Sea of Claws.pdf#page=88
+Gnome Religion%Rough Nights and Hard Days.pdf#page=89
+Relics and Miracles%Empire in Ruins Companion.pdf#page=7
+River Gods of the Empire%The Enemy Within Developer Diaries @@9.pdf#page=2
+Spider-God Blessings%The Imperial Zoo.pdf#page=15
+@@Miracles of Sigmar:
+Zone of Sanctuary%Death on the Reik.pdf#page=78
+@@Miracles of Ulric:
+Crush the Weak%Power Behind the Throne Companion.pdf#page=50
+Frostbite%Power Behind the Throne Companion.pdf#page=50
+Heart of the Wolf%Power Behind the Throne Companion.pdf#page=50
+Hoarfrost Thews%Power Behind the Throne Companion.pdf#page=50
+Howl of Battle%Power Behind the Throne Companion.pdf#page=50
+Ice Storm%Power Behind the Throne Companion.pdf#page=50
+Wolf’s Bite%Power Behind the Throne Companion.pdf#page=50
+@@Miracles of Handrich
+A Deal’s a Deal%Archives of the Empire III.pdf#page=47
+Carry my Burdens%Archives of the Empire III.pdf#page=47
+Shake on It%Archives of the Empire III.pdf#page=47
+Supply and Deman%Archives of the Empire III.pdf#page=47
+Trickle Down%Archives of the Empire III.pdf#page=47
+Twist of Fortune%Archives of the Empire III.pdf#page=47
+@@Miracles of Manann
+Blessed Voyage%Sea of Claws.pdf#page=87
+Blessing of the Albatross%Sea of Claws.pdf#page=87
+Blessing of the Mariner%Sea of Claws.pdf#page=87
+Breathe Water%Sea of Claws.pdf#page=87
+Quell Waters%Sea of Claws.pdf#page=87
+Repel Sea Beast%Sea of Claws.pdf#page=87
+Rip Tides%Sea of Claws.pdf#page=87
+Sea Curse%Sea of Claws.pdf#page=87
+@@Miracles of Mathlann
+Waterlungs%Lustria.pdf#page=81
+Cloak of Mathlann%Lustria.pdf#page=81
+@@Miracles of Myrmidia:
+Command the Legion%Up in Arms.pdf#page=79
+Dismay Foe%Up in Arms.pdf#page=79
+In Good Order%Up in Arms.pdf#page=79
+Know your Enemy%Up in Arms.pdf#page=79
+On Deadly Ground%Up in Arms.pdf#page=79
+Quick Strike%Up in Arms.pdf#page=79
+Shieldmaiden’s Devotion%Up in Arms.pdf#page=79
+Skill of Combat%Up in Arms.pdf#page=79
+Vengeful Wrath%Up in Arms.pdf#page=79
+@@Miracles of River Gods
+Calm River%The Enemy Within Developer Diaries @@9.pdf#page=5
+Lower Flood%The Enemy Within Developer Diaries @@9.pdf#page=5
+Rivergod’s Blessing%The Enemy Within Developer Diaries @@9.pdf#page=6
+Rivergod’s Bounty%The Enemy Within Developer Diaries @@9.pdf#page=6
+Rivergod’s Protection%The Enemy Within Developer Diaries @@9.pdf#page=5
+Rivergod’s Wisdom%The Enemy Within Developer Diaries @@9.pdf#page=5
+@@Miracles of Rhya
+Rhya’s Abundance%Archives of the Empire III.pdf#page=74
+Rhya’s Demand%Archives of the Empire III.pdf#page=74
+Rhya’s Dominion%Archives of the Empire III.pdf#page=74
+Rhya’s Flock%Archives of the Empire III.pdf#page=74
+Rhya’s Taming%Archives of the Empire III.pdf#page=74
+Rhya’s Rage%Archives of the Empire III.pdf#page=74
+@@Miracles of Solkan
+Absolute Purity%Archives of the Empire III.pdf#page=55
+Fist of Vengeance%Archives of the Empire III.pdf#page=55
+Flaming Blade%Archives of the Empire III.pdf#page=55
+Fury of the Righteous Sun%Archives of the Empire III.pdf#page=55
+Light of Stasis%Archives of the Empire III.pdf#page=55
+Still the Winds%Archives of the Empire III.pdf#page=55
+@@Miracles of Stromfels
+Blood Trail%Sea of Claws.pdf#page=91
+Curse of the Harsh Mistress%Sea of Claws.pdf#page=91
+Manann’s Mood Made Meaningless%Sea of Claws.pdf#page=91
+Raging Seas%Sea of Claws.pdf#page=91
+Seasickness%Sea of Claws.pdf#page=91
+Send ‘em to Stromfels%Sea of Claws.pdf#page=91
+Storm Winds%Sea of Claws.pdf#page=91
+@@Miracles of the Spider-God
+Kiss of da Black Pit%The Imperial Zoo.pdf#page=15
+Plague of Scuttlin’%The Imperial Zoo.pdf#page=15
+Snare ‘Em Good%The Imperial Zoo.pdf#page=15
+@Miscellaneous:
+@@Conditions:
+Besmirched%The Horned Rat.pdf#page=21
+Bleeding condition update%Up in Arms.pdf#page=80
+Rattled%Something Knocking.pdf#page=11, Empire in Ruins.pdf#page=151
+@@Endeavours:
+Alcatini Method%Up in Arms.pdf#page=138
+A Study in Skaven%Patrons of the Old World I.pdf#page=6
+Attuning with the Ancients%Lustria.pdf#page=216
+Bear Witness%Patrons of the Old World II.pdf#page=18
+Boatbuilding%Lustria.pdf#page=216
+Brew Potion%Winds of Magic.pdf#page=34
+Construction%Lustria.pdf#page=216
+Count Punchausen’s Narrative Auction%Up in Arms.pdf#page=138
+Deforestation%Lustria.pdf#page=216
+Endeavours at Sea%Sea of Claws.pdf#page=134
+Endeavours in Altdorf%Altdorf.pdf#page=219
+Entertaining%Lustria.pdf#page=217 
+Fanmaris’s Perfect Shot%Up in Arms.pdf#page=137
+Foraging%Death on the Reik Companion.pdf#page=9, The Enemy Within Developer Diaries @@13.pdf#page=3
+Gather Ingredients%Winds of Magic.pdf#page=34
+Hedge School%Patrons of the Old World II.pdf#page=11
+Improve Familiar%Winds of Magic.pdf#page=34
+No Use For Visionaries%Patrons of the Old World II.pdf#page=15
+Only The Best%Patrons of the Old World I.pdf#page=11
+Patrolling the Border%Lustria.pdf#page=217
+Perform Ritual%Winds of Magic.pdf#page=34
+Rationing%Lustria.pdf#page=217
+Recuperation% Archives of the Empire II.pdf#page=92
+Sponsoring an Expedition%Lustria.pdf#page=217
+The Leitdorf Defence%Up in Arms.pdf#page=137
+The Null Hypothesis%Patrons of the Old World II.pdf#page=7
+The Quartermaster Shuffle%Up in Arms.pdf#page=138
+Travel Endeavours%Enemy in Shadows Companion.pdf#page=34
+@@ Diseases:
+Altitude Sickness%The Horned Rat.pdf#page=132
+Bilious Ague%Lustria.pdf#page=186
+Blackwater Fever%Lustria.pdf#page=186
+Bleeding Eyerot%The Horned Rat Companion.pdf#page=26, Lustria.pdf#page=186
+Blindwyrm Fits%Lustria.pdf#page=186
+Brain Rot%Lustria.pdf#page=186
+Cataleptic Ague%Lustria.pdf#page=187
+Choking Lungblight%Lustria.pdf#page=187
+Eyeslime Fever%Forest of Hate.pdf#page=33
+Fungal Takeover%Lustria.pdf#page=187
+Ghoulpox%Ubersreik Adventures III.pdf#page=101
+Lice%Death on the Reik.pdf#page=69
+Necrotic Foot Rot%Lustria.pdf#page=187
+New Symptom: Organ Failure%The Horned Rat Companion.pdf#page=26
+Nurgle’s Rot%The Horned Rat Companion.pdf#page=77, Ubersreik Adventures III.pdf#page=101
+Purple Brain Fever (Disease)%Enemy in Shadows.pdf#page=145
+Scurvy%Sea of Claws.pdf#page=125
+Sea Sickness%Sea of Claws.pdf#page=125, Skeleton Crew.pdf#page=11
+Thought Fog%Lustria.pdf#page=187
+Waterborn Diseases%Death on the Reik Companion.pdf#page=91
+Yellow-Skull Fever%Lustria.pdf#page=188
+@@Trade, Craft and Expeditions:
+Alchemy Rules%Winds of Magic.pdf#page=49
+Boats and Boatbuilding%Sea of Claws.pdf#page=92
+Building a Colony%Lustria.pdf#page=210
+Crafting a Magical Artefact% Archives of the Empire II.pdf#page=54, The Imperial Zoo.pdf#page=115
+Crafting Weapons & Armour from animal parts%The Imperial Zoo.pdf#page=112
+Gathering Herbs%Death on the Reik Companion.pdf#page=9
+Gazetteer of Ports around the Sea of Claws%Sea of Claws.pdf#page=138
+Gazetteer of International Ports%Sea of Claws.pdf#page=139
+Gazetteer of Nordland and the Principality of Salzenmund%Salzenmund.pdf#page=112
+Gazetteer of Tilea (Tilean Settlements and new trade goods)%Up in Arms.pdf#page=52
+Gazetteer of the Grand Principality of Reikland%Death on the Reik Companion.pdf#page=75
+Hunting and Harvesting Beasts rules%The Imperial Zoo.pdf#page=99, Hunting Monster for Fun & Profit
+Jungle Expeditions in Lustria%Lustria.pdf#page=202
+Maritime Trade%Sea of Claws.pdf#page=135
+Mining in the Empire%Salzenmund.pdf#page=120
+Poultices, Draughts and Infusion%Death on the Reik Companion.pdf#page=10
+Repairing Vehicles%Enemy in Shadows Companion.pdf#page=30
+Repairing Boats%Death on the Reik Companion.pdf#page=30
+River Navigation%Death on the Reik Companion.pdf#page=28
+Seafaring%Sea of Claws.pdf#page=103
+Smuggling%Salzenmund.pdf#page=135
+Starting an Enterprise%Archives of the Empires: Volume III.pdf#page=6
+Trading Rules%Death on the Reik Companion.pdf#page=70
+@@Other Rules:
+Additional rules for mounted combat%Enemy in Shadows Companion.pdf#page=29, Up in Arms.pdf#page=105
+Altdorf Fog and Filthy Air Tables%Altdorf.pdf#page=8
+Artillery and Damage to Structure%Up in Arms.pdf#page=118
+Campaigning in Lustria%Lustria.pdf#page=189
+Clan Skryre Troops rules %The Imperial Zoo.pdf#page=94
+Cold and Wet weather rules%The Horned Rat.pdf#page=131
+Daily Entertainment in Altdorf Tables%Altdorf.pdf#page=45
+Doors and Locks rules%Enemy in Shadows.pdf#page=145
+Dwarf Dirigible sailing rules%Empire in Ruins.pdf#page=37
+Eating Purple Caps mushrooms%Empire in Ruins Companion.pdf#page=31
+Gromril and Ithilmar armour rules% Archives of the Empire II.pdf#page=62
+Group Advantage%Up in Arms.pdf#page=134
+Hiring an ogre NPC% Archives of the Empire II.pdf#page=8
+Hiring Mercenaries%Up in Arms.pdf#page=110
+Mass Combat Rules% Archives of the Empire II.pdf#page=82
+Middenball rules%Middenheim.pdf#page=143
+Mutant Creation Tables%Enemy in Shadows Companion.pdf#page=65
+New optional rules for wounds, critical wounds and death%Up in Arms.pdf#page=80
+Norse Dwarf ships and ship upgrades%Sea of Claws.pdf#page=44
+People of Burden (Additional Ogre PC Rules)% Archives of the Empire II.pdf#page=31
+Pub Games Rules%Rough Nights and Hard Days.pdf#page=91, Taverns of the Old World.pdf#page=24 (simplified)
+Psychological Disorders% Archives of the Empire II.pdf#page=92
+Quick Ulrican NPC%Power Behind the Throne Companion.pdf#page=48
+Rules for Harsh montainous weather%The Horned Rat.pdf#page=131
+Rules for Pursuit%Up in Arms.pdf#page=127
+Ship Upgrades (Hull, Steering, Superstructure, Rigging, Oars, Weapons, Propulsion)%Death on the Reik Companion.pdf#page=64
+Silvered Weapons%Hunting Monsters for Fun and Profit
+Size Matters (using size differences when playing Ogre PC in combat)% Archives of the Empire II.pdf#page=28
+Slann Rules%Lustria.pdf#page=125
+Suits of Steel (Armour update, looting armour, repairing armour)%Archives of the Empire III.pdf#page=34
+Tavern Creation Rules%Taverns of the Old World.pdf#page=3
+Troll Bile Pools%Sea of Claws.pdf#page=35
+Wandering Creature Encounters in Lustria%Lustria.pdf#page=185
+

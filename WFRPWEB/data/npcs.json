@@ -1,0 +1,253 @@
+{
+    "BRUNO FRANKE": {
+        "name": "BRUNO FRANKE",
+        "title": "JUDICIAL CHAMPION",
+        "rank": "GOLD 3",
+        "stats": {
+            "M": 4,
+            "WS": 68,
+            "BS": 47,
+            "S": 69,
+            "T": 42,
+            "I": 53,
+            "Ag": 63,
+            "Dex": 31,
+            "Int": 25,
+            "WP": 50,
+            "Fel": 29,
+            "W": 17
+        },
+        "skills": [
+            "Dodge 83",
+            "Melee (Basic) 73",
+            "Melee (Fencing) 83",
+            "Melee (Two-handed) 91"
+        ],
+        "talents": [],
+        "traits": [
+            "Armour (Full Plate) 5",
+            "Weapon (Rapier) +9",
+            "Weapon (Sword) +9",
+            "Weapon (Zweihiinder) +10"
+        ],
+        "trappings": "Bulging Biceps; Franke's weapons and armour are owned by the gravin and stored in his room"
+    },
+    "GUSTAF RECHTSHANDLER": {
+        "name": "GUSTAF RECHTSHANDLER",
+        "title": "BARRISTER",
+        "rank": "GOLD 1",
+        "stats": {
+            "M": 4,
+            "WS": 26,
+            "BS": 26,
+            "S": 28,
+            "T": 29,
+            "I": 64,
+            "Ag": 31,
+            "Dex": 48,
+            "Int": 62,
+            "WP": 51,
+            "Fel": 42,
+            "W": 11
+        },
+        "skills": [
+            "Bribery 61",
+            "Consume Alcohol 34",
+            "Endurance 39",
+            "Entertain (Speeches) 62",
+            "Haggle 61",
+            "Language (Classical) 79",
+            "Language (Guilder) 73",
+            "Lore (Law) 87",
+            "Lore (Nuln) 72",
+            "Lore (Theology) 67",
+            "Perception 69",
+            "Research 78",
+            "Secret Signs (Guilder) 73"
+        ],
+        "talents": [
+            "Argumentative 2",
+            "Blather",
+            "Bookish",
+            "Doomed (Thy end shalt be pricklyI)",
+            "Etiquette (Guilder)",
+            "Etiquette (Scholar) 4",
+            "Read/Write",
+            "Savvy",
+            "Speedreader 2",
+            "Suave"
+        ],
+        "traits": [
+            "Prejudice (Those Who Contradict Him)",
+            "Weapon (Dagger) +5"
+        ],
+        "trappings": "Lawyer's Robes, Towering Sense of Self Importance, Wig"
+    },
+    "BODYGUARDS AND MEN-AT-ARMS": {
+        "name": "BODYGUARDS AND MEN-AT-ARMS",
+        "title": "Unknown",
+        "rank": "SILVER 3",
+        "stats": {
+            "M": 4,
+            "WS": 51,
+            "BS": 35,
+            "S": 43,
+            "T": 62,
+            "I": 44,
+            "Ag": 46,
+            "Dex": 28,
+            "Int": 26,
+            "WP": 44,
+            "Fel": 28,
+            "W": 20
+        },          
+        "skills": [
+            "Dodge 54",
+            "Melee (Basic) 61"
+        ],
+        "talents": [
+            "Strike to Stun"
+        ],
+        "traits": [
+            "Armour (Leathers and Plates) 3",
+            "Prejudice (Ambosstein Enemies)",
+            "Tough",
+            "Weapon (Sword) +8 "
+        ],
+        "trappings": null
+    },
+    "HANDMAIDS AND SERVANTS": {
+        "name": "HANDMAIDS AND SERVANTS",
+        "title": "Unknown",
+        "rank": "SILVER 3",
+        "stats": {
+            "M": 4,
+            "WS": 28,
+            "BS": 32,
+            "S": 40,
+            "T": 39,
+            "I": 37,
+            "Ag": 40,
+            "Dex": 31,
+            "Int": 28,
+            "WP": 25,
+            "Fel": 43,
+            "W": 12
+        },
+        "skills": [],
+        "talents": [],
+        "traits": [
+            "Weapon (Fist) +6"
+        ],
+        "trappings": null
+    },
+    "MARIA-ULRIKE VON LIEBWITZ": {
+        "name": "MARIA-ULRIKE VON LIEBWITZ",
+        "title": "NOBLE LORD",
+        "rank": "GOLD 7",
+        "stats": {
+            "M": 4,
+            "WS": 43,
+            "BS": 31,
+            "S": 28,
+            "T": 28,
+            "I": 47,
+            "Ag": 34,
+            "Dex": 47,
+            "Int": 54,
+            "WP": 50,
+            "Fel": 66,
+            "W": 11
+        },
+        "skills": [
+            "Bribery 76",
+            "Charm 72",
+            "Consume Alcohol 39",
+            "Gamble 64",
+            "Gossip 77",
+            "Intimidate 39",
+            "Intuition 54",
+            "Language (Bretonnian) 59",
+            "Language (Classical) 65",
+            "Leadership 88",
+            "Lore (Heraldry) 66",
+            "Lore (Ambosstein) 75",
+            "Lore (Nuln) 64",
+            "Lore (Politics) 69",
+            "Lore (Theology) 64",
+            "Melee (Fencing) 53",
+            "Melee (Parry) 54",
+            "Perception 52",
+            "Play (Harpsichord) 58",
+            "Ride (Horse) 47"
+        ],
+        "talents": [
+            "Attractive 3",
+            "Carouser",
+            "Commanding Presence 2",
+            "Doomed (Blood and betrayal bring thee low)",
+            "Etiquette (Nobles) 4",
+            "Iron Will",
+            "Luck 3",
+            "Noble Blood",
+            "Public Speaker 5",
+            "Read/Write",
+            "Savvy",
+            "Suave",
+            "Wealthy 5"
+        ],
+        "traits": [
+            "Prejudice (Liars)",
+            "Weapon (Fist) +4" 
+        ],
+        "trappings": "Best Quality Courtly Garb, many Bodyguards (4 of which almost never leave her side), the Duchy of Ambosstein, Jewellery worth 750 GC, Poise, Servants, anything else you teel she requires"
+    },
+    "MARTYN RUCHEN": {
+        "name": "MARTYN RUCHEN",
+        "title": "CHAOS CULT LEADER AND\nCHAOS SORCERER",
+        "rank": "SILVER 3",
+        "stats": {
+            "M": 7,
+            "WS": 4,
+            "BS": 43,
+            "S": 37,
+            "T": 32,
+            "I": 57,
+            "Ag": 43,
+            "Dex": 33,
+            "Int": 33,
+            "WP": 43,
+            "Fel": 57,
+            "W": 43
+        },
+        "skills": [
+            "Channelling 75",
+            "Endurance 89",
+            "Intimidate 52",
+            "Language (Dark Tongue) 53",
+            "Language (Magick) 58",
+            "Melee (Basic) 53"
+        ],
+        "talents": [],
+        "traits": [
+            "Corrupted (Minor)",
+            "Cunning",
+            "Disease (Itching Pox)",
+            "Hardy (2)",
+            "Hatred (Khorne Worshippers)",
+            "Infected",
+            "Magic Resistance (1)",
+            "Mutation (Cosmetic: Maggoty Tail)",
+            "Spellcaster (Nurgle: Breath",
+            "Corrosive Blood",
+            "Reveal the Inner Beauty",
+            "Shock",
+            "Sleep)",
+            "Painless",
+            "Tail Attack (6)",
+            "1ough",
+            "Weapon (Dagger) +6"
+        ],
+        "trappings": "Many beautiful, blistering boils"
+    }
+}
