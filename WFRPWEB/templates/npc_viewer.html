@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ npc.name }} - NPC Details</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>{{ npc.name }} - {{ npc.title }} ({{ npc.rank }})</h1>
+        <p><strong>Adventure:</strong> {{ npc.adventure }}</p>
+
+        <!-- NPC Stats -->
+        <table class="npc-stats">
+            <tr>
+                <th>M</th><th>WS</th><th>BS</th><th>S</th><th>T</th><th>I</th><th>Ag</th><th>Dex</th><th>Int</th><th>WP</th><th>Fel</th><th>W</th>
+            </tr>
+            <tr>
+                <td>{{ npc.stats.M }}</td>
+                <td>{{ npc.stats.WS }}</td>
+                <td>{{ npc.stats.BS }}</td>
+                <td>{{ npc.stats.S }}</td>
+                <td>{{ npc.stats.T }}</td>
+                <td>{{ npc.stats.I }}</td>
+                <td>{{ npc.stats.Ag }}</td>
+                <td>{{ npc.stats.Dex }}</td>
+                <td>{{ npc.stats.Int }}</td>
+                <td>{{ npc.stats.WP }}</td>
+                <td>{{ npc.stats.Fel }}</td>
+                <td>{{ npc.stats.W }}</td>
+            </tr>
+        </table>
+
+        <!-- List Skills -->
+        <h2>Skills</h2>
+        <p>
+            {% if npc.skills %}
+                {{ npc.skills|join(', ') }}
+            {% else %}
+                None
+            {% endif %}
+        </p>
+
+        <!-- List Talents as a comma-separated list -->
+        <h2>Talents</h2>
+        <p>
+            {% if npc.talents %}
+                {{ npc.talents|join(', ') }}
+            {% else %}
+                None
+            {% endif %}
+        </p>
+
+        <!-- List Traits as a comma-separated list -->
+        <h2>Traits</h2>
+        <p>
+            {% if npc.traits %}
+                {{ npc.traits|join(', ') }}
+            {% else %}
+                None
+            {% endif %}
+        </p>
+
+        <h2>Trappings</h2>
+        <p>{{ npc.trappings or 'None' }}</p>
+
+        <!-- Expanded explanations for talents and traits -->
+        <h2>Talents & Traits Descriptions</h2>
+        <ul>
+            <!-- Talents Descriptions -->
+            {% if npc_talents %}
+                <li><strong>Talents:</strong></li>
+                {% for talent in npc_talents %}
+                    <li><strong>{{ talent.name }}:</strong> {{ talent.description or 'Description not found' }}</li>
+                {% endfor %}
+            {% endif %}
+
+            <!-- Traits Descriptions -->
+            {% if npc_traits %}
+                <li><strong>Traits:</strong></li>
+                {% for trait in npc_traits %}
+                    <li><strong>{{ trait.name }}:</strong> {{ trait.description or 'Description not found' }}</li>
+                {% endfor %}
+            {% endif %}
+        </ul>
+
+        <a href="/npcs" class="btn">Back to NPC List</a>
+    </div>
+</body>
+</html>
