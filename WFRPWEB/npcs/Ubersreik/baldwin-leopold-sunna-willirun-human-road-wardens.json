@@ -1,0 +1,42 @@
+{
+    "name": "Generic Guard / Road Warden",
+    "rank": "Silver 2",
+    "title": "Guard",
+    "skills": [
+        "Animal Care 40",
+        "Bribery 40",
+        "Intimidate 40",
+        "Intuition 50",
+        "Melee (Basic) 50",
+        "Perception 45",
+        "Ranged (Crossbow) 55",
+        "Ride (Horse) 40"
+    ],
+    "talents": [
+        "Strike to Stun"
+    ],
+    "traits": [
+        "Armour (Leather Jack) 1",
+        "Prejudice (Criminals",
+        "People Who Don't Bribe Them)",
+        "Ranged (Crossbow) +9",
+        "Weapon (Club) +7"
+    ],
+    "trappings": "Crossbow (with 10 Bolts). Sword, Mail Shirt, Riding Horse with Saddle and Harness",
+    "image": "baldwin-leopold-sunna-willirunhuman-road-wardens.png",
+    "stats": {
+        "M": "2",
+        "WS": "4",
+        "BS": "45",
+        "S": "49",
+        "T": "37",
+        "I": "44",
+        "Ag": "46",
+        "Dex": "27",
+        "Int": "28",
+        "WP": "32",
+        "Fel": "39",
+        "W": "41"
+    },
+    "comment": ""
+}

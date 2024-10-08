@@ -1,0 +1,29 @@
+{
+    "name": "Warriors",
+    "title": "",
+    "rank": "",
+    "stats": {
+        "M": 4,
+        "WS": 45,
+        "BS": 40,
+        "S": 40,
+        "T": 40,
+        "I": 30,
+        "Ag": 35,
+        "Dex": 30,
+        "Int": 30,
+        "WP": 40,
+        "Fel": 30,
+        "W": 16
+    },
+    "skills": [],
+    "talents": [],
+    "traits": [
+        "Weapon +7 Optional: Belligerent",
+        "Champion",
+        "Disease (any one)",
+        "Ranged +9 (60)"
+    ],
+    "trappings": null,
+    "image": "warriors.png"
+}

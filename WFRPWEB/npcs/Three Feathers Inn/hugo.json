@@ -1,0 +1,27 @@
+{
+    "name": "Hugo",
+    "title": "Slaanesh Cultists",
+    "rank": "Silver 1",
+    "stats": {
+        "M": 4,
+        "WS": 34,
+        "BS": 31,
+        "S": 39,
+        "T": 51,
+        "I": 25,
+        "Ag": 32,
+        "Dex": 43,
+        "Int": 45,
+        "WP": 41,
+        "Fel": 43,
+        "W": 17
+    },
+    "skills": [],
+    "talents": [],
+    "traits": [
+        "Prejudice (Warriors)",
+        "(Dagger) +6"
+    ],
+    "trappings": null,
+    "image": "hugo.png"
+}

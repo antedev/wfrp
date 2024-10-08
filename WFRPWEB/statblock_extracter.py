@@ -1,12 +1,12 @@
 import pytesseract
-from PIL import Image, ImageEnhance, ImageFilter, ImageOps
+from PIL import Image, ImageFilter, ImageOps
 import json
 import os
 import re
 
-# Path to the folder containing the images
+# Path to the folder containing the images and the target folder for json output
 image_folder = "./statblocks"
-output_json = {}
+npcs_folder = "./npcs"
 
 def preprocess_image(img_path):
     """ Function to preprocess the image to improve OCR accuracy """
@@ -23,25 +23,38 @@ def preprocess_image(img_path):
     img = img.filter(ImageFilter.SHARPEN)
     img = img.filter(ImageFilter.MedianFilter(size=3))  # Median blur to remove noise
 
-    # Optional: Deskew the image (if OCR consistently misaligns rows)
-    img = img.rotate(-0.5, expand=True)  # Adjust this angle based on the image
-
     return img
 
 def extract_title_and_rank(text):
     """ Extract the character's name, title, and rank (status) """
     title_rank_match = re.search(r'([A-Z,\s-]+)\s\((GOLD|SILVER|BRASS|COLD)\s*(\d+)\)', text)
+    print(title_rank_match)
     if title_rank_match:
         full_name = title_rank_match.group(1).strip()
         rank = f"{title_rank_match.group(2)} {title_rank_match.group(3)}"
+        rank = rank.title()
         if ' - ' in full_name:
             name, title = full_name.split(' - ', 1)
-            name = name.strip()
-            title = title.strip()
+            name = name.strip().title()
+            title = title.strip().title()
         else:
-            name = full_name
+            name = full_name.title()
             title = "Unknown"
         return name, title, rank
+    else: # Try monster statblock
+        print(text)
+        monster_stat = re.search(r'(?:(\d+)\s+)?([A-Za-z\s-]+?)(?:\s+-\s+([A-Za-z\s-]+))?(?=\n|$)', text)
+
+        print(monster_stat)
+        if monster_stat.group(3):
+            name = monster_stat.group(2).strip().title()
+            creature_type = monster_stat.group(3).strip().title()
+            return name, creature_type, ""
+        else: 
+            name = monster_stat.group(2).strip().title()
+            return name, "", ""
+
+
     return "Unknown", "Unknown", "Unknown"
 
 def clean_ocr_text(text):
@@ -63,25 +76,10 @@ def parse_list_section(text_section):
 
 def extract_stats(text):
     """ Function to extract stats by finding the first valid sequence of 12 numbers """
-    # Use regex to extract all sequences of numbers
     numbers = re.findall(r'\d+', text)
-
-    # Filter out the first '1' or misrecognized 'I', if it's an extra number
     numbers = [num for num in numbers if num != '1']
 
-    # Correct for misplaced stats, especially movement (M)
     if len(numbers) >= 12:
-        # Movement (M) should be a single-digit number; check if the first number is out of place
-        if int(numbers[0]) > 9 and len(numbers) > 12:
-            # Move the first single-digit number (likely M) to the correct position
-            m_stat = next((num for num in numbers if int(num) < 10), None)
-            if m_stat:
-                numbers.remove(m_stat)
-                numbers = [m_stat] + numbers[:11]
-        else:
-            numbers = numbers[:12]  # Take the first 12 valid numbers
-
-        # Map the numbers to the corresponding stat labels
         return {
             "M": int(numbers[0]),
             "WS": int(numbers[1]),
@@ -104,6 +102,9 @@ def parse_image(image_path):
 
     # Perform OCR on the image
     text = pytesseract.image_to_string(img, config='--psm 6')  # Set OCR to treat the text as a block (PSM 6)
+    # Debug: Print the full extracted text
+    #print(f"Extracted Text from {image_path}:")
+    #print(text)
 
     # Extract title and rank before cleaning the text
     name, title, rank = extract_title_and_rank(text)
@@ -114,6 +115,10 @@ def parse_image(image_path):
 
     # Clean the text after the title
     cleaned_text = clean_ocr_text(text_after_rank)
+    
+    # Debug: Print the cleaned text
+    #print("Cleaned OCR Text:")
+    #print(cleaned_text)
 
     # Extract the stats using the new function
     stats = extract_stats(cleaned_text)
@@ -121,6 +126,11 @@ def parse_image(image_path):
     # Extract Skills, Talents, and Traits as lists
     skills_match = re.search(r'Skills:\s*(.+?)(?=Traits:|Talents:|Trappings:|$)', cleaned_text, re.DOTALL)
     skills = parse_list_section(skills_match.group(1)) if skills_match else []
+
+     # Debug: Print Skills Match
+    #print("Skills Found:")
+    #print(skills)
+
 
     talents_match = re.search(r'Talents:\s*(.+?)(?=Traits:|Trappings:|$)', cleaned_text, re.DOTALL)
     talents = parse_list_section(talents_match.group(1)) if talents_match else []
@@ -132,6 +142,9 @@ def parse_image(image_path):
     trappings_match = re.search(r'Trappings:\s*(.+)', cleaned_text, re.DOTALL)
     trappings = trappings_match.group(1).strip() if trappings_match else None
     
+    # Generate image filename from the name
+    image_filename = re.sub(r'[^a-zA-Z0-9\s-]', '', name).lower().replace(' ', '-')
+
     # Return the structured data
     return {
         "name": name,
@@ -141,22 +154,42 @@ def parse_image(image_path):
         "skills": skills,
         "talents": talents,
         "traits": traits,
-        "trappings": trappings
+        "trappings": trappings,
+        "image": f"{image_filename}.png"
     }
 
-# Process each image in the folder
-for image_file in os.listdir(image_folder):
-    if image_file.endswith('.png') or image_file.endswith('.jpg'):
-        image_path = os.path.join(image_folder, image_file)
-        
-        # Parse the image and extract data
-        character_data = parse_image(image_path)
-        
-        # Add the character data to the output JSON
-        output_json[character_data['name']] = character_data
+def save_json(data, folder, file_name):
+    """ Save the extracted data to a JSON file in the appropriate folder """
+    if not os.path.exists(folder):
+        os.makedirs(folder)
 
-# Save the output as a JSON file with proper encoding handling
-with open('character_data.json', 'w', encoding='utf-8') as outfile:
-    json.dump(output_json, outfile, ensure_ascii=False, indent=4)
+    file_path = os.path.join(folder, file_name)
+    
+    if os.path.exists(file_path):
+        print(f"File {file_name} already exists, skipping.")
+        return
 
-print("JSON file created successfully!")
+    with open(file_path, 'w', encoding='utf-8') as outfile:
+        json.dump(data, outfile, ensure_ascii=False, indent=4)
+        print(f"Saved {file_name}")
+
+# Process each image in the folder and its subfolders
+for root, dirs, files in os.walk(image_folder):
+    for image_file in files:
+        if image_file.endswith('.png') or image_file.endswith('.jpg'):
+            image_path = os.path.join(root, image_file)
+            
+            # Parse the image and extract data
+            character_data = parse_image(image_path)
+
+            # Determine the relative path within the statblocks folder
+            relative_path = os.path.relpath(root, image_folder)
+
+            # Set the target folder in npcs to mirror the structure of statblocks
+            folder_path = os.path.join(npcs_folder, relative_path)
+
+            # Ensure the name of the JSON file is formatted correctly.
+            json_file_name = re.sub(r'[\n\r]+', ' ', character_data['name'].lower()).replace(' ', '-').replace(',', '') + '.json'
+
+            # Save the character data into npcs folder structure
+            save_json(character_data, folder_path, json_file_name)

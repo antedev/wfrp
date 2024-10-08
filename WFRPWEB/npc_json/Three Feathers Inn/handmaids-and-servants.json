@@ -1,0 +1,26 @@
+{
+    "name": "HANDMAIDS AND SERVANTS",
+    "title": "Unknown",
+    "rank": "SILVER 3",
+    "stats": {
+        "M": 4,
+        "WS": 28,
+        "BS": 32,
+        "S": 40,
+        "T": 39,
+        "I": 37,
+        "Ag": 40,
+        "Dex": 31,
+        "Int": 28,
+        "WP": 25,
+        "Fel": 43,
+        "W": 12
+    },
+    "skills": [],
+    "talents": [],
+    "traits": [
+        "Weapon (Fist) +6"
+    ],
+    "trappings": null,
+    "image": "handmaids-and-servants.png"
+}

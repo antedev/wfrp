@@ -1,0 +1,42 @@
+{
+    "name": "Josef Quartjin",
+    "rank": "Silver 5",
+    "title": "Human Bargemaster",
+    "skills": [
+        "Consume Alcohol 73",
+        "Lore (Rivers) 45",
+        "Navigation 50",
+        "Outdoor Survival 47",
+        "Row 64",
+        "Sail 82",
+        "Trade (Boatbuilding) 49"
+    ],
+    "talents": [
+        "Doomed (An Unquenchable Thirst Shall Drown Thee)",
+        "Fisherman",
+        "Orientation",
+        "Very Strong"
+    ],
+    "traits": [
+        "Armour (Leather Jack and Skullcap) 1",
+        "Ranged (Crossbow) (60) +9",
+        "Weapon (Axe) +8"
+    ],
+    "trappings": "34/156 (on the Beredeli), Axe, Bottles of Wine (many of them), Crossbow, Leather Jack, Leather Skullcap, River Barge Berebeli",
+    "image": "josef-quartjin.png",
+    "stats": {
+        "M": "4",
+        "WS": "48",
+        "BS": "38",
+        "S": "55",
+        "T": "48",
+        "I": "42",
+        "Ag": "43",
+        "Dex": "39",
+        "Int": "30",
+        "WP": "24",
+        "Fel": "48",
+        "W": "15"
+    },
+    "comment": ""
+}

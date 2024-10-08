@@ -1,0 +1,60 @@
+{
+    "name": "DOMINIQUE HERVEAUX",
+    "title": "ASSASSIN",
+    "rank": "GOLD 1",
+    "stats": {
+        "M": "4",
+        "WS": "70",
+        "BS": "56",
+        "S": "38",
+        "T": "55",
+        "I": "60",
+        "Ag": "55",
+        "Dex": "34",
+        "Int": "37",
+        "WP": "34",
+        "Fel": "58",
+        "W": "15"
+    },
+    "skills": [
+        "Animal Care 47",
+        "Animal Training (Snake) 52",
+        "Athletics 75",
+        "Bribery 68",
+        "Charm 81",
+        "Charm Animal 44",
+        "Climb 48",
+        "Cool 46",
+        "Dodge 76",
+        "Endurance 70",
+        "Entertain (Act) 69",
+        "Entertain (Taunt) 63",
+        "Gossip 74",
+        "Haggle 78",
+        "Intimidate 47",
+        "Intuition 70",
+        "Melee (Basic) 65",
+        "Melee (Brawling) 70",
+        "Perception 80",
+        "Sleight of Hand 75",
+        "Stealth (Urban) 65"
+    ],
+    "talents": [
+        "Combat Reflexes 2",
+        "Etiquette (Servants)",
+        "Marksman",
+        "Lip Reading",
+        "Luck 2",
+        "Read/Write",
+        "Relentless 3",
+        "Reversal 2",
+        "Sixth Sense",
+        "Warrior Born",
+        "Suave"
+    ],
+    "traits": [
+        "Weapon (Dagger) +5"
+    ],
+    "trappings": "Poisoned Dagger (the first Wound it causes inflicts the effects of Heartkill; the blade is coated with enough poison for three strikes), Servant’s Clothing",
+    "image": "dominique-herveaux.png"
+}

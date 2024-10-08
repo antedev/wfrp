@@ -1,0 +1,45 @@
+{
+    "name": "Mercinellin \"Seedling\" Thorncobble XiII",
+    "rank": "Brass 1",
+    "title": "Hustler",
+    "skills": [
+        "Bribery 56",
+        "Charm 58",
+        "Consume Alcohol 44 Entertain (Singing) 52",
+        "Gamble 55",
+        "Gossip 51",
+        "Haggle 54 Intimidate 24",
+        "Melee (Basic) 30",
+        "Language (Mootish) 40. Leadership 51",
+        "Lore (Heraldry) 40",
+        "Lore (Reikland) 48 Play (Lyre) 50"
+    ],
+    "talents": [
+        "Attractive",
+        "Blather",
+        "Luck 2",
+        "Perfect Pitch",
+        "Read/Write",
+        "Small"
+    ],
+    "traits": [
+        "Weapon (Dagger) +4"
+    ],
+    "trappings": "12 shillings and 32d, Lyre, Pack of Cards",
+    "image": "mercinellin-seedling-thorncobble-xiii.png",
+    "stats": {
+        "M": "4",
+        "WS": "25",
+        "BS": "37",
+        "S": "14",
+        "T": "34",
+        "I": "37",
+        "Ag": "28",
+        "Dex": "45",
+        "Int": "35",
+        "WP": "39",
+        "Fel": "46",
+        "W": "9"
+    },
+    "comment": ""
+}

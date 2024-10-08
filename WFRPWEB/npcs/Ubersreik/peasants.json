@@ -1,0 +1,30 @@
+{
+    "name": "Peasants",
+    "title": "",
+    "rank": "",
+    "stats": {
+        "M": 4,
+        "WS": 30,
+        "BS": 40,
+        "S": 40,
+        "T": 45,
+        "I": 30,
+        "Ag": 40,
+        "Dex": 40,
+        "Int": 30,
+        "WP": 35,
+        "Fel": 30,
+        "W": 15
+    },
+    "skills": [],
+    "talents": [],
+    "traits": [
+        "Weapon +3 Optional: Disease (any one)",
+        "Hardy",
+        "Infestation",
+        "Ranged +8 (50)",
+        "Tracker"
+    ],
+    "trappings": null,
+    "image": "peasants.png"
+}

@@ -1,0 +1,27 @@
+{
+    "name": "Hanna Lastkahn",
+    "rank": "SILVER 2",
+    "title": "Townswoman",
+    "skills": [],
+    "talents": [],
+    "traits": [
+        "Weapon (Fist) +3"
+    ],
+    "trappings": "2 Love Letters, Rose, Bottle of wine",
+    "image": "hanna-lastkahn.png",
+    "stats": {
+        "M": "4",
+        "WS": "31",
+        "BS": "33",
+        "S": "31",
+        "T": "31",
+        "I": "41",
+        "Ag": "36",
+        "Dex": "32",
+        "Int": "46",
+        "WP": "36",
+        "Fel": "40",
+        "W": "12"
+    },
+    "comment": "Goes under the name of Frau Schmidt"
+}

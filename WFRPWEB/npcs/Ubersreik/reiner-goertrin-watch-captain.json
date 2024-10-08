@@ -1,0 +1,50 @@
+{
+    "name": "Reiner Goertrin\nWatch Captain",
+    "title": "Unknown",
+    "rank": "Gold 1",
+    "stats": {
+        "M": 7,
+        "WS": 4,
+        "BS": 43,
+        "S": 34,
+        "T": 39,
+        "I": 43,
+        "Ag": 56,
+        "Dex": 24,
+        "Int": 27,
+        "WP": 64,
+        "Fel": 61,
+        "W": 46
+    },
+    "skills": [
+        "Charm 62",
+        "Cool 69",
+        "Dodge 66",
+        "Intimidate 65",
+        "Intuition 70",
+        "Leadership 62",
+        "Lore (Bogenhafen 71",
+        "Law 70)",
+        "Melee (Basic) 75",
+        "Perception 65"
+    ],
+    "talents": [
+        "Commanding Presence",
+        "Disarm 2",
+        "Fearless (Criminals)",
+        "Hardy 2",
+        "Menacing",
+        "Noble Blood",
+        "Public Speaker 4",
+        "Strike Mighty Blow",
+        "Strike to Stun ‘"
+    ],
+    "traits": [
+        "Armour (Sleeved Mail Shirt and Helmet) 3",
+        "Hatred (Criminals)",
+        "Prejudice (Lower Classes)",
+        "Weapon (Sword) +7 ‘"
+    ],
+    "trappings": "Basic Weapon (Sword), Helmet, Medallion (gold, with Bogenhafen’s coat of arms), Sleeved Mail Shirt",
+    "image": "reiner-goertrin\nwatch-captain.png"
+}

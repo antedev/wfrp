@@ -1,0 +1,24 @@
+{
+    "name": "Watch Sergeants",
+    "title": "",
+    "rank": "",
+    "stats": {
+        "M": 4,
+        "WS": 60,
+        "BS": 30,
+        "S": 45,
+        "T": 35,
+        "I": 40,
+        "Ag": 30,
+        "Dex": 30,
+        "Int": 35,
+        "WP": 45,
+        "Fel": 55,
+        "W": 20
+    },
+    "skills": [],
+    "talents": [],
+    "traits": [],
+    "trappings": null,
+    "image": "watch-sergeants.png"
+}

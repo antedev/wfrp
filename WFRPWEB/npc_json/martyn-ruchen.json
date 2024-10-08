@@ -1,0 +1,49 @@
+{
+    "name": "MARTYN RUCHEN",
+    "title": "CHAOS CULT LEADER AND\nCHAOS SORCERER",
+    "rank": "SILVER 3",
+    "stats": {
+        "M": 4,
+        "WS": 43,
+        "BS": 37,
+        "S": 32,
+        "T": 57,
+        "I": 43,
+        "Ag": 33,
+        "Dex": 33,
+        "Int": 43,
+        "WP": 57,
+        "Fel": 43,
+        "W": 28
+    },
+    "skills": [
+        "Channelling 75",
+        "Endurance 89",
+        "Intimidate 52",
+        "Language (Dark Tongue) 53",
+        "Language (Magick) 58",
+        "Melee (Basic) 53"
+    ],
+    "talents": [],
+    "traits": [
+        "Corrupted (Minor)",
+        "Cunning",
+        "Disease (Itching Pox)",
+        "Hardy (2)",
+        "Hatred (Khorne Worshippers)",
+        "Infected",
+        "Magic Resistance (1)",
+        "Mutation (Cosmetic: Maggoty Tail)",
+        "Spellcaster (Nurgle: Breath",
+        "Corrosive Blood",
+        "Reveal the Inner Beauty",
+        "Shock",
+        "Sleep)",
+        "Painless",
+        "Tail Attack (6)",
+        "Tough",
+        "Weapon (Dagger) +6"
+    ],
+    "trappings": "Many beautiful, blistering boils",
+    "image": "martyn-ruchen.png"
+}

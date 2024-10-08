@@ -1,0 +1,30 @@
+{
+    "name": "Thug Boss",
+    "title": "Unknown",
+    "rank": "Silver 3",
+    "stats": {
+        "M": 3,
+        "WS": 4,
+        "BS": 155,
+        "S": 30,
+        "T": 50,
+        "I": 50,
+        "Ag": 35,
+        "Dex": 35,
+        "Int": 30,
+        "WP": 35,
+        "Fel": 40,
+        "W": 45
+    },
+    "skills": [],
+    "talents": [],
+    "traits": [
+        "Animosity (Weaklings)",
+        "Belligerent",
+        "Hardy",
+        "Weapon (Basic) +8",
+        "Prejudice 4 (the Middle and Upper Classes) \\"
+    ],
+    "trappings": "ee Basic Weapon, Dagger ry yal",
+    "image": "thug-boss.png"
+}

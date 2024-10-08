@@ -1,0 +1,26 @@
+{
+    "name": "Burghers",
+    "title": "",
+    "rank": "",
+    "stats": {
+        "M": 4,
+        "WS": 30,
+        "BS": 30,
+        "S": 30,
+        "T": 35,
+        "I": 40,
+        "Ag": 40,
+        "Dex": 40,
+        "Int": 40,
+        "WP": 35,
+        "Fel": 45,
+        "W": 12
+    },
+    "skills": [],
+    "talents": [],
+    "traits": [
+        "Weapon +5 Optional: Disease (any one)"
+    ],
+    "trappings": null,
+    "image": "burghers.png"
+}

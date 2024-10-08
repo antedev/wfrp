@@ -1,91 +1,171 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{{ npc.name }} - NPC Details</title>
-    <link rel="stylesheet" href="/static/style.css">
-</head>
-<body>
-    <div class="container">
-        <h1>{{ npc.name }} - {{ npc.title }} ({{ npc.rank }})</h1>
-        <p><strong>Adventure:</strong> {{ npc.adventure }}</p>
+<!-- NPC Header with Flexbox for Image and Info -->
+<div class="npc-header">
 
-        <!-- NPC Stats -->
-        <table class="npc-stats">
-            <tr>
-                <th>M</th><th>WS</th><th>BS</th><th>S</th><th>T</th><th>I</th><th>Ag</th><th>Dex</th><th>Int</th><th>WP</th><th>Fel</th><th>W</th>
-            </tr>
-            <tr>
-                <td>{{ npc.stats.M }}</td>
-                <td>{{ npc.stats.WS }}</td>
-                <td>{{ npc.stats.BS }}</td>
-                <td>{{ npc.stats.S }}</td>
-                <td>{{ npc.stats.T }}</td>
-                <td>{{ npc.stats.I }}</td>
-                <td>{{ npc.stats.Ag }}</td>
-                <td>{{ npc.stats.Dex }}</td>
-                <td>{{ npc.stats.Int }}</td>
-                <td>{{ npc.stats.WP }}</td>
-                <td>{{ npc.stats.Fel }}</td>
-                <td>{{ npc.stats.W }}</td>
-            </tr>
-        </table>
+    <input type="hidden" id="npc-folder" value="{{ folder }}">
+    <!-- Name and Stats Section -->
+    <div class="npc-info">
+        <div class="section-header">
+            <!-- Name View/Edit Section -->
+            <div id="name-view">
+                <h2>{{ npc.name }}</h2>
+            </div>
+            <div id="name-edit" style="display: none;">
+                <h2><input type="text" id="npc-name" value="{{ npc.name }}"></h2>
+            </div>
 
-        <!-- List Skills -->
-        <h2>Skills</h2>
-        <p>
-            {% if npc.skills %}
-                {{ npc.skills|join(', ') }}
-            {% else %}
-                None
-            {% endif %}
-        </p>
+            <!-- Edit Button and Save Button -->
+            <button class="edit-btn" id="edit-btn" onclick="toggleEditAll()">
+                <i class="fas fa-pen"></i>
+            </button>
+            <button class="save-btn" id="save-btn" style="display: none;" onclick="saveAndExitEdit()">
+                <i class="fas fa-save"></i> Save
+            </button>
+        </div>
 
-        <!-- List Talents as a comma-separated list -->
-        <h2>Talents</h2>
-        <p>
-            {% if npc.talents %}
-                {{ npc.talents|join(', ') }}
-            {% else %}
-                None
-            {% endif %}
-        </p>
+        <!-- Title and Rank View/Edit Section -->
+        <div id="titlerank-view">
+            <p>{{ npc.title }} - {{ npc.rank }}</p>
+        </div>
+        <div id="titlerank-edit" style="display: none;">
+            <p><input type="text" id="npc-title" value="{{ npc.title }}"> -
+            <input type="text" id="npc-rank" value="{{ npc.rank }}"></p>
+        </div>
 
-        <!-- List Traits as a comma-separated list -->
-        <h2>Traits</h2>
-        <p>
-            {% if npc.traits %}
-                {{ npc.traits|join(', ') }}
-            {% else %}
-                None
-            {% endif %}
-        </p>
-
-        <h2>Trappings</h2>
-        <p>{{ npc.trappings or 'None' }}</p>
-
-        <!-- Expanded explanations for talents and traits -->
-        <h2>Talents & Traits Descriptions</h2>
-        <ul>
-            <!-- Talents Descriptions -->
-            {% if npc_talents %}
-                <li><strong>Talents:</strong></li>
-                {% for talent in npc_talents %}
-                    <li><strong>{{ talent.name }}:</strong> {{ talent.description or 'Description not found' }}</li>
-                {% endfor %}
-            {% endif %}
-
-            <!-- Traits Descriptions -->
-            {% if npc_traits %}
-                <li><strong>Traits:</strong></li>
-                {% for trait in npc_traits %}
-                    <li><strong>{{ trait.name }}:</strong> {{ trait.description or 'Description not found' }}</li>
-                {% endfor %}
-            {% endif %}
-        </ul>
-
-        <a href="/npcs" class="btn">Back to NPC List</a>
+        <!-- NPC Stats Section -->
+        <h3>Stats</h3>
+        <div id="stats-view">
+            <table class="npc-stats">
+                <tr>
+                    <th>M</th><th>WS</th><th>BS</th><th>S</th><th>T</th><th>I</th><th>Ag</th><th>Dex</th><th>Int</th><th>WP</th><th>Fel</th><th>W</th>
+                </tr>
+                <tr>
+                    <td>{{ npc.stats.M }}</td>
+                    <td>{{ npc.stats.WS }}</td>
+                    <td>{{ npc.stats.BS }}</td>
+                    <td>{{ npc.stats.S }}</td>
+                    <td>{{ npc.stats.T }}</td>
+                    <td>{{ npc.stats.I }}</td>
+                    <td>{{ npc.stats.Ag }}</td>
+                    <td>{{ npc.stats.Dex }}</td>
+                    <td>{{ npc.stats.Int }}</td>
+                    <td>{{ npc.stats.WP }}</td>
+                    <td>{{ npc.stats.Fel }}</td>
+                    <td>{{ npc.stats.W }}</td>
+                </tr>
+            </table>
+        </div>
     </div>
-</body>
-</html>
+
+    <!-- NPC Image with Editable Filename -->
+    <div class="npc-image">
+        <!-- If npc.image is not available, fallback to unknown.png -->
+        <img src="/npcs/{{ folder }}/{{ npc.image if npc.image else 'unknown.png' }}" alt="{{ npc.name }}" class="npc-img">
+        
+        <!-- Image Filename Edit Mode (placed under the image) -->
+        <div id="image-edit" style="display: none; margin-top: 10px;">
+            <label for="npc-image">Image Filename:</label>
+            <input type="text" id="npc-image" value="{{ npc.image if npc.image else 'unknown.png' }}">
+        </div>
+    </div>
+</div>
+
+<!-- Edit Mode for Stats -->
+<div id="stats-edit" style="display: none;">
+    <table class="npc-stats">
+        <tr>
+            <th>M</th><th>WS</th><th>BS</th><th>S</th><th>T</th><th>I</th><th>Ag</th><th>Dex</th><th>Int</th><th>WP</th><th>Fel</th><th>W</th>
+        </tr>
+        <tr>
+            <td><input type="text" id="npc-stats-M" value="{{ npc.stats.M }}"></td>
+            <td><input type="text" id="npc-stats-WS" value="{{ npc.stats.WS }}"></td>
+            <td><input type="text" id="npc-stats-BS" value="{{ npc.stats.BS }}"></td>
+            <td><input type="text" id="npc-stats-S" value="{{ npc.stats.S }}"></td>
+            <td><input type="text" id="npc-stats-T" value="{{ npc.stats.T }}"></td>
+            <td><input type="text" id="npc-stats-I" value="{{ npc.stats.I }}"></td>
+            <td><input type="text" id="npc-stats-Ag" value="{{ npc.stats.Ag }}"></td>
+            <td><input type="text" id="npc-stats-Dex" value="{{ npc.stats.Dex }}"></td>
+            <td><input type="text" id="npc-stats-Int" value="{{ npc.stats.Int }}"></td>
+            <td><input type="text" id="npc-stats-WP" value="{{ npc.stats.WP }}"></td>
+            <td><input type="text" id="npc-stats-Fel" value="{{ npc.stats.Fel }}"></td>
+            <td><input type="text" id="npc-stats-W" value="{{ npc.stats.W }}"></td>
+        </tr>
+    </table>
+</div>
+
+{% if npc.skills and npc.skills|length > 0 %}
+    <div id="skills-view">
+        <h3>Skills</h3>
+        <p>{{ npc.skills|join(', ') }}</p>
+    </div>
+{% endif %}
+    <div id="skills-edit" style="display: none;">
+        <h3>Skills</h3>
+        <textarea id="npc-skills">{{ npc.skills|join(', ') }}</textarea>
+    </div>
+
+{% if npc.talents and npc.talents|length > 0 %}
+    <div id="talents-view">
+        <h3>Talents</h3>
+        <p>{{ npc.talents|join(', ') }}</p>
+    </div>
+{% endif %}
+    <div id="talents-edit" style="display: none;">
+        <h3>Talents</h3>
+        <textarea id="npc-talents">{{ npc.talents|join(', ') }}</textarea>
+    </div>
+
+{% if npc.traits and npc.traits|length > 0 %}
+    <div id="traits-view">
+        <h3>Traits</h3>
+        <p>{{ npc.traits|join(', ') }}</p>
+    </div>
+{% endif %}
+    <div id="traits-edit" style="display: none;">
+        <h3>Traits</h3>
+        <textarea id="npc-traits">{{ npc.traits|join(', ') }}</textarea>
+    </div>
+
+{% if npc.trappings and npc.trappings|length > 0 %}
+    <div id="trappings-view">
+        <h3>Trappings</h3>
+        <p>{{ npc.trappings }}</p>
+    </div>
+{% endif %}
+    <div id="trappings-edit" style="display: none;">
+        <h3>Trappings</h3>
+        <textarea id="npc-trappings">{{ npc.trappings }}</textarea>
+    </div>
+
+
+{% if npc.comment and npc.comment|length > 0 %}
+    <div id="comment-view">
+        <h3>Comment</h3>
+        <p>{{ npc.comment }}</p>
+    </div>
+{% endif %}
+    <div id="comment-edit" style="display: none;">
+        <h3>Comment</h3>
+        <textarea id="npc-comment">{{ npc.comment }}</textarea>
+    </div>
+
+<!-- Save button -->
+<button class="save-btn" id="save-btn" style="display: none;" onclick="saveAndExitEdit()">Save</button>
+
+<!-- Talents & Traits Descriptions -->
+<br/><hr class="rounded">
+<ul>
+    {% if npc_talents %}
+        <li><h2>Talents descriptions:</h2></li>
+        {% for talent in npc_talents %}
+            <li><strong>{{ talent.name }}:</strong> {{ talent.description or 'Description not found' }}</li>
+        {% endfor %}
+    {% endif %}
+    {% if npc_traits %}
+        <li><h2>Traits descriptions:</h2></li>
+        {% for trait in npc_traits %}
+            <li><strong>{{ trait.name }}:</strong> {{ trait.description or 'Description not found' }}</li>
+        {% endfor %}
+    {% endif %}
+</ul>
+
+

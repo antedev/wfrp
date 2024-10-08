@@ -1,0 +1,27 @@
+{
+    "name": "Ol Bess",
+    "title": "Artisan",
+    "rank": "SILVER 1",
+    "stats": {
+        "M": "7",
+        "WS": "4",
+        "BS": "35",
+        "S": "35",
+        "T": "53",
+        "I": "45",
+        "Ag": "31",
+        "Dex": "32",
+        "Int": "48",
+        "WP": "28",
+        "Fel": "39",
+        "W": "28"
+    },
+    "skills": [],
+    "talents": [
+        "Prejudice (Dwarfs)",
+        "Weapon (Hammer) +9"
+    ],
+    "traits": [],
+    "trappings": "",
+    "image": "ol-bess.png"
+}

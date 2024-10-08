@@ -1,0 +1,32 @@
+{
+    "name": "Warehouse guard",
+    "rank": "Silver 1",
+    "title": "Guard",
+    "skills": [
+        "Animal Care 54",
+        "Animal Training (Dog) 75"
+    ],
+    "talents": [],
+    "traits": [
+        "Armour 1",
+        "Prejudice (Anyone in his bloody warehouse)",
+        "Weapon (Sword) +9"
+    ],
+    "trappings": "None",
+    "image": "guard.png",
+    "stats": {
+        "M": "4",
+        "WS": "55",
+        "BS": "35",
+        "S": "58",
+        "T": "59",
+        "I": "55",
+        "Ag": "55",
+        "Dex": "30",
+        "Int": "34",
+        "WP": "50",
+        "Fel": "50",
+        "W": "18"
+    },
+    "comment": ""
+}

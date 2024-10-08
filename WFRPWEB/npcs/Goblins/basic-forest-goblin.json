@@ -1,0 +1,42 @@
+{
+    "name": "Doom Diver",
+    "rank": "",
+    "title": "Forest Goblin",
+    "skills": [
+        "Athletics 65",
+        "Dodge 55",
+        "Perception 40",
+        "Short Sword +6 (40)",
+        "Ranged (Catapult) 50",
+        "Ranged (Throw) +7 (40)"
+    ],
+    "talents": [
+        "Accurate Shot",
+        "Flee!"
+    ],
+    "traits": [
+        "Afraid (Elves)",
+        "Animosity (Greenskins)",
+        "Arboreal",
+        "Infected",
+        "Night Vision",
+        "Weapon (Sword) +7"
+    ],
+    "trappings": "Leather and Wood Bat Wings, 2 Throwing Spears, Short Sword\t\t\t\t\t\t\t\t\t\t\t\n",
+    "image": "doom-diver.png",
+    "stats": {
+        "M": "4",
+        "WS": "35",
+        "BS": "35",
+        "S": "30",
+        "T": "30",
+        "I": "30",
+        "Ag": "55",
+        "Dex": "30",
+        "Int": "25",
+        "WP": "25",
+        "Fel": "20",
+        "W": "11"
+    },
+    "comment": ""
+}

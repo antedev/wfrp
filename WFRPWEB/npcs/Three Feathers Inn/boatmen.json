@@ -1,0 +1,29 @@
+{
+    "name": "Boatmen",
+    "rank": "Silver 2",
+    "title": "Boatman",
+    "skills": [
+        "Armour (Leathers) 1",
+        "Prejudice (Coachmen)",
+        "Weapon (Club) +8"
+    ],
+    "talents": [],
+    "traits": [],
+    "trappings": "None",
+    "image": "boatman.png",
+    "stats": {
+        "M": "4",
+        "WS": "32",
+        "BS": "37",
+        "S": "52",
+        "T": "54",
+        "I": "51",
+        "Ag": "47",
+        "Dex": "32",
+        "Int": "33",
+        "WP": "28",
+        "Fel": "35",
+        "W": "17"
+    },
+    "comment": ""
+}

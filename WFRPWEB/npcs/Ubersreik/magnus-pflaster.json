@@ -1,0 +1,40 @@
+{
+    "name": "Magnus Pflaster",
+    "title": "Human Road Sergeant",
+    "rank": "Silver 4",
+    "stats": {
+        "M": 4,
+        "WS": 4,
+        "BS": 45,
+        "S": 49,
+        "T": 37,
+        "I": 44,
+        "Ag": 46,
+        "Dex": 27,
+        "Int": 28,
+        "WP": 32,
+        "Fel": 39,
+        "W": 41
+    },
+    "skills": [
+        "Animal Care 42",
+        "Gossip 51",
+        "Intimidate 52",
+        "Leadership 56",
+        "Melee (Basic) 60",
+        "Perception 51",
+        "Ranged (Blackpowder) 64",
+        "Ride (Horse) 42"
+    ],
+    "talents": [
+        "Nose for Trouble"
+    ],
+    "traits": [
+        "Armour (Mail Shirt) 2",
+        "Prejudice (Criminals)",
+        "Ranged (Pistol) (20) +8",
+        "Weapon (Sword) +7"
+    ],
+    "trappings": "Pistol (with 10 Shots), Sword, Mail Shirt, Riding Horse with Saddle and Harness",
+    "image": "magnus-pflaster.png"
+}
