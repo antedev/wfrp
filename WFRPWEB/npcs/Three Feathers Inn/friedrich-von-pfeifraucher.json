@@ -1,0 +1,29 @@
+{
+    "name": "Friedrich von Pfiefraucher",
+    "rank": "Gold 5",
+    "title": "Magnateo",
+    "skills": [],
+    "talents": [
+        "Attractive 2"
+    ],
+    "traits": [
+        "Weapon (Fist) +2"
+    ],
+    "trappings": "Courtly Garb, Jewellery worth 45 GC, 6 Poems",
+    "image": "friedrich-von-pfeifraucher.png",
+    "stats": {
+        "M": "7",
+        "WS": "4",
+        "BS": "46",
+        "S": "38",
+        "T": "27",
+        "I": "25",
+        "Ag": "43",
+        "Dex": "27",
+        "Int": "38",
+        "WP": "46",
+        "Fel": "33",
+        "W": "52"
+    },
+    "comment": "Goes under the name Herr Schmidt"
+}

@@ -1,0 +1,27 @@
+{
+    "name": "Watch Recruits",
+    "title": "",
+    "rank": "",
+    "stats": {
+        "M": 4,
+        "WS": 40,
+        "BS": 30,
+        "S": 35,
+        "T": 30,
+        "I": 30,
+        "Ag": 30,
+        "Dex": 30,
+        "Int": 30,
+        "WP": 30,
+        "Fel": 35,
+        "W": 12
+    },
+    "skills": [],
+    "talents": [],
+    "traits": [
+        "Armour 1",
+        "Weapon +7"
+    ],
+    "trappings": null,
+    "image": "watch-recruits.png"
+}

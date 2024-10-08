@@ -1,0 +1,29 @@
+{
+    "name": "Rogues",
+    "rank": "",
+    "title": "",
+    "skills": [
+        "Stealth 55"
+    ],
+    "talents": [],
+    "traits": [
+        "Weapon +6"
+    ],
+    "trappings": "None",
+    "image": "rogues.png",
+    "stats": {
+        "M": "4",
+        "WS": "30",
+        "BS": "40",
+        "S": "40",
+        "T": "40",
+        "I": "45",
+        "Ag": "40",
+        "Dex": "45",
+        "Int": "35",
+        "WP": "30",
+        "Fel": "40",
+        "W": "12"
+    },
+    "comment": ""
+}

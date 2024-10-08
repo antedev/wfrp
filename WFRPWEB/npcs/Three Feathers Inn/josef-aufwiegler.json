@@ -1,0 +1,27 @@
+{
+    "name": "JOSEF AUFWIEGLER",
+    "rank": "BRASS 3",
+    "title": "Rabble Rouser",
+    "skills": [],
+    "talents": [],
+    "traits": [
+        "Weapon (Fist) +5"
+    ],
+    "trappings": "",
+    "image": "josef-aufwiegler.png",
+    "stats": {
+        "M": "4",
+        "WS": "45",
+        "BS": "40",
+        "S": "31",
+        "T": "28",
+        "I": "38",
+        "Ag": "37",
+        "Dex": "25",
+        "Int": "46",
+        "WP": "33",
+        "Fel": "73",
+        "W": "10"
+    },
+    "comment": ""
+}

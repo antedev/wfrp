@@ -1,0 +1,27 @@
+{
+    "name": "Bart",
+    "rank": "Brass 3",
+    "title": "Smuggler",
+    "skills": [],
+    "talents": [],
+    "traits": [
+        "Weapon (Bone Clubs) +8"
+    ],
+    "trappings": "Face Paint, Morrian Vestments",
+    "image": "bart.png",
+    "stats": {
+        "M": "4",
+        "WS": "34",
+        "BS": "31",
+        "S": "43",
+        "T": "45",
+        "I": "44",
+        "Ag": "38",
+        "Dex": "36",
+        "Int": "28",
+        "WP": "45",
+        "Fel": "28",
+        "W": "16"
+    },
+    "comment": "Under cover Morr priest"
+}

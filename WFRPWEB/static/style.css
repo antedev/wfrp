@@ -1,35 +1,43 @@
 body {
     font-family: Arial, Helvetica, sans-serif;  /* Use more readable fonts */
-    background-color: #f9f9f9;
+    background-color: #d8d6bb;
     margin: 0;
-    padding: 20px;
+    padding: 5px;
     display: flex;
     justify-content: center;
 }
 
 .container {
-    max-width: 800px;
+    max-width: 1000px;
     margin: 0 auto;
-    padding: 20px;
-    background-color: white;
+    padding: 15px;
+    background-color: #f3f3ed;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     border-radius: 8px;
     font-size: 16px;  /* Slightly larger font size */
     line-height: 1.6; /* Increase line height for readability */
 }
 
-h1, h2 {
+h1 {
     font-size: 24px;
     text-align: left;
     margin-bottom: 5px;
 }
 
 h2 {
+    text-align: left;
     font-size: 18px;
-    margin-top: 10px;
-    margin-bottom: 5px;
-    border-bottom: 1px solid #ddd;
-    padding-bottom: 5px;
+    margin-top: 5px;
+    margin-bottom: 3px;
+    /*border-bottom: 1px solid #ddd;*/
+    padding-bottom: 0px;
+}
+
+h3 {
+    font-size: 16px;
+    margin-top: 5px;
+    margin-bottom: 1px;
+    padding-bottom: 0px;
 }
 
 table.npc-stats {
@@ -55,8 +63,8 @@ ul li {
 }
 
 p {
-    margin: 10px 0;
-    line-height: 1.6;
+    margin: 5px 0;
+    line-height: 1.4;
 }
 
 .btn {
@@ -72,4 +80,140 @@ p {
 
 .btn:hover {
     background-color: #0056b3;
+}
+
+ /* Align h2 and buttons inline */
+ .section-header {
+    display: inline-flex;
+    align-items: center;
+    gap: 10px; /* Adjust space between h2 and button */
+}
+
+.edit-btn {
+    padding: 0;
+    background: none;
+    border: none;
+    cursor: pointer;
+    color: #4CAF50;  /* Subtle color for the icon */
+    font-size: 1.2em;  /* Slightly larger icon */
+    margin-left: 10px;  /* Space between the heading and the icon */
+    transition: color 0.3s ease;
+}
+
+.edit-btn:hover {
+    color: #45a049;  /* Darken the icon on hover */
+}
+
+.edit-btn:focus {
+    outline: none;
+}
+
+/* Table for stats */
+.npc-stats input {
+    width: 100%;
+    box-sizing: border-box;
+}
+
+textarea {
+    width: 100%;
+    min-height: 75px;
+    resize: vertical;
+    box-sizing: border-box;
+}
+
+/* Stat input boxes for editing stats */
+.npc-stats input {
+    width: 35px;  /* Set a fixed width suitable for two digits */
+    padding: 2px;  /* Small padding */
+    text-align: center;  /* Center-align the numbers */
+    font-size: 1em;  /* Adjust the font size to match the rest of the page */
+    box-sizing: border-box;  /* Ensure padding and borders are included in the width */
+}
+
+/* Styling for table cells in view mode */
+.npc-stats td {
+    width: 35px;  /* Match the width of the input fields */
+    text-align: center;  /* Center-align the text */
+}
+
+/* Adjust the left menu */
+.npc-list {
+    float: left;
+    width: 20%;  /* Reduce width from whatever it was */
+    max-height: 90vh;
+    overflow-y: auto;
+}
+
+/* Flexbox layout for NPC header (image + stats) */
+/* Flexbox layout for NPC header (image + stats) */
+.npc-header {
+    display: flex;
+    align-items: flex-start;
+    gap: 20px;
+}
+
+/* Image styles */
+.npc-image img {
+    width: 200px;
+    height: auto;
+    border-radius: 8px;
+}
+
+/* Section header styling */
+.section-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+/* Edit and Save Button styling */
+.edit-btn, .save-btn {
+    padding: 5px;
+    border: none;
+    background-color: transparent;
+    cursor: pointer;
+}
+
+.edit-btn i, .save-btn i {
+    font-size: 1.2em;
+    color: #4CAF50;
+}
+
+.edit-btn:hover i, .save-btn:hover i {
+    color: #45a049;
+}
+
+.save-btn {
+    display: none;
+}
+
+
+/* Adjust the left-side menu to make it narrower */
+.npc-list {
+    float: left;
+    width: 25%;  /* Reduce width from the original to give more space */
+    overflow-y: auto;
+}
+
+.npc-viewer {
+    float: right;
+    width: 70%;  
+    overflow-y: auto;
+}
+
+.npc-menu-item {
+    color:#02162c
+}
+
+details summary {
+    cursor: pointer;
+    font-weight: bold;
+}
+
+details[open] summary {
+    color: #064d0f; /* Change color when opened */
+}
+
+details ul {
+    margin-left: 20px;
 }

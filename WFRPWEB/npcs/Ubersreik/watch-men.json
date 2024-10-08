@@ -1,0 +1,29 @@
+{
+    "name": "Watch Men",
+    "title": "",
+    "rank": "",
+    "stats": {
+        "M": 5,
+        "WS": 4,
+        "BS": 50,
+        "S": 40,
+        "T": 40,
+        "I": 30,
+        "Ag": 30,
+        "Dex": 30,
+        "Int": 30,
+        "WP": 30,
+        "Fel": 35,
+        "W": 45
+    },
+    "skills": [],
+    "talents": [],
+    "traits": [
+        "Armour 2",
+        "Hardy",
+        "Prejudice (Criminals)",
+        "Weapon +8"
+    ],
+    "trappings": null,
+    "image": "watch-men.png"
+}

@@ -1,0 +1,40 @@
+{
+    "name": "Una Muhlmauer",
+    "rank": "Silver 2",
+    "title": "Townsman",
+    "skills": [
+        "Charm 57",
+        "Consume Alcohol 40",
+        "Cool 60",
+        "Gossip 57",
+        "Haggle 57",
+        "Ranged (Blackpowder) 39"
+    ],
+    "talents": [
+        "Etiquette (Labourers)",
+        "Gregarious 2"
+    ],
+    "traits": [
+        "Prejudice (Cheapskates",
+        "Rude Customers)",
+        "Ranged (Blunderbuss) (20) +8",
+        "Weapon (Improvised Flail*) +5"
+    ],
+    "trappings": "Blunderbuss (under Bar), Improvised Flail (made of two Bar-Stool Legs) “Despite being an Improvised Weapon, the Improvised Flail has the Distract and Wrap Weapon Qualities.",
+    "image": "una-muhlmauer.png",
+    "stats": {
+        "M": "2",
+        "WS": "4",
+        "BS": "41",
+        "S": "30",
+        "T": "40",
+        "I": "44",
+        "Ag": "42",
+        "Dex": "31",
+        "Int": "36",
+        "WP": "29",
+        "Fel": "27",
+        "W": "32"
+    },
+    "comment": ""
+}

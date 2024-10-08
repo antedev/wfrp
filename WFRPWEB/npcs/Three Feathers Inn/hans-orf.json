@@ -1,0 +1,28 @@
+{
+    "name": "Hans Orf",
+    "rank": "SILVER 2",
+    "title": "Townsmans",
+    "skills": [],
+    "talents": [],
+    "traits": [
+        "Prejudice (Thieves)",
+        "Weapon (Club) +7",
+        "Stuff"
+    ],
+    "trappings": "",
+    "image": "hans-orf.png",
+    "stats": {
+        "M": "4",
+        "WS": "34",
+        "BS": "35",
+        "S": "36",
+        "T": "38",
+        "I": "52",
+        "Ag": "43",
+        "Dex": "37",
+        "Int": "42",
+        "WP": "54",
+        "Fel": "52",
+        "W": "14"
+    }
+}

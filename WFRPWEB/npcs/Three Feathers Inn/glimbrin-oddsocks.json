@@ -1,0 +1,60 @@
+{
+    "name": "Glimbrin Oddsocks",
+    "rank": "Brass 5",
+    "title": "Master Thief",
+    "skills": [
+        "Athletics 76",
+        "Channelling (Ulgu) 70",
+        "Climb 50",
+        "Cool 80",
+        "Dodge 71",
+        "Endurance 39",
+        "Gamble 50",
+        "Gossip 40",
+        "Evaluate 53",
+        "Haggle 30",
+        "Intuition 75",
+        "Language (Ghassally) 45",
+        "Language (Magick) 45",
+        "Lore (Reikland) 50",
+        "Perception 75",
+        "Pick Lock 84",
+        "Sleight of Hand 86",
+        "Stealth (Rural) 64",
+        "Stealth (Urban) 74"
+    ],
+    "talents": [
+        "Fast Hands 3",
+        "Flee! 4",
+        "Suffuse with Ulgu",
+        "Mimic",
+        "Night Vision 2",
+        "Nimble Fingered",
+        "Read/Write",
+        "Sixth Sense",
+        "Small",
+        "Step Aside 2"
+    ],
+    "traits": [
+        "Hatred (Greenskins)",
+        "Prejudice (Witch Hunters)",
+        "Weapon (Dagger) +6"
+    ],
+    "trappings": "2 GC 17 shillings and 45d, Lock Picks, Sack, stolen good hidden in his quarters",
+    "image": "glimbrin-oddsocks.png",
+    "stats": {
+        "M": "5",
+        "WS": "7",
+        "BS": "4",
+        "S": "33",
+        "T": "23",
+        "I": "35",
+        "Ag": "24",
+        "Dex": "60",
+        "Int": "61",
+        "WP": "69",
+        "Fel": "40",
+        "W": "65"
+    },
+    "comment": ""
+}

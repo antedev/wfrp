@@ -1,0 +1,35 @@
+{
+    "name": "Bodyguards and Men-at-Arms",
+    "rank": "Silver 3",
+    "title": "Guards",
+    "skills": [
+        "Dodge 54",
+        "Melee (Basic) 61"
+    ],
+    "talents": [
+        "Strike to Stun"
+    ],
+    "traits": [
+        "Armour (Leathers and Plates) 3",
+        "Prejudice (Ambosstein Enemies)",
+        "Tough",
+        "Weapon (Sword) +8 Talents: Strike to Stun"
+    ],
+    "trappings": "",
+    "image": "guard.png",
+    "stats": {
+        "M": "4",
+        "WS": "51",
+        "BS": "35",
+        "S": "43",
+        "T": "62",
+        "I": "44",
+        "Ag": "46",
+        "Dex": "28",
+        "Int": "26",
+        "WP": "44",
+        "Fel": "28",
+        "W": "20"
+    },
+    "comment": "test"
+}

@@ -1,0 +1,45 @@
+{
+    "name": "Blackhearted Nurd",
+    "rank": "",
+    "title": "Forest Goblin Elite",
+    "skills": [
+        "Cool 50",
+        "Dodge 60",
+        "Intimidate 50",
+        "Leadership 25",
+        "Melee (Basic 55",
+        "Polearm 55)",
+        "Ride (Spider) 60"
+    ],
+    "talents": [
+        "Combat Aware",
+        "Combat Reflexes",
+        "Resolute"
+    ],
+    "traits": [
+        "Afraid (Elves)",
+        "Animosity (Greenskins)",
+        "Arboreal",
+        "Armour 2 (6)",
+        "Infected",
+        "Night Vision",
+        "Weapon (Spear) +8"
+    ],
+    "trappings": "Spider Carapace (counts as Mail), Hand Weapon, Shield, Spear",
+    "image": "nurd.png",
+    "stats": {
+        "M": "4",
+        "WS": "35",
+        "BS": "35",
+        "S": "40",
+        "T": "40",
+        "I": "40",
+        "Ag": "45",
+        "Dex": "30",
+        "Int": "25",
+        "WP": "35",
+        "Fel": "20",
+        "W": "15"
+    },
+    "comment": ""
+}

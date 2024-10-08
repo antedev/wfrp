@@ -1,0 +1,41 @@
+{
+    "name": "Bugshot",
+    "rank": "",
+    "title": "Forest Goblin Skirmisher",
+    "skills": [
+        "Dodge 55",
+        "Perception 40",
+        "Ranged (Bow) 50",
+        "Ride (Spider) 60"
+    ],
+    "talents": [
+        "Accurate Shot",
+        "FleeI"
+    ],
+    "traits": [
+        "Afraid (Elves)",
+        "Animosity (Greenskins)",
+        "Arboreal",
+        "Infected",
+        "Night Vision",
+        "Weapon (Sword) +7",
+        "Ranged (Bow) +7 (50)"
+    ],
+    "trappings": "Bow with 12 arrow dipped in Spider Venom, Hand Weapon",
+    "image": "forest-goblin-skirmisher.png",
+    "stats": {
+        "M": "4",
+        "WS": "25",
+        "BS": "40",
+        "S": "30",
+        "T": "30",
+        "I": "30",
+        "Ag": "45",
+        "Dex": "30",
+        "Int": "25",
+        "WP": "25",
+        "Fel": "20",
+        "W": "11"
+    },
+    "comment": ""
+}

@@ -1,0 +1,54 @@
+{
+    "name": "Ursula Kopfgeld",
+    "rank": "Silver 5",
+    "title": "Master Bounty Hunter",
+    "skills": [
+        "Animal Care 37",
+        "Athletics 61",
+        "Bribery 39",
+        "Charm 37",
+        "Climb 64",
+        "Endurance 65",
+        "Gossip 43",
+        "Hagele 41",
+        "Intimidate 69",
+        "Intuition 46",
+        "Language (Gospodarinyi) 37",
+        "Melee (Basic) 63",
+        "Outdoor Survival 45",
+        "Perception 46",
+        "Ride (Horse) 51",
+        "Track 46"
+    ],
+    "talents": [
+        "Accurate Shot 4",
+        "Doomed (Thine end comes as others go)",
+        "Shadow",
+        "Sprinter 2",
+        "Relentless",
+        "Very Strong",
+        "Very Resilient"
+    ],
+    "traits": [
+        "Weapon (Sword) +9",
+        "Prejudice (Boors)",
+        "Ranged (Crossbow) +9"
+    ],
+    "trappings": "Crossbow with 10 Bolts, Manacles, Rope (10 yards)",
+    "image": "ursula-kopfgeld.png",
+    "stats": {
+        "M": "4",
+        "WS": "47",
+        "BS": "48",
+        "S": "59",
+        "T": "50",
+        "I": "36",
+        "Ag": "46",
+        "Dex": "31",
+        "Int": "32",
+        "WP": "46",
+        "Fel": "27",
+        "W": "17"
+    },
+    "comment": ""
+}

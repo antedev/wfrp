@@ -1,0 +1,27 @@
+{
+    "name": "Servants at the Inn",
+    "rank": "Brass 3",
+    "title": "Menials",
+    "skills": [],
+    "talents": [],
+    "traits": [
+        "Weapon (Bucket/Tool/Tray/Mop) +5"
+    ],
+    "trappings": "None",
+    "image": "wolfgang.png",
+    "stats": {
+        "M": "4",
+        "WS": "31",
+        "BS": "32",
+        "S": "32",
+        "T": "39",
+        "I": "32",
+        "Ag": "43",
+        "Dex": "31",
+        "Int": "34",
+        "WP": "37",
+        "Fel": "34",
+        "W": "12"
+    },
+    "comment": "Wolfgang (depicted) is the one that tries to poison Bruno"
+}

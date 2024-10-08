@@ -1,0 +1,29 @@
+{
+    "name": "THOMAS PRAHMHANDLER",
+    "title": "MASTER Merchant",
+    "rank": "GOLD 1",
+    "stats": {
+        "M": "4",
+        "WS": "37",
+        "BS": "38",
+        "S": "39",
+        "T": "42",
+        "I": "42",
+        "Ag": "46",
+        "Dex": "35",
+        "Int": "50",
+        "WP": "44",
+        "Fel": "50",
+        "W": "15"
+    },
+    "skills": [],
+    "talents": [],
+    "traits": [
+        "Armour (Leathers) 1",
+        "Prejudice (Betrayers)",
+        "Ranged (Whip) +5 (6)",
+        "Weapon (Dagger) +6"
+    ],
+    "trappings": "27 shillings and 17d, Fine Clothing",
+    "image": "thomas-prahmhandler.png"
+}

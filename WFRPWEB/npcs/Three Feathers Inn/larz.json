@@ -1,0 +1,33 @@
+{
+    "name": "Larz",
+    "title": "Thug",
+    "rank": "BRASS 3",
+    "stats": {
+        "M": "4",
+        "WS": "50",
+        "BS": "33",
+        "S": "53",
+        "T": "43",
+        "I": "42",
+        "Ag": "41",
+        "Dex": "29",
+        "Int": "27",
+        "WP": "43",
+        "Fel": "28",
+        "W": "17"
+    },
+    "skills": [
+        "Dodge 56",
+        "Melee (Brawling) 60",
+        "(Melee Basic) 55"
+    ],
+    "talents": [],
+    "traits": [
+        "Armour (Leathers) 1",
+        "Prejudice (Nobles)",
+        "Weapon (Club) +9",
+        "Weapon (Knuckledusters) +7"
+    ],
+    "trappings": "",
+    "image": "larz.png"
+}

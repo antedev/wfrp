@@ -1,0 +1,52 @@
+{
+    "name": "GUSTAF RECHTSHANDLER",
+    "title": "BARRISTER",
+    "rank": "GOLD 1",
+    "stats": {
+        "M": "4",
+        "WS": "26",
+        "BS": "26",
+        "S": "28",
+        "T": "29",
+        "I": "64",
+        "Ag": "31",
+        "Dex": "48",
+        "Int": "62",
+        "WP": "51",
+        "Fel": "42",
+        "W": "11"
+    },
+    "skills": [
+        "Bribery 61",
+        "Consume Alcohol 34",
+        "Endurance 39",
+        "Entertain (Speeches) 62",
+        "Haggle 61",
+        "Language (Classical) 79",
+        "Language (Guilder) 73",
+        "Lore (Law) 87",
+        "Lore (Nuln) 72",
+        "Lore (Theology) 67",
+        "Perception 69",
+        "Research 78",
+        "Secret Signs (Guilder) 73"
+    ],
+    "talents": [
+        "Argumentative 2",
+        "Blather",
+        "Bookish",
+        "Doomed (Thy end shalt be pricklyI)",
+        "Etiquette (Guilder)",
+        "Etiquette (Scholar) 4",
+        "Read/Write",
+        "Savvy",
+        "Speedreader 2",
+        "Suave"
+    ],
+    "traits": [
+        "Prejudice (Those Who Contradict Him)",
+        "Weapon (Dagger) +5"
+    ],
+    "trappings": "Lawyer’s Robes, Towering Sense of Self Importance, Wig",
+    "image": "gustaf-rechtshandler.png"
+}

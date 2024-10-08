@@ -1,0 +1,28 @@
+{
+    "name": "Arwin, Franka, Gorrof, Miltrud\nHuman Guards",
+    "title": "Unknown",
+    "rank": "Silver 2",
+    "stats": {
+        "M": 2,
+        "WS": 4,
+        "BS": 49,
+        "S": 31,
+        "T": 54,
+        "I": 52,
+        "Ag": 43,
+        "Dex": 43,
+        "Int": 29,
+        "WP": 28,
+        "Fel": 30,
+        "W": 27
+    },
+    "skills": [],
+    "talents": [],
+    "traits": [
+        "Armour (Leathers) 1",
+        "Prejudice (Anyone their employers do not like)",
+        "Weapon (Various) +7"
+    ],
+    "trappings": null,
+    "image": "arwin-franka-gorrof-miltrud\nhuman-guards.png"
+}

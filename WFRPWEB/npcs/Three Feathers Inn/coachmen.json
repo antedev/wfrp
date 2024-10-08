@@ -1,0 +1,31 @@
+{
+    "name": "Coachmen",
+    "rank": "Silver 2",
+    "title": "Coachman",
+    "skills": [
+        "Ranged (Blunderbuss) +8 (20)",
+        "Ranged (Whip) +6 (6)"
+    ],
+    "talents": [],
+    "traits": [
+        "Prejudice (Boatmen)",
+        "Weapon (Club) +7"
+    ],
+    "trappings": "",
+    "image": "coachman.png",
+    "stats": {
+        "M": "4",
+        "WS": "33",
+        "BS": "54",
+        "S": "31",
+        "T": "45",
+        "I": "36",
+        "Ag": "50",
+        "Dex": "38",
+        "Int": "29",
+        "WP": "55",
+        "Fel": "29",
+        "W": "16"
+    },
+    "comment": ""
+}
