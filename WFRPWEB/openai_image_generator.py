@@ -2,7 +2,7 @@ import requests
 import os
 import json
 
-API_KEY = "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"
+API_KEY = "redacted"
 URL = 'https://api.openai.com/v1/images/generations'
 
 headers = {
