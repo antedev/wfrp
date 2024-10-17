@@ -1,5 +1,5 @@
 body {
-    font-family: Arial, Helvetica, sans-serif;  /* Use more readable fonts */
+    font-family: Arial, Helvetica, sans-serif;
     background-color: #d8d6bb;
     margin: 0;
     padding: 5px;
@@ -8,36 +8,34 @@ body {
 }
 
 .container {
-    max-width: 1000px;
+    display: flex;
+    flex-direction: row;
+    max-width: 1200px;
     margin: 0 auto;
     padding: 15px;
     background-color: #f3f3ed;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     border-radius: 8px;
-    font-size: 16px;  /* Slightly larger font size */
-    line-height: 1.6; /* Increase line height for readability */
+    font-size: 16px;
+    line-height: 1.6;
+    align-items: flex-start; /* This aligns the items at the top */
 }
 
-h1 {
-    font-size: 24px;
+h1, h2, h3 {
     text-align: left;
     margin-bottom: 5px;
 }
 
+h1 {
+    font-size: 24px;
+}
+
 h2 {
-    text-align: left;
     font-size: 18px;
-    margin-top: 5px;
-    margin-bottom: 3px;
-    /*border-bottom: 1px solid #ddd;*/
-    padding-bottom: 0px;
 }
 
 h3 {
     font-size: 16px;
-    margin-top: 5px;
-    margin-bottom: 1px;
-    padding-bottom: 0px;
 }
 
 table.npc-stats {
@@ -59,15 +57,10 @@ ul {
 
 ul li {
     margin-bottom: 5px;
-    line-height: 1.5; /* Added line height for better readability in lists */
+    line-height: 1.5;
 }
 
-p {
-    margin: 5px 0;
-    line-height: 1.4;
-}
-
-.btn {
+.btn, .save-btn {
     display: inline-block;
     margin-top: 20px;
     padding: 10px 15px;
@@ -76,97 +69,13 @@ p {
     text-decoration: none;
     border-radius: 5px;
     text-align: center;
+    cursor: pointer;
 }
 
-.btn:hover {
+.btn:hover, .save-btn:hover {
     background-color: #0056b3;
 }
 
- /* Align h2 and buttons inline */
- .section-header {
-    display: inline-flex;
-    align-items: center;
-    gap: 10px; /* Adjust space between h2 and button */
-}
-
-.edit-btn {
-    padding: 0;
-    background: none;
-    border: none;
-    cursor: pointer;
-    color: #4CAF50;  /* Subtle color for the icon */
-    font-size: 1.2em;  /* Slightly larger icon */
-    margin-left: 10px;  /* Space between the heading and the icon */
-    transition: color 0.3s ease;
-}
-
-.edit-btn:hover {
-    color: #45a049;  /* Darken the icon on hover */
-}
-
-.edit-btn:focus {
-    outline: none;
-}
-
-/* Table for stats */
-.npc-stats input {
-    width: 100%;
-    box-sizing: border-box;
-}
-
-textarea {
-    width: 100%;
-    min-height: 75px;
-    resize: vertical;
-    box-sizing: border-box;
-}
-
-/* Stat input boxes for editing stats */
-.npc-stats input {
-    width: 35px;  /* Set a fixed width suitable for two digits */
-    padding: 2px;  /* Small padding */
-    text-align: center;  /* Center-align the numbers */
-    font-size: 1em;  /* Adjust the font size to match the rest of the page */
-    box-sizing: border-box;  /* Ensure padding and borders are included in the width */
-}
-
-/* Styling for table cells in view mode */
-.npc-stats td {
-    width: 35px;  /* Match the width of the input fields */
-    text-align: center;  /* Center-align the text */
-}
-
-/* Adjust the left menu */
-.npc-list {
-    float: left;
-    width: 20%;  /* Reduce width from whatever it was */
-    max-height: 90vh;
-    overflow-y: auto;
-}
-
-/* Flexbox layout for NPC header (image + stats) */
-/* Flexbox layout for NPC header (image + stats) */
-.npc-header {
-    display: flex;
-    align-items: flex-start;
-    gap: 20px;
-}
-
-/* Image styles */
-.npc-image img {
-    width: 200px;
-    height: auto;
-    border-radius: 8px;
-}
-
-/* Section header styling */
-.section-header {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-}
-
-/* Edit and Save Button styling */
 .edit-btn, .save-btn {
     padding: 5px;
     border: none;
@@ -183,37 +92,305 @@ textarea {
     color: #45a049;
 }
 
-.save-btn {
-    display: none;
+/* Image styles */
+.npc-image img {
+    width: 200px;
+    height: auto;
+    border-radius: 8px;
+}
+.npc-image-link img {
+    width: 20px;
+    height: auto;
+    border-radius: 2px;
 }
 
-
-/* Adjust the left-side menu to make it narrower */
 .npc-list {
-    float: left;
-    width: 25%;  /* Reduce width from the original to give more space */
-    overflow-y: auto;
+    flex: 1; /* Let it grow naturally */
+    max-width: 300px;  /* Increase the width to 300px */
+    padding-right: 15px;
 }
 
 .npc-viewer {
-    float: right;
-    width: 70%;  
-    overflow-y: auto;
+    flex: 3; /* Take the remaining space */
+    min-width: 750px;
+    padding-left: 20px;
 }
 
-.npc-menu-item {
-    color:#02162c
+.npc-image {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
+.npc-stats td, .npc-stats input {
+    width: 35px;
+    text-align: center;
+}
+
+/* Collapsible section */
 details summary {
     cursor: pointer;
     font-weight: bold;
 }
 
 details[open] summary {
-    color: #064d0f; /* Change color when opened */
+    color: #064d0f;
 }
 
 details ul {
     margin-left: 20px;
+}
+
+/* General Inputs */
+.npc-input {
+    width: 100%;
+    padding: 5px;
+    margin-bottom: 10px;
+    box-sizing: border-box;
+}
+
+/* Styling for Auto-Complete Suggestion Box */
+.suggestion-box {
+    border: 1px solid #ccc;
+    max-height: 100px;
+    overflow-y: auto;
+    background: #fff;
+    position: absolute;
+    z-index: 1000;
+    width: calc(100% - 10px);
+    margin-top: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.suggestion-item {
+    padding: 5px;
+    cursor: pointer;
+    font-size: 0.9em;
+}
+
+.suggestion-item:hover {
+    background-color: #f0f0f0;
+}
+
+.npc-header {
+    display: flex;
+    justify-content: space-between; /* Aligns name to the left and image to the right */
+    align-items: center;
+}
+
+.npc-name {
+    font-size: 24px;
+}
+
+.npc-header h1 {
+    margin: 0;
+    flex: 1;
+}
+
+.npc-titlerank {
+    font-size: 16px;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+.npc-headline {
+    font-variant: small-caps;
+    font-weight: bold;
+    font-size: 14px;
+
+}
+
+/* Style for the image itself */
+.npc-img {
+    width: 100%;                     /* Make the image fill the max width */
+    height: auto;                    /* Maintain aspect ratio */
+    border-radius: 8px;              /* Add some rounded corners */
+}
+
+.npc-info-box {
+    display: flex; /* Flex layout for the whole box */
+    justify-content: space-between; /* Space between content and image */
+    align-items: flex-start; /* Align items at the top */
+    padding: 20px;
+    background-color: #f9f9f9;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    margin-bottom: 20px;
+    height: auto; /* Ensure the height is flexible */
+}
+
+.npc-info {
+    display: flex;
+    flex-direction: column;  /* Arrange elements vertically */
+    justify-content: space-between; /* Space between summary and tags */
+    flex-grow: 1;  /* Allow npc-info to take up available space */
+    padding-right: 20px;
+}
+
+.npc-summary {
+    flex-grow: 1; /* Ensure the summary takes up the available space */
+}
+
+.npc-tags-container {
+    margin-top: auto auto;  /* Push the tags container to the bottom */
+    padding-top: 10px;  /* Add some spacing */
+}
+
+/* Style for the image on the right */
+.npc-image {
+    flex: 1; /* Take up one-third of the width */
+    max-width: 200px; /* Limit the size of the image */
+    text-align: right; /* Ensure the image is aligned to the right */
+}
+
+/* More Info Box */
+.npc-game-data {
+    padding: 5px;
+    background-color: #f3f3ed; /* Optional background color */
+    border: 1px solid #ccc;
+    border-radius: 8px;
+}
+
+/* More Info Box */
+.npc-story-info {
+    padding: 5px;
+    background-color: #f3f3ed; /* Optional background color */
+    border: 1px solid #ccc;
+    border-radius: 8px;
+}
+
+.npc-referred-by {
+    padding: 5px;
+    flex-basis: 50%;
+    flex-grow: 1;
+ }
+
+.npc-tags-container {
+    padding: 5px;
+    flex-basis: 50%;
+    flex-grow: 1;
+}
+
+.placeholder {
+    color: #888; /* Lighter color for placeholder text */
+}
+
+/* Make tag text bold */
+.tagify__tag {
+    font-weight: bold;
+}
+
+/* Rounded corners for Tagify tags */
+.tagify__tag > div {
+    border-radius: 12px; /* Apply rounded corners */
+}
+
+.tagify__input {
+    display: none;
+}
+
+/* Left sidebar for the tag cloud */
+.tag-cloud {
+    flex: 0 0 150px;  /* Set a fixed width for the sidebar */
+    padding: 10px;
+    background-color: #f4f4f4;
+    border-right: 1px solid #ddd;
+    margin-right: 20px;
+}
+
+/* Style for active tag buttons */
+.tag-button.active {
+    background-color: #66b2ff; /* Highlight active tags */
+    color: white;
+}
+
+a {
+    font-variant: small-caps;
+    font-weight: bold;
+    color: #007BFF;
+    font-size: 90%;
+    text-decoration: none;
+}
+
+/* Style for inactive tag buttons */
+.tag-button {
+    display: inline-block;
+    background-color: #e0e0e0;
+    border: none;
+    padding: 5px 10px;
+    margin: 5px 5px 0 0; /* Add spacing between tag buttons */
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.2s;
+    text-align: center;
+    width: auto;
+}
+
+.tag-button:hover {
+    background-color: #c0c0c0;
+}
+
+
+/* Modal (hidden by default) */
+.modal {
+    display: none;
+    position: fixed;
+    z-index: 1000;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+/* Modal Content */
+.modal-content {
+    background-color: #fefefe;
+    margin: 15% auto;
+    padding: 20px;
+    border: 1px solid #888;
+    width: 400px;
+    border-radius: 8px;
+    text-align: center;
+}
+
+/* Close Button */
+.close {
+    color: #aaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.close:hover,
+.close:focus {
+    color: black;
+}
+
+/* Buttons */
+.modal-buttons {
+    margin-top: 20px;
+}
+
+#npc-name-input {
+    width: 80%;
+    padding: 10px;
+    margin-top: 10px;
+}
+
+.loader {
+    border: 4px solid #f3f3f3;
+    border-radius: 50%;
+    border-top: 4px solid #3498db;
+    width: 40px;
+    height: 40px;
+    animation: spin 1s linear infinite;
+    margin-top: 20px;
+}
+
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
 }

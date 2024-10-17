@@ -1,0 +1,90 @@
+<div class="create-npc-form">
+    <form action="/save-npc" method="POST">
+        <div class="npc-header">
+            <!-- Name and Rank Section -->
+            <div class="npc-info">
+                <div class="section-header">
+                    <label for="name">Name:</label>
+                    <input type="text" id="name" name="name" class="npc-input">
+                    
+                    <label for="title">Title:</label>
+                    <input type="text" id="title" name="title" class="npc-input">
+
+                    <label for="rank">Rank:</label>
+                    <input type="text" id="rank" name="rank" class="npc-input">
+                </div>
+            </div>
+        </div>
+
+        <!-- Stats Section -->
+        <h3>Stats</h3>
+        <div class="npc-stats">
+            <table class="npc-stats">
+                <tr>
+                    <th>M</th><th>WS</th><th>BS</th><th>S</th><th>T</th><th>I</th><th>Ag</th><th>Dex</th><th>Int</th><th>WP</th><th>Fel</th><th>W</th>
+                </tr>
+                <tr>
+                    <td><input type="text" name="M" placeholder="4" value="4" class="npc-stats-input"></td>
+                    <td><input type="text" name="WS" placeholder="30" value="30" class="npc-stats-input"></td>
+                    <td><input type="text" name="BS" placeholder="30" value="30" class="npc-stats-input"></td>
+                    <td><input type="text" name="S" placeholder="30" value="30" class="npc-stats-input"></td>
+                    <td><input type="text" name="T" placeholder="30" value="30" class="npc-stats-input"></td>
+                    <td><input type="text" name="I" placeholder="30" value="30" class="npc-stats-input"></td>
+                    <td><input type="text" name="Ag" placeholder="30" value="30" class="npc-stats-input"></td>
+                    <td><input type="text" name="Dex" placeholder="30" value="30" class="npc-stats-input"></td>
+                    <td><input type="text" name="Int" placeholder="30" value="30" class="npc-stats-input"></td>
+                    <td><input type="text" name="WP" placeholder="30" value="30" class="npc-stats-input"></td>
+                    <td><input type="text" name="Fel" placeholder="30" value="30" class="npc-stats-input"></td>
+                    <td><input type="text" name="W" placeholder="10" value="10" class="npc-stats-input"></td>
+                </tr>
+            </table>
+        </div>
+
+        <!-- Talents Section -->
+        <label for="talents">Talents:</label>
+        <input type="text" id="talents" name="talents" class="npc-input">
+        
+        <!-- Traits Section -->
+        <label for="traits">Traits:</label>
+        <input type="text" id="traits" name="traits" class="npc-input">
+
+        <!-- Image Section -->
+        <div class="npc-image">
+            <label for="image">Image Filename:</label>
+            <input type="text" id="image" name="image" placeholder="unknown.png" class="npc-input">
+        </div>
+
+        <button type="submit" class="btn save-btn">Save NPC</button>
+    </form>
+</div>
+
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+        fetch('/static/data/talents.json')
+            .then(response => response.json())
+            .then(data => {
+                const talents = data.map(talent => talent.name);
+                const talentsInput = document.getElementById("talents");
+
+                talentsInput.addEventListener("input", function() {
+                    const userInput = talentsInput.value.toLowerCase();
+                    const suggestions = talents.filter(talent => talent.toLowerCase().includes(userInput));
+                    const suggestionBox = document.getElementById("talent-suggestions") || document.createElement("div");
+                    suggestionBox.id = "talent-suggestions";
+                    suggestionBox.classList.add("suggestion-box");
+                    suggestionBox.innerHTML = "";
+                    suggestions.forEach(suggestion => {
+                        const suggestionItem = document.createElement("div");
+                        suggestionItem.textContent = suggestion;
+                        suggestionItem.classList.add("suggestion-item");
+                        suggestionItem.addEventListener("click", function() {
+                            talentsInput.value = suggestion;
+                            suggestionBox.innerHTML = "";
+                        });
+                        suggestionBox.appendChild(suggestionItem);
+                    });
+                    talentsInput.parentNode.appendChild(suggestionBox);
+                });
+            });
+    });
+</script>

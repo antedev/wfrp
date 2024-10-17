@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tagify and Tribute Example</title>
+    
+    <!-- Include Tagify CSS and JavaScript -->
+    <link href="https://cdn.jsdelivr.net/npm/@yaireo/tagify/dist/tagify.css" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/@yaireo/tagify"></script>
+    
+    <!-- Include Tribute.js -->
+    <link href="https://cdn.jsdelivr.net/npm/tributejs/dist/tribute.css" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/tributejs"></script>
+
+    <style>
+        .input-field {
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="input-field">
+            <label for="npc-name">Name:</label><br>
+            <input type="text" id="npc-name" name="npc-name" />
+        </div>
+
+        <div class="input-field">
+            <label for="npc-comment">Comment:</label><br>
+            <textarea id="npc-comment" name="npc-comment"></textarea>
+        </div>
+
+        <div class="input-field">
+            <label for="npc-talents">Talents:</label><br>
+            <input type="text" id="npc-talents" name="npc-talents" />
+        </div>
+
+        <div class="input-field">
+            <label for="npc-tags">Tags:</label><br>
+            <input type="text" id="npc-tags" name="npc-tags" />
+        </div>
+    </div>
+
+    <script>
+        // Initialize Tribute for the Comment field to support @mentions
+        const tribute = new Tribute({
+            values: [
+                { key: 'NPC1', value: 'NPC1' },
+                { key: 'NPC2', value: 'NPC2' },
+                { key: 'NPC3', value: 'NPC3' }
+            ],
+            lookup: 'key',
+            fillAttr: 'value'
+        });
+        tribute.attach(document.getElementById('npc-comment'));
+
+        // Initialize Tagify for the Talents field (restricted to provided values)
+        const talentInput = document.getElementById('npc-talents');
+        const talents = ["Talent1", "Talent2", "Talent3"];
+        new Tagify(talentInput, {
+            whitelist: talents,
+            enforceWhitelist: true
+        });
+
+        // Initialize Tagify for the Tags field (allow adding new tags)
+        const tagsInput = document.getElementById('npc-tags');
+        const tags = ["Tag1", "Tag2", "Tag3"];
+        new Tagify(tagsInput, {
+            whitelist: tags,
+            enforceWhitelist: false
+        });
+    </script>
+</body>
+</html>
