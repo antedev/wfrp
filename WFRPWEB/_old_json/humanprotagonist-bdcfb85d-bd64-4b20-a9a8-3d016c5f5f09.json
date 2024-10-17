@@ -1,0 +1,44 @@
+{
+    "id": "bdcfb85d-bd64-4b20-a9a8-3d016c5f5f09",
+    "name": "Human Protagonist",
+    "rank": "Silver 1",
+    "title": "Unknown",
+    "skills": [
+        "Cool 65",
+        "Dodge 56",
+        "Intimidate 54",
+        "Melee (Basic) 52",
+        "Ride (Horse) 51"
+    ],
+    "talents": [
+        "Coolheaded",
+        "Dirty Fighting",
+        "Disarm",
+        "Doomed (Thine Chest Caved in with Glistering Prizes)",
+        "Strike Mighty Blow",
+        "Strike to Injure",
+        "Strike to Stun"
+    ],
+    "traits": [
+        "Armour (Leathers) 1",
+        "Prejudice (Those who look weak)",
+        "Weapon (Sword) +8"
+    ],
+    "trappings": "50/36, Leather Jack and Leggings (all black), Sword",
+    "image": "--human-protagonist.png",
+    "stats": {
+        "M": "4",
+        "WS": "42",
+        "BS": "23",
+        "S": "44",
+        "T": "39",
+        "I": "45",
+        "Ag": "46",
+        "Dex": "24",
+        "Int": "34",
+        "WP": "45",
+        "Fel": "24",
+        "W": "12"
+    },
+    "comment": ""
+}

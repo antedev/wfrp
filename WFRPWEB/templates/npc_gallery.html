@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NPC List and Viewer</title>
+    <link rel="stylesheet" href="/static/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <!-- Include Tagify CSS and JavaScript -->
+    <link href="https://cdn.jsdelivr.net/npm/@yaireo/tagify/dist/tagify.css" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/@yaireo/tagify"></script>
+    
+    <!-- Include Tribute.js -->
+    <link href="https://cdn.jsdelivr.net/npm/tributejs/dist/tribute.css" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/tributejs"></script>
+    <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+    <script src="/static/npc.js"></script> 
+</head>
+
+<body>
+    <div class="container">
+
+         <!-- Left Sidebar for Tag Cloud -->
+        <div class="tag-cloud">
+            <h2>Filter by Tag</h2>
+            <div id="tag-cloud-container">
+                <!-- Tags will be dynamically loaded here -->
+            </div>
+        </div>
+
+       
+        <div class="npc-viewer" id="npc-gallery">
+                {% for npc in npcs %}
+                        <a class="npc_menu_item" href="javascript:void(0)" onclick="loadNPCData('{{ npc.id }}');" data-id="{{ npc['id'] }}">
+                            <img src="src=/npcs/images/{{ npc.image if npc.image else 'unknown.png' }}" alt="{{ npc.name }}" class="npc-img">
+                        </a>
+                {% endfor %}
+           
+        </div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,30 @@
+{
+    "id": "eb60d4c7-9393-472c-a15e-93b4d718359b",
+    "name": "Dockland Drinkers",
+    "rank": "",
+    "title": "",
+    "skills": [],
+    "talents": [],
+    "traits": [
+        "Armour (Leathers) 1",
+        "Weapon (varies) +8",
+        "Weapon (Fists) +3"
+    ],
+    "trappings": "Boat Hook, Gang Colours, Hand Weapon, Leather Jack",
+    "image": "dockland-drinkers.png",
+    "stats": {
+        "M": "4",
+        "WS": "41",
+        "BS": "30",
+        "S": "40",
+        "T": "44",
+        "I": "42",
+        "Ag": "31",
+        "Dex": "36",
+        "Int": "29",
+        "WP": "27",
+        "Fel": "32",
+        "W": "14"
+    },
+    "comment": ""
+}
