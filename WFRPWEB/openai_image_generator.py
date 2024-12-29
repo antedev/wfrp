@@ -2,7 +2,7 @@ import requests
 import os
 import json
 
-API_KEY = "redacted"
+
 URL = 'https://api.openai.com/v1/images/generations'
 
 headers = {
